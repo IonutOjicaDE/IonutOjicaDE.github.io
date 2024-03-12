@@ -91,37 +91,9 @@ Gata:
 ##### Dacă sursa campaniei este un segment (sau mai multe)
 Tot în ideea de mai sus este nevoie de gândit, doar că va fi nevoie să clonăm şi segmentul.
 
-### Capcană: Acţiunea "Înlatură din campania aceasta"
+### Capcana de la acţiunea "Înlatur din campania aceasta"
 
-Se aplica atunci cand: campania sursei este un segment cu filtru.
-
-Urmarile pot fi nasoale: se mareste baza de date fara limita. Rezolvarea cea mai simpla si rapida este: sa reinstalezi o copie de rezerva din ziua in care Mautic functiona normal.
-
-**Suntem in aceasta situatie cand:**
-1. avem un segment cu filtru - deci segmentul va aduna contacte ca urmare a unui filtru definit in segment
-2. avem o campanie care are ca sursa segmentul - deci pentru fiecare contact care este in segment, va porni si campania
-3. in campanie avem actiunea "inlatura din campania aceasta" - DAR contactul fiind inca in segment, contactul va fi adaugat imediat din nou in campanie
-
-La 2 si 3 este o bucla infinita: contactul este adaugat in campanie, apoi este inlaturat si de la capat.
-
-Daca intre 2 si 3 nu este nici o perioada de asteptare, atunci actiunile acestea se vor produce la fiecare minut.
-
-> Faptul că se execută nu este în sine greşit, ci faptul că toate aceste acţiuni se salvează în istoricul contactului şi al campaniei. În acest fel mărimea bazei de date creşte. Cu cât sunt mai multe contacte în segment, cu atât mai repete creşte mărimea bazei de date.
-{: .prompt-tip }
-
-**Ce s-a intamplat in cazul meu concret**
-* conform unui filtru intrau contactele intr-un segment
-* in campanie aveam cateva conditii si actiuni
-* logica conditiilor avea un bug, astfel ca a fost un moment in care prima conditie era falsa si a doua era falsa si duceau la actiunea inlatura din campanie
-* si imediat ce contactul intra in campanie, cele 2 conditii erau din nou false, astfel ca era din nou inlaturat din campanie
-* si contactul fiind inca in segment, era adaugat din nou la campanie
-* si pana la actiunea "inlatura din campanie" erau 2 conditii si vreo 5 alte actiuni
-* si in segment erau cam 300 de contacte
-* numarul de evenimente pentru fiecare contact: cel putin 9 (adica: adauga in campanie, cele 2 conditii + cele 8 actiuni, apoi inlatura din campanie)
-* numarul de evenimente inregistrate pe minut pentru cele 300 de contacte: 9 x 300 = 2.700 evenimente / minut = 162K evenimente pe ora = 3.8M evenimente pe zi
-* am observat acest lucru dupa ca. 36 de ore, deci ca. 5.8M evenimente in total adaugate in baza de date
-* serverul era ocupat foarte mult cu optimizarea bazei de date. Si folosea cele 2 CPU ale serverului. Nu mai puteam executa nimic din Mautic.
-* rezolvarea a fost: am restabilit o copie de rezerva care avea inca marimea normala, insemnand ca pe la inceputul caderii serverului. Am oprit campania si am modificat-o pentru a evita situatia. Si a fost ok.
+[Vezi detaliat aici]({% post_url 2024-03-11-campanii-capcana-inlatura-din-campanie %})
 
 Inca de adaugat: Cum descoperi daca ai deja contacte cu aceeasi adresa de email?
 

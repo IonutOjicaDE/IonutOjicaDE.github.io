@@ -16,6 +16,10 @@ Contactele adăugate prin formulare nu se vor duplica.
 
 Mautic ne va atenţiona de acest lucru, dar ne va lăsa totuşi să creăm contactul.
 
+![Mautic ne arată că un contact cu aceeaşi adresă de email exista când adăugăm contactul rapid](/assets/img/contacte/2024-03-12-contacte-capcana-adaug-rapid.png){: w='582' h='636' .shadow .rounded-10 }
+
+![Mautic ne arată că un contact cu aceeaşi adresă de email exista când adăugăm contactul normal](/assets/img/contacte/2024-03-12-contacte-capcana-adaug-nou.png){: w='1008' h='1259' .shadow .rounded-10 }
+
 > Evită să adaugi încă un contact cu o adresă de email care există deja în baza de date! Pot apare probleme la actualizarea Segmentelor cu anumite filtre.
 {: .prompt-tip }
 

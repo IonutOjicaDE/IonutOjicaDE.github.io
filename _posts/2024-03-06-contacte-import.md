@@ -22,6 +22,8 @@ flowchart LR
     style C fill:white,color:black,stroke:grey
 ```
 
+![Importă contactele](/assets/img/contacte/2024-03-06-contacte-import.png){: w='995' h='446' .shadow .rounded-10 }
+
 [//]: # (Comming soon video)
 
 {% include embed/youtube.html id='LMlCN6_vUvs' %}
@@ -39,6 +41,8 @@ flowchart LR
     style C fill:white,color:black,stroke:grey
     style D fill:white,color:black,stroke:grey
 ```
+
+![Importă contactele](/assets/img/contacte/2024-03-06-contacte-import.png){: w='995' h='446' .shadow .rounded-10 }
 
 [//]: # (Comming soon video)
 

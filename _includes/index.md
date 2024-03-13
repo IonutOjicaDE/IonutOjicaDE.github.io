@@ -1,3 +1,4 @@
+---
 
 # <i class='fa-fw fas fa-home'></i> Mautic FAQ pentru începători
 Mautic este intuitiv? **Da** şi **nu**. Pentru a fi clar, am adunat aici întrebările pe care le-am primit cel mai des de la utilizatori împreună cu răspunsul potrivit.

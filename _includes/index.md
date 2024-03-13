@@ -1,9 +1,5 @@
----
-layout: default
-title: Mautic FAQ pentru începători
----
 
-# Mautic FAQ pentru începători
+# <i class='fa-fw fas fa-home'></i> Mautic FAQ pentru începători
 Mautic este intuitiv? **Da** şi **nu**. Pentru a fi clar, am adunat aici întrebările pe care le-am primit cel mai des de la utilizatori împreună cu răspunsul potrivit.
 
 Mă orientez după versiunea de Mautic 4.4.11 . Este foarte posibil că aceste informaţii vor fi 1:1 valabile şi pentru versiunile 5 şi pentru 6.

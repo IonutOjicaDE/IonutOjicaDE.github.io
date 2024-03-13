@@ -107,6 +107,6 @@ Urmarea este: contactele se blochează în campanie, în funcţie de pasul la ca
 ### Capcană: Las paşi neconectaţi în campanie
 Toţi paşii neconectaţi vor fi executaţi imediat ce contactul intră în campanie.
 
+### Postări despre campanii
 
-
-
+{% include posts_by_categorie.html %}

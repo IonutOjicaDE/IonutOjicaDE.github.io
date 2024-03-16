@@ -7,8 +7,6 @@ math: true
 mermaid: true
 ---
 
-# <i class='fas fa-clock'></i> Capcana de la acţiunea "Înlatur din campania aceasta"
-
 Se aplica atunci când: sursa campania este un segment şi folosesc acţiunea "Înlătur din campania aceasta".
 
 ```mermaid
@@ -39,18 +37,18 @@ Dacă intre cele 2 acţiuni nu este nici o perioadă de aşteptare, atunci acţi
 **Ce s-a întâmplat în cazul meu concret**
 * conform unui filtru intrau contactele într-un segment
 * în campanie aveam câteva condiţii şi acţiuni
-* logica condiţiilor avea un bug, astfel că a fost un moment în care prima condiţie era falsă, şi a doua era tot falsă, şi duceau la acţiunea ```Înlatur din campanie```
+* logica condiţiilor avea un bug, astfel că a fost un moment în care prima condiţie era falsă, şi a doua era tot falsă, şi duceau la acţiunea `Înlatur din campanie`
 * şi imediat ce contactul intra în campanie, cele 2 condiţii erau din nou false, astfel că era din nou înlaturat din campanie
 * şi contactul, fiind încă în segment, era adăugat din nou la campanie
 
 **Să estimăm mărimea necesară în jurnal pentru evenimentele contactului**
-* până la acţiunea ```Înlatur din campanie``` erau cele 2 condiţii şi vreo 5 alte acţiuni
+* până la acţiunea `Înlatur din campanie` erau cele 2 condiţii şi vreo 5 alte acţiuni
 * în segment erau cam 300 de contacte
 * numărul de evenimente pentru fiecare contact: cel puţin 9, adică:
   * adaug în campanie
   * cele 2 condiţii
   * cele 5 acţiuni
-  * apoi ```Înlătur din campanie```
+  * apoi `Înlătur din campanie`
 * numărul de evenimente înregistrate pentru cele 300 de contacte:
   * \$$ 9 evenimente * 300 contacte = 2.700 evenimente / minut $$
   * \$$ 2.700 evenimente / minut = 162K evenimente / ora $$
@@ -78,7 +76,7 @@ flowchart TD
 
 Orice contact care intră în segment, va fi adăugat imediat şi în campanie.
 
-Dacă azi nu este ```WG-Data``` (adică data de 14 februarie 2024), comanda "Înlătur din campanie" va fi executată imediat => contactul va fi scos din campanie.
+Dacă azi nu este `WG-Data` (adică data de 14 februarie 2024), comanda `Înlătur din campanie` va fi executată imediat => contactul va fi scos din campanie.
 
 Înlăturarea din campanie va crea o buclă continuă, care se va repeta la fiecare minut, deoarece contactul a rămas în segment şi segmentul va adăuga contactul din nou în campanie, iar campania va scoate contactul din campanie şi de la capăt:
 

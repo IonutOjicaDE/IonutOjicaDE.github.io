@@ -6,22 +6,25 @@ tags: [contacte,contacts,capcane,inwork,novideo]
 mermaid: true
 ---
 
-# <i class='fas fa-user'></i> Capcana când adaug contacte cu aceeaşi adresă de email
-
 Se aplică atunci când: **adăugăm manual un contact**.
 
 Contactele adăugate prin formulare nu se vor duplica.
 
-## Manual însă putem să creăm mai multe contacte cu aceeaşi adresă de email
+# Manual putem să creăm mai multe contacte cu aceeaşi adresă de email
 
 Mautic ne va atenţiona de acest lucru, dar ne va lăsa totuşi să creăm contactul.
 
-![Mautic ne arată că un contact cu aceeaşi adresă de email exista când adăugăm contactul rapid](/assets/img/contacte/2024-03-12-contacte-capcana-adaug-rapid.png){: w='582' h='636' .shadow .rounded-10 }
+> Pentru a vedea dacă mai ai un contact cu aceeaşi adresă de email, este nevoie să activezi alt element după ce introduci adresa de email completă.
+{: .prompt-tip }
 
-![Mautic ne arată că un contact cu aceeaşi adresă de email exista când adăugăm contactul normal](/assets/img/contacte/2024-03-12-contacte-capcana-adaug-nou.png){: w='1008' h='1259' .shadow .rounded-10 }
+![Mautic ne arată că un contact cu aceeaşi adresă de email există când adăugăm contactul rapid](/assets/img/contacte/2024-03-12-contacte-capcana-adaug-rapid.png){: .shadow .rounded-10 w='582' h='636' }
+_Mautic ne arată că un contact cu aceeaşi adresă de email există când adăugăm contactul rapid_
+
+![Mautic ne arată că un contact cu aceeaşi adresă de email există când adăugăm contactul normal](/assets/img/contacte/2024-03-12-contacte-capcana-adaug-nou.png){: .shadow .rounded-10 w='1008' h='1259' }
+_Mautic ne arată că un contact cu aceeaşi adresă de email există când adăugăm contactul normal_
 
 > Evită să adaugi încă un contact cu o adresă de email care există deja în baza de date! Pot apare probleme la actualizarea Segmentelor cu anumite filtre.
-{: .prompt-tip }
+{: .prompt-warning }
 
 Ce s-a întâmplat în cazul meu concret, în care erau 2 contacte cu aceeaşi adresă de email:
 * funcţia de actualizare a segmentelor pentru segmentul cu un anumit filtru a intrat într-o execuţie infinită
@@ -33,10 +36,10 @@ Rezolvare: am şters unul din contacte şi funcţia s-a executat cu succes. Nu a
 {% include embed/youtube.html id='LMlCN6_vUvs' %}
 📺 [Vezi Video](https://www.youtube.com/watch?v=LMlCN6_vUvs)
 
-## Prin API putem să creăm mai multe contacte cu aceeaşi adresă de email
+# Prin API putem să creăm mai multe contacte cu aceeaşi adresă de email
 De API se folosesc Zappier, n8n sau alte platforme de interconectare a diferite servicii.
 
-Eu mă folosesc de n8n pentru a lega magazinul online WooCommerce de Mautic: numele produsului cumpărat în magazin îl adaug la contactul din Mautic ca o etichetă. Automatizarea arată ceva de genul:
+Eu mă folosesc de n8n pentru a lega magazinul online WooCommerce de Mautic. Şi anume: numele produsului cumpărat în magazin, îl adaug la contactul din Mautic ca o etichetă. Automatizarea arată ceva de genul:
 
 ```mermaid
 flowchart TD
@@ -45,8 +48,8 @@ flowchart TD
         B -.->|Există| C(Doar<br>adaug eticheta)
         B ==>|Nu există| D(Creez contactul<br>şi adaug eticheta)
     end
-    style B fill:#f9f,stroke:red,stroke-width:4px
-    style D fill:#f9f,stroke:red,stroke-width:4px
+    style B color:black,fill:#f9f,stroke:red,stroke-width:4px
+    style D color:black,fill:#f9f,stroke:red,stroke-width:4px
 ```
 
 * când cineva a finalizat comanda în magazin

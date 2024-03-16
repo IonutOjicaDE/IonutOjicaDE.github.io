@@ -5,14 +5,14 @@ categories: [contacte]
 tags: [contacte,contacts,caut,inwork,novideo]
 ---
 
-# Cum caut un contact după adresa de email?
+# <i class='fas fa-user'></i> Cum caut un contact după adresa de email?
 
 [//]: # (Comming soon video)
 
 {% include embed/youtube.html id='LMlCN6_vUvs' %}
 📺 [Vezi Video](https://www.youtube.com/watch?v=LMlCN6_vUvs)
 
-# Cum caut un contact după alte informaţii?
+# <i class='fas fa-user'></i> Cum caut un contact după alte informaţii?
 
 [//]: # (Comming soon video)
 

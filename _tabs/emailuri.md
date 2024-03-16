@@ -4,9 +4,6 @@ categorie: [emailuri]
 order: 8
 ---
 
-## <i class='fas fa-envelope'></i> Emailuri
-
-
 ### A/B Testing
 
 
@@ -20,6 +17,9 @@ Alegi ziua şi ora de activare şi alege şi pentru dezactivare să fie o oră d
 Clonezi emailul şi alegi tipul dorit.
 
 
+### Capcana: Conţinutul emailului a dispărut!
+Atunci când selectezi un şablon nou pentru email, tot conţinutul emailului va fi "resetat".
+Este însă o metodă prin care să modifici şablonul.
 
 ### Capcana: Nu s-a trimis Newsletter-ul! Ce am făcut greşit?
 Aici pot fi multe motive tehnice, dar presupun că acestea funcţionează.
@@ -41,3 +41,4 @@ Titlul spune tot.
 Un email care nu este publicat nu va fi trimis.
 
 
+{% include posts_by_categorie.html %}

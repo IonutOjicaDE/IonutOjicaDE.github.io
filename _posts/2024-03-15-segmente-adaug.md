@@ -11,11 +11,7 @@ Contactele intră în segmentele **statice** doar din acţiuni externe segmentul
 * un formular adaugă contactele la segment
 * o campanie adaugă contacte la segment
 * tu imporţi contacte şi selectezi ca toate contactele să fie adăugate în segment
-<<<<<<< HEAD
 * [tu adaugi manual contactele la segment]({% post_url 2024-03-06-contacte-adaug-in-segment %})
-=======
-* [tu adaugi manual contactele la segment]({% post_url 2024-03-06-contacte-adaug-in-segment.md %})
->>>>>>> a08d6c5548d195609ec930e41b955d33385ac8ec
 
 Segmentele **dinamice** (cu Filtre) îşi adună singure contactele din toată baza de contacte, conform filtrelor selectate.
 

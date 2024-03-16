@@ -98,11 +98,7 @@ Tot în ideea de mai sus este nevoie de gândit, doar că va fi nevoie să clon�
 ### Capcană: Acţiunea "Înlatură din segment"
 Se aplica atunci cand: segmentul are filtru.
 
-<<<<<<< HEAD
 [Vezi detaliat aici]({% post_url 2024-03-14-campanii-capcana-inlatura-din-segment %})
-=======
-[Vezi detaliat aici]({% post_url 2024-03-14-campanii-capcana-inlatura-din-segment.md %})
->>>>>>> a08d6c5548d195609ec930e41b955d33385ac8ec
 
 ### Capcană: Modific paşii campaniei în care sunt contacte
 Urmarea este: contactele se blochează în campanie, în funcţie de pasul la care se află şi ce anume modificăm în campanie.

@@ -30,7 +30,7 @@ Includem în formular un câmp de tipul Captcha şi ar trebui să-şi facă sing
 
     ![1. Creăm un nou formular de campanie](/assets/img/formulare/2024-03-08-formulare-adaug.png){: w='601' h='359' .shadow .rounded-10 }
 
-2. Adăugăm un câmp de tip ```text``` cu următoarele valori:
+2. Adăugăm un câmp de tip `text` cu următoarele valori:
 
     ![2a. Câmp de Text - Tabul General](/assets/img/formulare/2024-03-08-formulare-capcana-1general.png){: w='601' h='467' .shadow .rounded-10 }
 
@@ -40,9 +40,9 @@ Includem în formular un câmp de tipul Captcha şi ar trebui să-şi facă sing
 
 4. Facem să nu fie necesar de completat
 
-    ![2c. Câmp de Text - Tabul Validare](/assets/img/2024-03-08-formulare-capcana-3validare.png){: w='602' h='309' .shadow .rounded-10 }
+    ![2c. Câmp de Text - Tabul Validare](/assets/img/formulare/2024-03-08-formulare-capcana-3validare.png){: w='602' h='309' .shadow .rounded-10 }
 
-5. Adaugă textul ```class="mauticform-field-hidden"``` la ```Atributele containerului câmpului``` din tabul ```Atribute``` (pentru a nu fi vizibil pe pagină - astfel persoanele reale nu-l vor putea completa, iar roboţii îl vor vedea şi-l vor completa).
+5. Adaugă textul `class="mauticform-field-hidden"` la `Atributele containerului câmpului` din tabul `Atribute` (pentru a nu fi vizibil pe pagină - astfel persoanele reale nu-l vor putea completa, iar roboţii îl vor vedea şi-l vor completa).
 
     ![2d. Câmp de Text - Tabul Atribute](/assets/img/formulare/2024-03-08-formulare-capcana-4atribute.png){: w='602' h='379' .shadow .rounded-10 }
 
@@ -50,7 +50,7 @@ Includem în formular un câmp de tipul Captcha şi ar trebui să-şi facă sing
 
     ![2e. Câmp de Text - Tabul Comportament](/assets/img/formulare/2024-03-08-formulare-capcana-5comportament.png){: w='602' h='310' .shadow .rounded-10 }
 
-7. Creăm o campanie cu condiţia ```Câmpurile contactului```, alegem ```Capcana``` **nu este gol***? Daca nu este gol, adaugăm eticheta Robot, îl dezabonăm şi-l scoatem din campanie.
+7. Creăm o campanie cu condiţia `Câmpurile contactului`, alegem `Capcana` **nu este gol***? Daca nu este gol, adaugăm eticheta Robot, îl dezabonăm şi-l scoatem din campanie.
 
 [//]: # (Comming soon video)
 

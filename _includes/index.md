@@ -22,7 +22,7 @@ Mă orientez după versiunea de Mautic 4.4.11 . Este foarte posibil că aceste i
 1. Întrebările sunt organizate pe categorii şi etichete
    * dacă ştim cam ce presupune ce căutăm, atunci încercăm în categoria respectivă
    * categoriile sunt acţiunile din meniul din stânga de la Mautic
-   * pentru întrebări mai complexe, am putea încerca în [Cum să fac x în Mautic?]({% post_url 2024-03-05-cum-sa.md %})
+   * pentru întrebări mai complexe, am putea încerca în [Cum să fac x în Mautic?]({% post_url 2024-03-05-cum-sa %})
 2. Funcţia de căutare după text
    * o găsim sus în stânga, unde este lupa şi textul "Search..."
    * cât de folositoare este această funcţie, rămâne de văzut.
@@ -39,20 +39,20 @@ Super! Nu-l păstra te rog doar pentru tine. Trimite-mi răspunsul tău [aici](h
 
 ## Sunt nou în Mautic, cu ce să încep?
 1. Hai întâi să încercăm să vorbim aceeaşi limbă. Adică să clarificăm nişte cuvinte: [Termeni]({% post_url 2024-03-05-termeni %})
-1. Apoi îţi recomand să parcurgi pe diagonală, doar să iei la cunoştinţă cum putem strica Mautic nasol - pentru a limita destul de clar locul de joacă: [Cum să nu foloseşti Mautic]({% post_url 2024-03-05-cum-sa-nu-folosesti.md %})
+1. Apoi îţi recomand să parcurgi pe diagonală, doar să iei la cunoştinţă cum putem strica Mautic nasol - pentru a limita destul de clar locul de joacă: [Cum să nu foloseşti Mautic]({% post_url 2024-03-05-cum-sa-nu-folosesti %})
   * nu insista în această zonă, să nu ajungi să fii demotivat :)
 1. Apoi:
-  1. [Adaugă primul contact]({% post_url 2024-03-06-contacte-adaug.md %})
-  1. [Adaugă primul segment]({% post_url 2024-03-15-segmente-adaug.md %})
-  1. [Adaugă primul formular]({% post_url 2024-03-07-formulare-adaug.md %})
-  1. [Adaugă formularul pe pagină]({% post_url 2024-03-07-formulare-pe-pagina.md %})
+  1. [Adaugă primul contact]({% post_url 2024-03-06-contacte-adaug %})
+  1. [Adaugă primul segment]({% post_url 2024-03-15-segmente-adaug %})
+  1. [Adaugă primul formular]({% post_url 2024-03-07-formulare-adaug %})
+  1. [Adaugă formularul pe pagină]({% post_url 2024-03-07-formulare-pe-pagina %})
 1. Şi putem continua cu:
-  1. [Import/export contacte]({% post_url 2024-03-06-contacte-import.md %})
+  1. [Import/export contacte]({% post_url 2024-03-06-contacte-import %})
   1. Modifică un contact
   1. Modifică un segment
-  1. [Modifică un formular]({% post_url 2024-03-07-formulare-modific.md %})
+  1. [Modifică un formular]({% post_url 2024-03-07-formulare-modific %})
 1. Şi mai complex:
-  1. [Verific istoricul unui contact]({% post_url 2024-03-06-contacte-verific.md %})
+  1. [Verific istoricul unui contact]({% post_url 2024-03-06-contacte-verific %})
   1. 
 
 ## Ultimele postări

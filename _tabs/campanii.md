@@ -1,10 +1,10 @@
 ---
 icon: fas fa-clock
+title: Campanii / Automatizări
 categorie: [campanii]
 order: 7
 ---
 
-## <i class='fas fa-clock'></i> Campanii / Automatizări
 Specific la Mautic este: campaniile care au deja contacte în ele nu pot fi modificate.
 
 De fapt ele pot fi modificate, dar este foarte recomandat să nu o faci, sau să te limitezi doar la unele puţine schimbări.
@@ -95,11 +95,10 @@ Tot în ideea de mai sus este nevoie de gândit, doar că va fi nevoie să clon�
 
 [Vezi detaliat aici]({% post_url 2024-03-11-campanii-capcana-inlatura-din-campanie %})
 
-Inca de adaugat: Cum descoperi daca ai deja contacte cu aceeasi adresa de email?
-
 ### Capcană: Acţiunea "Înlatură din segment"
-
 Se aplica atunci cand: segmentul are filtru.
+
+[Vezi detaliat aici]({% post_url 2024-03-14-campanii-capcana-inlatura-din-segment.md %})
 
 ### Capcană: Modific paşii campaniei în care sunt contacte
 Urmarea este: contactele se blochează în campanie, în funcţie de pasul la care se află şi ce anume modificăm în campanie.

@@ -5,7 +5,7 @@ categories: [contacte]
 tags: [contacte,contacts,capcane,inwork,novideo]
 ---
 
-### <i class='fas fa-user'></i> Capcana: Contacte cu aceeaşi adresă de email!
+# <i class='fas fa-user'></i> Capcana: Contacte cu aceeaşi adresă de email!
 
 Se aplică atunci când: *adăugăm manual un contact*.
 
@@ -24,7 +24,7 @@ Rezolvare: am şters unul din contacte şi funcţia s-a executat cu succes. Nu a
 {% include embed/youtube.html id='LMlCN6_vUvs' %}
 📺 [Vezi Video](https://www.youtube.com/watch?v=LMlCN6_vUvs)
 
-### <i class='fas fa-user'></i> Cum descopăr dacă sunt deja contacte cu aceeaşi adresă de email?
+# <i class='fas fa-user'></i> Cum descopăr dacă sunt deja contacte cu aceeaşi adresă de email?
 Folosind mysql:
 
 ```sql

@@ -7,8 +7,6 @@ math: true
 mermaid: true
 ---
 
-# <i class='fas fa-clock'></i> Capcana de la acţiunea "Înlatur din campania aceasta"
-
 Se aplica atunci când: sursa campania este un segment şi folosesc acţiunea "Înlătur din campania aceasta".
 
 ```mermaid

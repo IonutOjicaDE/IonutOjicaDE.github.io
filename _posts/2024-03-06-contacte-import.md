@@ -7,7 +7,7 @@ redirect_from: "/2024-03-06-contacte-export/"
 mermaid: true
 ---
 
-### <i class='fas fa-user'></i> Cum import contacte?
+# <i class='fas fa-user'></i> Cum import contacte?
 > Necesare:
 > * un fişier .csv cu contactele
 > * un segment deja creat, dacă doreşti să adaugi contactele într-un segment
@@ -29,7 +29,7 @@ flowchart LR
 {% include embed/youtube.html id='LMlCN6_vUvs' %}
 📺 [Vezi Video](https://www.youtube.com/watch?v=LMlCN6_vUvs)
 
-### <i class='fas fa-user'></i> Cum export contacte?
+# <i class='fas fa-user'></i> Cum export contacte?
 
 ```mermaid
 flowchart LR

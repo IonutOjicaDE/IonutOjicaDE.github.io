@@ -5,7 +5,6 @@ categories: [contacte]
 tags: [contacte,contacts,capcane,inwork,novideo]
 ---
 
-# <i class='fas fa-user'></i> Cum descopăr care contacte au aceeaşi adresă de email?
 Metoda este ceva mai tehnică, deoarece căutarea o facem direct în baza de date folosind această comandă:
 
 ```sql

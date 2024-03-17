@@ -2,27 +2,21 @@
 icon: fas fa-user
 title: Adaug contacte în segment
 categories: [contacte]
-tags: [contacte,contacts,adaug,segmente,inwork,novideo]
+tags: [contacte,contacts,adaug,segmente]
 ---
 
-## <i class='fas fa-user'></i> Cum adaug un contact la o listă?
+## <i class='fas fa-user'></i> Cum adaug un contact la o lista?
 
-[//]: # (Comming soon video)
+{% include embed/youtube.html id='IFbLIr2Lr0U' %}
+📺 [Vezi Video](https://www.youtube.com/watch?v=IFbLIr2Lr0U)
 
-{% include embed/youtube.html id='LMlCN6_vUvs' %}
-📺 [Vezi Video](https://www.youtube.com/watch?v=LMlCN6_vUvs)
+## <i class='fas fa-user'></i> Cum adaug mai multe contacte la o lista?
 
-## <i class='fas fa-user'></i> Cum adaug mai multe contacte la o listă?
+{% include embed/youtube.html id='ryxvsjlocI8' %}
+📺 [Vezi Video](https://www.youtube.com/watch?v=ryxvsjlocI8)
 
-[//]: # (Comming soon video)
+## <i class='fas fa-user'></i> Cum adaug foarte multe contacte la o lista?
 
-{% include embed/youtube.html id='LMlCN6_vUvs' %}
-📺 [Vezi Video](https://www.youtube.com/watch?v=LMlCN6_vUvs)
-
-## <i class='fas fa-user'></i> Cum adaug foarte multe contacte la o listă?
-
-[//]: # (Comming soon video)
-
-{% include embed/youtube.html id='LMlCN6_vUvs' %}
-📺 [Vezi Video](https://www.youtube.com/watch?v=LMlCN6_vUvs)
+{% include embed/youtube.html id='y6401UKl2F4' %}
+📺 [Vezi Video](https://www.youtube.com/watch?v=y6401UKl2F4)
 

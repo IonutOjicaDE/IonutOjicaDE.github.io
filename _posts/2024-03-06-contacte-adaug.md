@@ -6,7 +6,7 @@ tags: [contacte,contacts,adaug,nou,inwork,novideo]
 mermaid: true
 ---
 
-# <i class='fas fa-user'></i> Cum adaug manual un nou contact - modul rapid?
+## <i class='fas fa-user'></i> Cum adaug manual un nou contact - modul rapid?
 Pasul 1 este să te asiguri că _nu există deja_ un contact cu adresa de email[^caut].
 
 ```mermaid
@@ -29,12 +29,10 @@ flowchart LR
 > Să nu dai de capcana ce poate apare când adaugi rapid contacte[^capcana].
 {: .prompt-warning }
 
-[//]: # (Comming soon video)
+{% include embed/youtube.html id='IRrG82Hx9Sw' %}
+📺 [Vezi Video](https://www.youtube.com/watch?v=IRrG82Hx9Sw)
 
-{% include embed/youtube.html id='LMlCN6_vUvs' %}
-📺 [Vezi Video](https://www.youtube.com/watch?v=LMlCN6_vUvs)
-
-# <i class='fas fa-user'></i> Cum adaug manual un nou contact?
+## <i class='fas fa-user'></i> Cum adaug manual un nou contact?
 Pasul 1 este să te asiguri că _nu există deja_ un contact cu adresa de email[^caut].
 
 ```mermaid
@@ -57,14 +55,12 @@ flowchart LR
 > Să nu dai de capcana ce poate apare când adaugi manual contacte[^capcana].
 {: .prompt-warning }
 
-[//]: # (Comming soon video)
+{% include embed/youtube.html id='9xnS5-_KsCY' %}
+📺 [Vezi Video](https://www.youtube.com/watch?v=9xnS5-_KsCY)
 
-{% include embed/youtube.html id='LMlCN6_vUvs' %}
-📺 [Vezi Video](https://www.youtube.com/watch?v=LMlCN6_vUvs)
-
-# Postări relevante
+## Relevante
 [Cum descopăr care contacte au aceeaşi adresă de email]({% post_url 2024-03-06-contacte-verific-duplicate %})
 
-# Note de subsol
+## Note de subsol
 [^caut]: [Cum caut contacte]({% post_url 2024-03-06-contacte-caut %})
 [^capcana]: [Capcana când adaug contacte cu aceeaşi adresă de email]({% post_url 2024-03-12-contacte-capcana-adaug-acelasi-email %})

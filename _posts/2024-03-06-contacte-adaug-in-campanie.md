@@ -5,7 +5,7 @@ categories: [contacte]
 tags: [contacte,contacts,adaug,campanii,inwork,novideo]
 ---
 
-## <i class='fas fa-user'></i> Cum adaug un contact într-o campanie?
+## <i class='fas fa-user'></i> Cum adaug un contact la o campanie?
 
 [//]: # (Comming soon video)
 

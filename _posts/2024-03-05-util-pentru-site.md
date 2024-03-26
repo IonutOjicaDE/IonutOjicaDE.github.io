@@ -42,3 +42,12 @@ https://github.com/IonutOjicaDE/IonutOjicaDE.github.io
 
 Adresa site-ului:
 https://ionutojicade.github.io/
+
+Landing Page:
+https://github.com/swcool/landing-page-theme
+
+Mai multe pagini de lansare:
+https://github.com/nordicgiant2/awesome-landing-page
+
+Si aici sunt SUPER:
+https://jekyllthemes.dev/tag/apps/

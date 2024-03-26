@@ -2,7 +2,7 @@
 icon: fas fa-user
 title: Adaug manual un nou contact
 categories: [contacte]
-tags: [contacte,contacts,adaug,nou,inwork,novideo]
+tags: [contacte,contacts,adaug,nou]
 mermaid: true
 ---
 
@@ -12,17 +12,17 @@ Pasul 1 este să te asiguri că _nu există deja_ un contact cu adresa de email[
 ```mermaid
 flowchart LR
     A[fas:fa-user Contacte] --> B(fas:fa-bolt Adaugă Rapid)
-    style A fill:black,stroke-width:0,color:#fff
+    style A fill:black,color:white,stroke-width:0
     style B fill:white,color:black,stroke:grey
 ```
 
-1. Din meniul din stânga alegi <i class='fas fa-user'></i>``` Contacte```
+1. Din meniul din stânga alegi <i class='fas fa-user'></i>` Contacte`
 1. Cauţi dacă există deja un contact cu adresa de email: introduci adresa de email şi apeşi tasta ENTER
-1. Dacă nu există nici un contact, apasă pe <i class='fas fa-bolt'></i>``` Adaugă Rapid```
+1. Dacă nu există nici un contact, apasă pe <i class='fas fa-bolt'></i>` Adaugă Rapid`
 
     ![Caută şi Adaugă Rapid un nou contact](/assets/img/contacte/2024-03-06-contacte-adaug-rapid-1meniu.png){: w='995' h='370' .shadow .rounded-10 }
 
-1. Completează informaţiile pe care le ai despre contact şi alege <i class='fas fa-save'></i>``` Salvare```
+1. Completează informaţiile pe care le ai despre contact şi alege <i class='fas fa-save'></i>` Salvare`
 
     ![Completează informaţiile şi Salvează contactul nou](/assets/img/contacte/2024-03-06-contacte-adaug-rapid-2fereastra.png){: w='583' h='614' .shadow .rounded-10 }
 
@@ -38,17 +38,17 @@ Pasul 1 este să te asiguri că _nu există deja_ un contact cu adresa de email[
 ```mermaid
 flowchart LR
     A[fas:fa-user Contacte] --> B(fas:fa-plus Nou)
-    style A fill:black,stroke-width:0,color:#fff
+    style A fill:black,color:white,stroke-width:0
     style B fill:white,color:black,stroke:grey
 ```
 
-1. Din meniul din stânga alegi <i class='fas fa-user'></i>``` Contacte```
+1. Din meniul din stânga alegi <i class='fas fa-user'></i>` Contacte`
 1. Cauţi dacă există deja un contact cu adresa de email: introduci adresa de email şi apeşi tasta ENTER
-1. Dacă nu există nici un contact, apasă pe <i class='fas fa-plus'></i>``` Nou```
+1. Dacă nu există nici un contact, apasă pe <i class='fas fa-plus'></i>` Nou`
 
     ![Caută şi Adaugă un nou contact](/assets/img/contacte/2024-03-06-contacte-adaug-nou-1meniu.png){: w='995' h='355' .shadow .rounded-10 }
 
-1. Completează informaţiile pe care le ai despre contact şi alege <i class='fas fa-save'></i>``` Salvează & Închide```
+1. Completează informaţiile pe care le ai despre contact şi alege <i class='fas fa-save'></i>` Salvează & Închide`
 
     ![Completează informaţiile şi Salvează contactul nou](/assets/img/contacte/2024-03-06-contacte-adaug-nou-2fereastra.png){: w='1034' h='1228' .shadow .rounded-10 }
 

@@ -17,12 +17,12 @@ mermaid: true
 flowchart LR
     A[fas:fa-user Contacte] --> B[[fas:fa-caret-down]]
     B --> C[fas:fa-upload Import]
-    style A fill:black,stroke-width:0,color:#fff
+    style A fill:black,color:white,stroke-width:0
     style B fill:white,color:black,stroke:grey
     style C fill:white,color:black,stroke:grey
 ```
 
-![Importă contactele](/assets/img/contacte/2024-03-06-contacte-import.png){: w='995' h='446' .shadow .rounded-10 }
+![Importăm contactele](/assets/img/contacte/2024-03-06-contacte-import.png){: w='995' h='446' .shadow .rounded-10 }
 
 {% include embed/youtube.html id='CDl792ywU0g' %}
 📺 [Vezi Video](https://www.youtube.com/watch?v=CDl792ywU0g)
@@ -34,13 +34,13 @@ flowchart LR
     A[fas:fa-user Contacte] --> B[[fas:fa-caret-down]]
     B --> C[fas:fa-file-text Exportează ca CSV]
     B --> D[fas:fa-file-excel Exportează ca Excel]
-    style A fill:black,stroke-width:0,color:#fff
+    style A fill:black,color:white,stroke-width:0
     style B fill:white,color:black,stroke:grey
     style C fill:white,color:black,stroke:grey
     style D fill:white,color:black,stroke:grey
 ```
 
-![Importă contactele](/assets/img/contacte/2024-03-06-contacte-import.png){: w='995' h='446' .shadow .rounded-10 }
+![Exportăm contactele](/assets/img/contacte/2024-03-06-contacte-import.png){: w='995' h='446' .shadow .rounded-10 }
 
 {% include embed/youtube.html id='ynDO4fkCT_I' %}
 📺 [Vezi Video](https://www.youtube.com/watch?v=ynDO4fkCT_I)

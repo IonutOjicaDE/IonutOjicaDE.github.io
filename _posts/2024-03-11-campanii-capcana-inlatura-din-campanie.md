@@ -17,8 +17,8 @@ flowchart TD
         C -.->|Da| D(Acţiuni ...)
         C ==>|Nu| E(Înlătur din campanie)
     end
-    style A fill:#f9f,stroke:red,stroke-width:4px
-    style E fill:#f9f,stroke:red,stroke-width:4px
+    style A fill:#f9f,color:black,stroke:red,stroke-width:4px
+    style E fill:#f9f,color:black,stroke:red,stroke-width:4px
 ```
 
 Urmările pot fi nasoale: se măreşte baza de date fără limită. Rezolvarea cea mai simplă şi rapidă este: să reinstalezi o copie de rezervă din ziua în care Mautic funcţiona încă normal.
@@ -70,8 +70,8 @@ flowchart TD
         C -.->|Da| D(Trimite email)
         C ==>|Nu| F(Înlătur din campanie)
     end
-    style C fill:yellow
-    style F fill:#f9f,stroke:red,stroke-width:4px
+    style C fill:yellow,color:black
+    style F fill:#f9f,color:black,stroke:red,stroke-width:4px
 ```
 
 Orice contact care intră în segment, va fi adăugat imediat şi în campanie.
@@ -87,7 +87,7 @@ sequenceDiagram
     actor Contact
     autonumber
 
-    loop o dată pe minut
+    loop se execută o dată pe minut
         Segment->>Campanie: adaug contactul în campanie
         Campanie->>Contact: înregistrez info în jurnal
         loop pentru fiecare acţiune

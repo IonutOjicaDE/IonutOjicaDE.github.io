@@ -16,7 +16,10 @@ M-am folosit de acest tutorial pentru a construi acest website:
 
 
 ## Teme interesante pentru a folosi la acest site
+
 https://github.com/cotes2020/jekyll-theme-chirpy
+
 https://github.com/just-the-docs/just-the-docs
+
 https://github.com/mmistakes/minimal-mistakes
 

@@ -3,6 +3,7 @@ icon: fas fa-brands fa-wpforms
 title: Modific un formular din Mautic
 categories: [formulare]
 tags: [formulare,forms,modific,inwork,novideo]
+author: ionut
 ---
 
 Avem un formular, care probabil este şi pe pagina de înscriere, şi dorim să-l modificăm:

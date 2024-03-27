@@ -2,6 +2,7 @@
 title: Util pentru crearea site-ului
 categories: [util-pentru-site]
 tags: [util-pentru-site,inwork,novideo]
+author: ionut
 ---
 
 ## Test zone grupate

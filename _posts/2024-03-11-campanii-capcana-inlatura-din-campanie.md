@@ -5,20 +5,23 @@ categories: [campanii]
 tags: [campanii,contacte,capcane,inwork,novideo]
 math: true
 mermaid: true
+author: ionut
 ---
 
 Se aplica atunci când: sursa campania este un segment şi folosesc acţiunea "Înlătur din campania aceasta".
 
 ```mermaid
-flowchart TD
-    subgraph Campanie
-        A[sursa: un Segment] ==> B(Acţiuni ...)
-        B ==> C[/Condiţii ...\]
-        C -.->|Da| D(Acţiuni ...)
-        C ==>|Nu| E(Înlătur din campanie)
-    end
-    style A fill:#f9f,color:black,stroke:red,stroke-width:4px
-    style E fill:#f9f,color:black,stroke:red,stroke-width:4px
+flowchart
+  subgraph Campanie
+    direction TB
+    E -.->|segmentul readaugă contactul| A
+    A[sursa: un Segment] ==> B(Acţiuni ...)
+    B ==> C[/Condiţii ...\]
+    C -.->|Da| D(Acţiuni ...)
+    C ==>|Nu| E(Înlătur din campanie)
+  end
+  classDef magenta fill:#f9f,color:black,stroke:red,stroke-width:4px
+  class A,E magenta
 ```
 
 Urmările pot fi nasoale: se măreşte baza de date fără limită. Rezolvarea cea mai simplă şi rapidă este: să reinstalezi o copie de rezervă din ziua în care Mautic funcţiona încă normal.
@@ -63,15 +66,18 @@ Dacă intre cele 2 acţiuni nu este nici o perioadă de aşteptare, atunci acţi
 Presupunem această campanie.
 
 ```mermaid
-flowchart TD
-    subgraph Campanie
-        A(Segment) ==> B(Actualizează contact:<br>WG-Data=2024-02-14)
-        B ==> C[/Condiţie:<br>Azi=WG-Data?\]
-        C -.->|Da| D(Trimite email)
-        C ==>|Nu| F(Înlătur din campanie)
-    end
-    style C fill:yellow,color:black
-    style F fill:#f9f,color:black,stroke:red,stroke-width:4px
+flowchart
+  subgraph Campanie: cum să nu faci
+    direction TB
+    F -.->|segmentul readaugă contactul| A
+    A(Segment) ==> B(Actualizează contact:<br>WG-Data=2024-02-14)
+    B ==> C[/Condiţie:<br>Azi=WG-Data?\]
+    C -.->|Da| D(Trimite email)
+    C ==>|Nu| F(Înlătur din campanie)
+  end
+  style C fill:yellow,color:black
+  classDef magenta fill:#f9f,color:black,stroke:red,stroke-width:4px
+  class A,F magenta
 ```
 
 Orice contact care intră în segment, va fi adăugat imediat şi în campanie.
@@ -82,21 +88,23 @@ Dacă azi nu este `WG-Data` (adică data de 14 februarie 2024), comanda `Înlăt
 
 ```mermaid
 sequenceDiagram
+  box Campanie: ordinea acţiunilor
     participant Segment
     participant Campanie
     actor Contact
-    autonumber
+  end
+  autonumber
 
-    loop se execută o dată pe minut
-        Segment->>Campanie: adaug contactul în campanie
-        Campanie->>Contact: înregistrez info în jurnal
-        loop pentru fiecare acţiune
-            Note over Campanie: fiecare acţiune
-            Campanie->>Contact: înregistrez info în jurnal
-        end
-        Campanie->>Campanie: înlătur din campanie
-        Campanie->>Contact: înregistrez info în jurnal
+  loop se execută o dată pe minut
+    Segment->>Campanie: adaug contactul<br>în campanie
+    Campanie->>Contact: înregistrez info în jurnal
+    loop pentru fiecare acţiune
+      Note over Campanie: fiecare acţiune
+      Campanie->>Contact: înregistrez info în jurnal
     end
+    Campanie->>Campanie: înlătur din campanie
+    Campanie->>Contact: înregistrez info în jurnal
+  end
 ```
 
 În exemplul concret, aceste acţiuni se vor executa în oricare alte zile în afară de data de 14 februarie 2024.

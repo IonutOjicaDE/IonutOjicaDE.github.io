@@ -3,6 +3,7 @@ icon: fas fa-tags
 title: Redenumesc o etichetă
 categories: [etichete]
 tags: [etichete,redenumesc,inwork,novideo]
+author: ionut
 ---
 
 Chiar dacă în Mautic etichetele nu pot fi redenumite, totuşi există cel puţin o posibilitate prin care se poate realiza acest lucru:

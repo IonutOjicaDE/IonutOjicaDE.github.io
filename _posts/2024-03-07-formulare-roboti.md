@@ -4,6 +4,7 @@ title: Cum filtrez roboţii înscrişi prin formulare
 categories: [formulare]
 tags: [formulare,forms,roboti,captcha,inwork,novideo]
 redirect_from: "/2024-03-08-formulare-captcha/"
+author: ionut
 ---
 
 Pentru ca să filtrez roboţii înscrişi prin formulare, putem folosi **Captcha** - o numim **metoda uşoară pentru tine**:

@@ -3,6 +3,7 @@ icon: fas fa-brands fa-wpforms
 title: Adaug un formular în Mautic
 categories: [formulare]
 tags: [formulare,forms,adaug,nou,inwork,novideo]
+author: ionut
 ---
 
 # <i class='fas fa-brands fa-wpforms'></i> Cum creez un formular legat de un segment?

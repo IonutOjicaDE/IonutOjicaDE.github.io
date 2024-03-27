@@ -3,6 +3,7 @@ icon: fas fa-user
 title: Verific istoricul unui contact
 categories: [contacte]
 tags: [contacte,contacts,verific,istoric,istorie,inwork,novideo]
+author: ionut
 ---
 
 ### <i class='fas fa-user'></i> Cum verific dacă un contact a primit un email?

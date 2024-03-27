@@ -3,6 +3,7 @@ icon: fas fa-user
 title: Cum descopăr care contacte au aceeaşi adresă de email?
 categories: [contacte]
 tags: [contacte,contacts,capcane,inwork,novideo]
+author: ionut
 ---
 
 Metoda este ceva mai tehnică, deoarece căutarea o facem direct în baza de date folosind această comandă:

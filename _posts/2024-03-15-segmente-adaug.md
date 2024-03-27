@@ -4,6 +4,7 @@ title: Adaug un nou segment
 categories: [segmente]
 tags: [segmente,adaug,nou,inwork,novideo]
 image: "/assets/img/segmente/2024-03-15-segmente-adaug-1nou.png"
+author: ionut
 ---
 
 În Mautic avem 2 tipuri de segmente: **statice** şi **dinamice** (sau cu filtre):

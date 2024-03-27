@@ -3,6 +3,7 @@ icon: fas fa-brands fa-wpforms
 title: Adaug formularul pe o pagină
 categories: [formulare]
 tags: [formulare,forms,adaug,website,pagina,inwork,novideo]
+author: ionut
 ---
 
 # <i class='fas fa-brands fa-wpforms'></i> Cum adaug formularul pe pagină?

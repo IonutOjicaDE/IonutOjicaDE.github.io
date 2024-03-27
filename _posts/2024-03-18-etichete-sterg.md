@@ -3,6 +3,7 @@ icon: fas fa-tags
 title: Şterg o etichetă
 categories: [etichete]
 tags: [etichete,şterg,inwork,novideo]
+author: ionut
 ---
 
 > Chiar trebuie să ştergi eticheta? Nu consumă "deloc" spaţiu în baza de date.

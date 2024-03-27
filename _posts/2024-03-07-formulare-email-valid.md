@@ -3,6 +3,7 @@ icon: fas fa-brands fa-wpforms
 title: Filtrez contactele cu adrese de email invalide
 categories: [formulare]
 tags: [formulare,forms,email-invaild,inwork,novideo]
+author: ionut
 ---
 
 ## <i class='fas fa-brands fa-wpforms'></i> Cum validez adresa de email introdusă într-un formular?

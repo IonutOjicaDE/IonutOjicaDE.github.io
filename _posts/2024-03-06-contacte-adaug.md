@@ -4,16 +4,20 @@ title: Adaug manual un nou contact
 categories: [contacte]
 tags: [contacte,contacts,adaug,nou]
 mermaid: true
+author: ionut
 ---
 
 ## <i class='fas fa-user'></i> Cum adaug manual un nou contact - modul rapid?
 Pasul 1 este să te asiguri că _nu există deja_ un contact cu adresa de email[^caut].
 
 ```mermaid
-flowchart LR
+flowchart
+  subgraph Adaug manual un contact - modul rapid
+    direction LR
     A[fas:fa-user Contacte] --> B(fas:fa-bolt Adaugă Rapid)
     style A fill:black,color:white,stroke-width:0
     style B fill:white,color:black,stroke:grey
+  end
 ```
 
 1. Din meniul din stânga alegi <i class='fas fa-user'></i>` Contacte`
@@ -32,14 +36,17 @@ flowchart LR
 {% include embed/youtube.html id='IRrG82Hx9Sw' %}
 📺 [Vezi Video](https://www.youtube.com/watch?v=IRrG82Hx9Sw)
 
-## <i class='fas fa-user'></i> Cum adaug manual un nou contact?
+## <i class='fas fa-user'></i> Cum adaug manual un nou contact - modul complet?
 Pasul 1 este să te asiguri că _nu există deja_ un contact cu adresa de email[^caut].
 
 ```mermaid
-flowchart LR
+flowchart
+  subgraph Adaug manual un contact - modul complet
+    direction LR
     A[fas:fa-user Contacte] --> B(fas:fa-plus Nou)
     style A fill:black,color:white,stroke-width:0
     style B fill:white,color:black,stroke:grey
+  end
 ```
 
 1. Din meniul din stânga alegi <i class='fas fa-user'></i>` Contacte`

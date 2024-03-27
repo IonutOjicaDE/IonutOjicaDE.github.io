@@ -3,6 +3,7 @@ icon: fas fa-clock
 title: Capcana provocată de modificarea unei campanii cu contacte
 categories: [campanii]
 tags: [campanii,capcane,inwork,novideo]
+author: ionut
 ---
 
 > Dacă o campanie are contacte înăuntru, este foarte **FOARTE** recomandat să nu ştergi paşi, nici să modifici ordinea de execuţie, nici să adaugi paşi la campanie.

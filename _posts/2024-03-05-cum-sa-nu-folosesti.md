@@ -3,6 +3,7 @@ icon: fas fa-question-circle
 title: Cum să nu foloseşti Mautic
 categories: [cum]
 tags: [indicii,cum]
+author: ionut
 ---
 
 Dacă ar fi să dau un număr pentru importanţa aspectelor pe care să NU le facem în Mautic, le-aş ordona în acest fel.

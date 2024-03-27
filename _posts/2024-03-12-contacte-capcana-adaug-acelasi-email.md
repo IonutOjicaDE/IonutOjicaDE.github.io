@@ -4,6 +4,7 @@ title: Capcana când adaug contacte cu aceeaşi adresă de email
 categories: [contacte]
 tags: [contacte,contacts,capcane]
 mermaid: true
+author: ionut
 ---
 
 Se aplică atunci când: **adăugăm manual un contact**.
@@ -41,13 +42,13 @@ Eu mă folosesc de n8n pentru a lega magazinul online WooCommerce de Mautic. Şi
 
 ```mermaid
 flowchart TD
-    subgraph Automatizare n8n
-        A[Cineva a finalizat<br>comanda în magazin] ==> B[/Există un contact cu<br>aceeaşi adresă de email?\]
-        B -.->|Există| C(Doar<br>adaug eticheta)
-        B ==>|Nu există| D(Creez contactul<br>şi adaug eticheta)
-    end
-    style B color:black,fill:#f9f,stroke:red,stroke-width:4px
-    style D color:black,fill:#f9f,stroke:red,stroke-width:4px
+  subgraph Automatizare n8n
+    A[Cineva a finalizat<br>comanda în magazin] ==> B[/Există un contact cu<br>aceeaşi adresă de email?\]
+    B -.->|Există| C(Doar<br>adaug eticheta)
+    B ==>|Nu există| D(Creez contactul<br>şi adaug eticheta)
+  end
+  classDef magenta fill:#f9f,color:black,stroke:red,stroke-width:4px
+  class B,D magenta
 ```
 
 * când cineva a finalizat comanda în magazin

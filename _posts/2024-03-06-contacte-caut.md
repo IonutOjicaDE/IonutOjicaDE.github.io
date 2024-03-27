@@ -3,6 +3,7 @@ icon: fas fa-user
 title: Cum caut contacte
 categories: [contacte]
 tags: [contacte,contacts,caut]
+author: ionut
 ---
 
 ## <i class='fas fa-user'></i> Cum caut un contact dupa adresa de email?

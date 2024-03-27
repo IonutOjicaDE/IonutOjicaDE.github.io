@@ -3,6 +3,7 @@ icon: fas fa-brands fa-wpforms
 title: După completarea formularului, să ...
 categories: [formulare]
 tags: [formulare,forms,actiuni,inwork,novideo]
+author: ionut
 ---
 
 Nu folosi Captcha! [Există o metodă mai eficientă.]({% post_url 2024-03-07-formulare-roboti %}).

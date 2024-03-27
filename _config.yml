@@ -14,16 +14,18 @@ timezone: Europe/Berlin
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Mautic pentru începători # the main title
+title: Platforme Open-Source
 
-tagline: FAQ - Întrebări şi răspunsuri # it will display as the sub-title
+tagline: Salvează mii de euro anual, fără a renunţa la funcţionalitate
 
 description: >- # used by seo meta and the atom feed
-  Câteva indicii utile pe care începătorii de Mautic le pot avea rapid.
+  Descoperă platforme open-source şi urmăreşte tutorialele detaliate împreună cu sfaturile utile. Economisește mii de euro anual și bucură-te de funcționalități fără costuri extra. Ai nevoie de ajutor? Ofer un serviciu de transfer de la platformele plătite la cele open-source.
 
 # Fill in the protocol & hostname for your site.
 # e.g. 'https://username.github.io', note that it does not end with a '/'.
 url: "https://ionutojicade.github.io"
+
+author: ionut
 
 github:
   username: ionutojicade # change to your github username

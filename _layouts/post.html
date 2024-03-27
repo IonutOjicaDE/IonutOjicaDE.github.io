@@ -52,8 +52,10 @@ tail_includes:
         <span>
           {% if page.author %}
             {% assign authors = page.author %}
+            {% assign authors-headline = "Autorul articolului" %}
           {% elsif page.authors %}
             {% assign authors = page.authors %}
+            {% assign authors-headline = "Autorii articolului" %}
           {% endif %}
 
           {{ site.data.locales[lang].post.written_by }}
@@ -96,6 +98,7 @@ tail_includes:
     {{ content }}
   </div>
 
+
   <div class="post-tail-wrapper text-muted">
     <!-- categories -->
     {% if page.categories.size > 0 %}
@@ -123,6 +126,7 @@ tail_includes:
       </div>
     {% endif %}
 
+
     <div
       class="
         post-tail-bottom
@@ -147,3 +151,5 @@ tail_includes:
   </div>
   <!-- div.post-tail-wrapper -->
 </article>
+
+{% include post-authors.html authors=authors %}

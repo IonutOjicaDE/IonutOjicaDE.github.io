@@ -1,0 +1,13 @@
+## Template › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/advanced-usage.md#setting-author-url
+# -------------------------------------
+# {author_id}:
+#   name: {full name}
+#   twitter: {twitter_of_author}
+#   url: {homepage_of_author}
+# -------------------------------------
+
+ionut:
+  name: Ionuţ Ojică
+  picture: /assets/img/20190825_140952-Ionut-500x579.jpg
+  url: https://ionutojica.com/
+  description: Expert în platforme open-source, Ionuţ Ojică oferă tutoriale detaliate și sfaturi utile pentru a ajuta antreprenorii să economisească mii de euro anual. În timpul său liber, Ionuţ oferă un serviciu de transfer de la platformele plătite la cele open-source, permițându-vă să vă bucurați de funcționalități fără costuri extra.

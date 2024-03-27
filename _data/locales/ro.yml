@@ -1,0 +1,91 @@
+# Textul de layout al site-ului
+
+# ----- Etichete comune -----
+
+layout:
+  post: Postare
+  category: Categorie
+  tag: Etichetă
+
+# Filele din bara laterală
+tabs:
+  # format: <nume_fisier_fara_extensie>: <valoare>
+  home: Acasă
+  categories: Categorii
+  tags: Etichete
+  archives: Arhive
+  about: Despre
+
+# textul afișat în bara de căutare și rezultatele căutării
+search:
+  hint: Căutare
+  cancel: Anulează
+  no_results: Oops! Nu am găsit niciun rezultat.
+
+panel:
+  lastmod: Actualizat recent
+  trending_tags: Etichete populare
+  toc: Cuprins
+
+copyright:
+  # Afișat la sfârșitul postării
+  license:
+    template: Această postare este licențiată sub :LICENSE_NAME de către autor.
+    name: CC BY 4.0
+    link: https://creativecommons.org/licenses/by/4.0/
+
+  # Afișat în subsol
+  brief: Unele drepturi rezervate.
+  verbose: >-
+    Cu excepția cazurilor unde se specifică altfel, postările de pe acest site sunt licențiate
+    sub Licența Internațională Creative Commons Attribution 4.0 (CC BY 4.0) de către autor.
+
+meta: Folosind tema :THEME pentru :PLATFORM.
+
+not_found:
+  statment: Ne pare rău, am pierdut acel URL sau indică spre ceva care nu există.
+
+notification:
+  update_found: O nouă versiune a conținutului este disponibilă.
+  update: Actualizează
+
+# ----- Etichete legate de postări -----
+
+post:
+  written_by: De către
+  posted: Postat
+  updated: Actualizat
+  words: cuvinte
+  pageview_measure: vizualizări
+  read_time:
+    unit: min 
+    prompt: timp de citire
+  relate_posts: Articole din aceeaşi categorie
+  share: Distribuie
+  button:
+    next: Mai nou
+    previous: Mai vechi
+    copy_code:
+      succeed: Copiat!
+    share_link:
+      title: Copiază linkul
+      succeed: Link copiat cu succes!
+
+# Formatul datei și orei.
+# Vezi: <http://strftime.net/>, <https://day.js.org/docs/en/display/format>
+df:
+  post:
+    strftime: "%d.%m.%Y"
+    dayjs: "DD.MM.YYYY"
+  archives:
+    strftime: "%b"
+    dayjs: "MMM"
+
+# pagina de categorii
+categories:
+  category_measure:
+    singular: categorie
+    plural: categorii
+  post_measure:
+    singular: postare
+    plural: postări

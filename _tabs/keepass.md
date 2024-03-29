@@ -2,9 +2,11 @@
 icon: fas fa-lock
 categorie: [keepass]
 order: 25
+image: "/assets/img/keepass/2024-03-20-instalare-keepass.png"
+author: ionut
 ---
 
-### KeePass - 1. Instalare în Windows
+## KeePass - 1. Instalare în Windows
 
 Descarcă KeePass de aici: [KeePass.info](https://keepass.info/download.html)
 
@@ -12,7 +14,7 @@ Descarcă KeePass de aici: [KeePass.info](https://keepass.info/download.html)
 📺 [Watch Video](https://www.youtube.com/watch?v=3r-yWDdmjgo)
 
 
-### KeePass - 2. Crearea locală a fişierului de chei
+## KeePass - 2. Crearea locală a fişierului de chei
 
 1:20 Aici găseşti şi o idee practică, prin ce metodă să creezi parola master complexă, uşor de reţinut şi de introdus:
 1. alegem o propoziţie
@@ -29,7 +31,7 @@ Descarcă KeePass de aici: [KeePass.info](https://keepass.info/download.html)
 📺 [Watch Video](https://www.youtube.com/watch?v=8ExER5nEwgA)
 
 
-### KeePass - 3. Configurarea pe Windows
+## KeePass - 3. Configurarea pe Windows
 
 Un video mai lung în care trec cam prin cele mai importante aspecte pe care le-am putea personaliza în KeePass:
 
@@ -59,7 +61,7 @@ Un video mai lung în care trec cam prin cele mai importante aspecte pe care le-
 📺 [Watch Video](https://www.youtube.com/watch?v=kA-tNbix1I8)
 
 
-### KeePass - 4. Crearea contului de FTP şi adăugăm fişierul de chei
+## KeePass - 4. Crearea contului de FTP şi adăugăm fişierul de chei
 
 0:00 Intrarea în CPanel
 
@@ -73,7 +75,7 @@ Un video mai lung în care trec cam prin cele mai importante aspecte pe care le-
 📺 [Watch Video](https://www.youtube.com/watch?v=1m668ODsaDc)
 
 
-### KeePass - 5. Deschidem fişierul de chei din FTP
+## KeePass - 5. Deschidem fişierul de chei din FTP
 
 0:00 Informaţiile necesare pentru a deschide fişierul de chei din FTP
 
@@ -83,7 +85,7 @@ Un video mai lung în care trec cam prin cele mai importante aspecte pe care le-
 📺 [Watch Video](https://www.youtube.com/watch?v=qmwIO7sjIhM)
 
 
-### KeePass - 6. Plugin pentru copii de rezervă locale
+## KeePass - 6. Plugin pentru copii de rezervă locale
 
 0:00 Descarcă plugin-ul [DataBaseBackup de aici.](https://keepass.info/plugins.html#databasebackup)
 
@@ -95,7 +97,7 @@ Un video mai lung în care trec cam prin cele mai importante aspecte pe care le-
 📺 [Watch Video](https://www.youtube.com/watch?v=96NEhWpqY5w)
 
 
-### KeePass - 7. Plugin pentru integrarea cu browserele KeePassRPC şi Kee
+## KeePass - 7. Plugin pentru integrarea cu browserele KeePassRPC şi Kee
 
 0:00 Descarcă plugin-ul [KeePassRPC de aici.](https://github.com/kee-org/keepassrpc/releases)
 
@@ -109,14 +111,14 @@ Un video mai lung în care trec cam prin cele mai importante aspecte pe care le-
 📺 [Watch Video](https://www.youtube.com/watch?v=XmtJGTe0jWk)
 
 
-### KeePass - 8. Instalarea pe Android
+## KeePass - 8. Instalarea pe Android
 
 Caută aplicaţia [KeePass2Android pe GooglePlay.](https://play.google.com/store/apps/details?id=keepass2android.keepass2android&hl=en) de **Philipp Crocoll**
 
 {% include embed/youtube.html id='hBrHQT-71bg' %}
 📺 [Watch Video](https://www.youtube.com/watch?v=hBrHQT-71bg)
 
-### KeePass - 9. Configurarea pe Android
+## KeePass - 9. Configurarea pe Android
 
 {% include embed/youtube.html id='F_Mr0W2uPFY' %}
 📺 [Watch Video](https://www.youtube.com/watch?v=F_Mr0W2uPFY)

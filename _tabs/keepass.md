@@ -116,7 +116,9 @@ Un video mai lung în care trec cam prin cele mai importante aspecte pe care le-
 Caută aplicaţia [KeePass2Android pe GooglePlay.](https://play.google.com/store/apps/details?id=keepass2android.keepass2android&hl=en) de **Philipp Crocoll**
 
 1:00 Deschide fişierul de parole de pe FTP
+
 3:23 Cum se foloseşte programul
+
 4:40 Cum modifici o intrare: adaugi o notă, un câmp nou
 
 {% include embed/youtube.html id='hBrHQT-71bg' %}
@@ -125,9 +127,13 @@ Caută aplicaţia [KeePass2Android pe GooglePlay.](https://play.google.com/store
 ## KeePass - 9. Configurarea pe Android
 
 0:25 Deblochezi parolele folosind amprenta
+
 3:45 Schimbă limba programului pe română
+
 6:25 Activează completarea automată
+
 8:05 Activează să se verifice automat dacă s-a modificat fişierul pe FTP înainte de a salva
+
 9:20 Activează să îmbine automat schimbările
 
 {% include embed/youtube.html id='F_Mr0W2uPFY' %}

@@ -2,7 +2,7 @@
 icon: fas fa-tags
 title: Adaug o etichetă
 categories: [etichete]
-tags: [etichete,adaug,inwork,novideo]
+tags: [etichete,adaug]
 author: ionut
 ---
 

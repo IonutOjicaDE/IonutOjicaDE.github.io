@@ -2,7 +2,7 @@
 icon: fas fa-tags
 title: Creez un segment cu cei care au etichete
 categories: [etichete]
-tags: [etichete,segment,inwork,novideo]
+tags: [etichete,segment]
 author: ionut
 ---
 

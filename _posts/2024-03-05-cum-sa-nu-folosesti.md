@@ -51,6 +51,6 @@ Se poate întâmpla că avem ideea să atribuim o etichetă contactului care int
 
 Dacă salvez campania cu această acţiune inutilă, Mautic va înregistra câte o eroare de fiecare dată când va fi executat pasul pentru un contact.
 
-[Vezi detaliat aici]({% post_url 2024-03-18-campanii-capcana-acţiuni-libere %})
+[Vezi detaliat aici]({% post_url 2024-03-18-campanii-capcana-actiuni-libere %})
 
 

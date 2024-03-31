@@ -1,6 +1,6 @@
 ---
 icon: fas fa-lock
-title: Instalarea KeePass pe Android, deschiderea fişierului de pe FTP, configurarea
+title: 3.Instalarea KeePass pe Android, deschiderea fişierului de pe FTP, configurarea
 categories: [keepass]
 tags: [keepass,android,keepass2android]
 author: ionut

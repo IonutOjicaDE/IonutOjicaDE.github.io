@@ -1,6 +1,6 @@
 ---
 icon: fas fa-lock
-title: Instalarea KeePass pe Windows, crearea fişierului de chei şi configurarea, plugin-uri
+title: 1.Instalarea KeePass pe Windows, crearea fişierului de chei şi configurarea, plugin-uri
 categories: [keepass]
 tags: [keepass,windows]
 author: ionut

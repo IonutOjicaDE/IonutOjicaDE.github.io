@@ -33,8 +33,8 @@ Cu KeePass, controlezi complet unde și cum sunt stocate parolele tale. Poți ac
 
 [//]: Imagine: O invitație caldă și încurajatoare de a explora mai mult.
 
-![Urmăreşte tutorialul ](/assets/img/keepass/intro-06-600x400.jpg){: width="600" height="400" .w-25 .right .shadow .rounded-10}
 ### Urmăreşte acum tutorialul şi foloseşte KeePass
+![Urmăreşte tutorialul ](/assets/img/keepass/intro-06-600x400.jpg){: width="600" height="400" .w-25 .right .shadow .rounded-10}
 Deci, ești gata să iei controlul securității tale online? Urmăreşte întregul tutorial pentru a afla cum să configurezi și să utilizezi KeePass în cel mai eficient mod posibil. Hai să facem primul pas împreună spre o lume digitală mai sigură.
 
 [//]: Imagine: Logo-ul KeePass, împreună cu un text "Începe acum!"

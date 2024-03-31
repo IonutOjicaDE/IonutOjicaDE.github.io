@@ -1,6 +1,6 @@
 ---
 icon: fas fa-lock
-title: Beneficiile folosirii KeePass ca manager de parole
+title: 0.Beneficiile folosirii KeePass ca manager de parole
 categories: [keepass]
 tags: [keepass,beneficii]
 author: ionut

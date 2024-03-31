@@ -1,6 +1,6 @@
 ---
 icon: fas fa-lock
-title: Crearea contului de FTP pe hosting-ul tău, copierea fişierului de chei pe ftp
+title: 2.Crearea contului de FTP pe hosting-ul tău, copierea fişierului de chei pe ftp
 categories: [keepass]
 tags: [keepass,ftp]
 author: ionut

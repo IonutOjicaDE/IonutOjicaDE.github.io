@@ -50,7 +50,7 @@ Cu KeePass, controlezi complet unde și cum sunt stocate parolele tale. Poți ac
 [//]: Imagine: O invitație caldă și încurajatoare de a explora mai mult.
 
 ### Urmăreşte acum tutorialul şi foloseşte KeePass
-![Urmăreşte tutorialul ](/assets/img/keepass/intro-06-600x400.jpg){: width="600" height="400" .w-25 .right .shadow .rounded-10}
+![Urmăreşte tutorialul ](/assets/img/keepass/intro-06-600x400.jpg){: width="600" height="400" .w-50 .right .shadow .rounded-10}
 Deci, ești gata să iei controlul securității tale online? Urmăreşte întregul tutorial pentru a afla cum să configurezi și să utilizezi KeePass în cel mai eficient mod posibil. Hai să facem primul pas împreună spre o lume digitală mai sigură.
 
 [//]: Imagine: Logo-ul KeePass, împreună cu un text "Începe acum!"
@@ -63,7 +63,7 @@ Mai sunt şi alte vulnerabilităţi de care KeePass nu te protejează, ci este n
 * **Spoofing**: falsificarea unei adrese IP sau a unui email pentru a se prezenta ca o sursă de încredere
 * **Malware**: atunci când instalăm programe care fac şi alte lucruri decât spun, cunoscute ca ransomware, troieni, spyware, viruşi, viermi, keyloggers, boţi, cryptojacking
 
-Când suspectez un fişier de viruşi, mă folosesc gratuit de acest verificator: https://www.eset.com/de/home/online-scanner/ .
+Când suspectez un fişier de viruşi, mă folosesc gratuit de acest verificator: [Eset Online Scanner](https://www.eset.com/de/home/online-scanner/) .
 
 Parole bine salvate de KeePass implică ca şi noi să fim mai conştienţi unde introducem datele. Unele semnale de alarmă la care să fim atenţi pentru a ne proteja sunt:
 
@@ -78,7 +78,7 @@ Parole bine salvate de KeePass implică ca şi noi să fim mai conştienţi unde
 9. **Software necunoscut pe dispozitivul nostru**: Dacă observăm aplicații sau programe pe care nu le-am instalat pe dispozitivul nostru, acestea ar putea fi un semn al unui atac
 10. **Performanță lentă a dispozitivului**: Dacă calculatorul sau telefonul devine brusc lent sau se blochează frecvent, acesta poate fi un semn al unui atac
 
-Ca regulă generală, orice cerere urgentă pe care nu o aşteptăm, **nu răspundem imediat la ea**. Ne luăm timp pentru a verifica expeditorul: îl putem contacta şi pe un alt canal; dacă am primit un email, îl putem suna pe telefon, trimite mesaj prin WhatsApp şi aşteptăm răspunsul. Între timp putem verifica şi linkul de plată sau alte date, să fie ce presupune că ar trebui să fie.
+Ca regulă generală, orice cerere urgentă pe care nu o aşteptăm, **nu răspundem imediat la ea**. Ne luăm timp pentru a verifica expeditorul: îl putem contacta şi pe un alt canal; dacă am primit un email, îl putem suna pe telefon, trimite mesaj prin WhatsApp şi aşteptăm răspunsul. Între timp putem verifica şi linkul de plată sau alte date, să ne asigurăm că este ce presupune că ar trebui să fie.
 
 ## Parcurge tutorialul acum pentru a instala KeePass:
 

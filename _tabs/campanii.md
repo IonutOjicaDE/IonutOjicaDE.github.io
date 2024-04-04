@@ -3,6 +3,7 @@ icon: fas fa-clock
 title: Campanii / Automatizări
 categorie: [campanii]
 order: 7
+comments: true
 ---
 
 Specific la Mautic este: campaniile care au deja contacte în ele nu pot fi modificate.

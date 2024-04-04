@@ -4,6 +4,7 @@ categorie: [keepass]
 order: 25
 image: "/assets/img/keepass/2024-03-20-instalare-keepass.png"
 author: ionut
+comments: true
 ---
 
 ![Internetul: o lume digitală, date care curg](/assets/img/keepass/intro-01-600x400.jpg){: width="600" height="400" .w-25 .left .shadow .rounded-10}

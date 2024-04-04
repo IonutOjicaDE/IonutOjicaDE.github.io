@@ -2,6 +2,7 @@
 icon: fas fa-envelope
 categorie: [emailuri]
 order: 8
+comments: true
 ---
 
 ### A/B Testing

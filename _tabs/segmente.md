@@ -3,6 +3,7 @@ icon: fas fa-pie-chart
 title: Segmente / Liste de contacte
 categorie: [segmente]
 order: 6
+comments: true
 ---
 
 ### Cum văd contactele dintr-un segment?

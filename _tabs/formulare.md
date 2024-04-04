@@ -2,6 +2,7 @@
 icon: fas fa-brands fa-wpforms
 categorie: [formulare]
 order: 6
+comments: true
 ---
 
 ### Următoarele informaţii putem prelua de la persoanele care se înscriu prin formulare:

@@ -2,6 +2,7 @@
 icon: fas fa-tags
 categorie: [etichete]
 order: 12
+comments: true
 ---
 
 Etichetele sunt un lucru super util, pentru a identifica ulterior contactele care au făcut anumite acţiuni.

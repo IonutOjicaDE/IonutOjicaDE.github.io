@@ -2,7 +2,7 @@
 icon: fas fa-user
 title: Adaug contacte într-o campanie
 categories: [contacte]
-tags: [contacte,contacts,adaug,campanii,inwork,novideo]
+tags: [contacte,contacts,adaug,campanii]
 mermaid: true
 author: ionut
 ---
@@ -48,10 +48,8 @@ flowchart LR
   class B,F alb
 ```
 
-[//]: # (Comming soon video)
-
-{% include embed/youtube.html id='LMlCN6_vUvs' %}
-📺 [Vezi Video](https://www.youtube.com/watch?v=LMlCN6_vUvs)
+{% include embed/youtube.html id='cMppwiTidMc' %}
+📺 [Vezi Video](https://www.youtube.com/watch?v=cMppwiTidMc)
 
 ## <i class='fas fa-user'></i> 2. Cum adaug mai multe contacte la o campanie?
 Pentru a adăuga câteva contacte (sub 100) la un segment static, poţi urma paşii de mai jos.
@@ -85,10 +83,8 @@ flowchart LR
   class A2,B1 alb
 ```
 
-[//]: # (Comming soon video)
-
-{% include embed/youtube.html id='LMlCN6_vUvs' %}
-📺 [Vezi Video](https://www.youtube.com/watch?v=LMlCN6_vUvs)
+{% include embed/youtube.html id='cMppwiTidMc' %}
+📺 [Vezi Video](https://www.youtube.com/watch?v=cMppwiTidMc)
 
 ## <i class='fas fa-user'></i> 3. Cum adaug foarte multe contacte la o campanie?
 Pentru a adăuga foarte multe contacte (peste 100) la o campanie, poţi urma paşii de mai jos:
@@ -112,7 +108,5 @@ flowchart TD
   end
 ```
 
-[//]: # (Comming soon video)
-
-{% include embed/youtube.html id='LMlCN6_vUvs' %}
-📺 [Vezi Video](https://www.youtube.com/watch?v=LMlCN6_vUvs)
+{% include embed/youtube.html id='d1i0Dexoksk' %}
+📺 [Vezi Video](https://www.youtube.com/watch?v=d1i0Dexoksk)

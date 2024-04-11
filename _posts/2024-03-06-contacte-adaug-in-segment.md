@@ -1,6 +1,6 @@
 ---
 icon: fas fa-user
-title: Adaug contacte într-un segment static
+title: Cum adaug contacte într-un segment static?
 categories: [contacte]
 tags: [contacte,contacts,adaug,segmente]
 mermaid: true

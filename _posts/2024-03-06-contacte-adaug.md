@@ -1,6 +1,6 @@
 ---
 icon: fas fa-user
-title: Adaug manual un nou contact
+title: Cum adaug manual un nou contact?
 categories: [contacte]
 tags: [contacte,contacts,adaug,nou]
 mermaid: true

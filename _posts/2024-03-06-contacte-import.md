@@ -1,6 +1,6 @@
 ---
 icon: fas fa-user
-title: Import şi export contacte
+title: Cum import şi export contacte?
 categories: [contacte]
 tags: [contacte,contacts,import,export,csv]
 redirect_from: "/2024-03-06-contacte-export/"

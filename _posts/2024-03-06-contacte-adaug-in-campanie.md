@@ -1,6 +1,6 @@
 ---
 icon: fas fa-user
-title: Adaug contacte într-o campanie
+title: Cum adaug contacte într-o campanie?
 categories: [contacte]
 tags: [contacte,contacts,adaug,campanii]
 mermaid: true

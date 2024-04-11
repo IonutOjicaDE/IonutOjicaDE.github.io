@@ -24,7 +24,7 @@ _Mautic ne arată că un contact cu aceeaşi adresă de email există când adă
 ![Mautic ne arată că un contact cu aceeaşi adresă de email există când adăugăm contactul normal](/assets/img/contacte/2024-03-12-contacte-capcana-adaug-nou.png){: .shadow .rounded-10 w='1008' h='1259' }
 _Mautic ne arată că un contact cu aceeaşi adresă de email există când adăugăm contactul normal_
 
-> Evită să adaugi încă un contact cu o adresă de email care există deja în baza de date! Pot apare probleme la actualizarea Segmentelor cu anumite filtre.
+> Este recomandat să evităm să adaugăm încă un contact cu o adresă de email care există deja în baza de date! Pot apare probleme la actualizarea Segmentelor cu anumite filtre.
 {: .prompt-warning }
 
 Ce s-a întâmplat în cazul meu concret, în care erau 2 contacte cu aceeaşi adresă de email:

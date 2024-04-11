@@ -48,8 +48,8 @@ flowchart LR
   class B,F alb
 ```
 
-{% include embed/youtube.html id='cMppwiTidMc' %}
-📺 [Vezi Video](https://www.youtube.com/watch?v=cMppwiTidMc)
+{% include embed/youtube.html id='QNVlJBW4qp8' %}
+📺 [Vezi Video](https://www.youtube.com/watch?v=QNVlJBW4qp8)
 
 ## <i class='fas fa-user'></i> 2. Cum adaug mai multe contacte la o campanie?
 Pentru a adăuga câteva contacte (sub 100) la un segment static, poţi urma paşii de mai jos.

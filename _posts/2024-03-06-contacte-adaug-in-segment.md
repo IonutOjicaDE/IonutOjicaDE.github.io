@@ -35,7 +35,7 @@ flowchart LR
 
     subgraph Preferences[Contact Preference Center]
       direction TB
-      E{{"`tab-ul **Segmente**`"}} --> F(aleg segmentul)
+      E[["`tab-ul **Segmente**`"]] --> F(aleg segmentul)
       F --> G[fas:fa-save Salvare]
     end
 

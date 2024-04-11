@@ -6,7 +6,7 @@ tags: [contacte,contacts,capcane,inwork,novideo]
 author: ionut
 ---
 
-> Este recomandat să evităm să adaugăm încă un contact cu o adresă de email care există deja în baza de date! Pot apare probleme la actualizarea Segmentelor cu anumite filtre. [Capcana: contacte cu acelaşi email]({% post_url 2024-03-12-contacte-capcana-adaug-acelasi-email.md %})
+> Este recomandat să evităm să adaugăm încă un contact cu o adresă de email care există deja în baza de date! Pot apare probleme la actualizarea Segmentelor cu anumite filtre. [Capcana: contacte cu acelaşi email]({% post_url 2024-03-12-contacte-capcana-adaug-acelasi-email %})
 {: .prompt-warning }
 
 ## Descopăr care contacte au aceeaşi adresă de email

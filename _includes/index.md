@@ -39,20 +39,19 @@ Super! Nu-l păstra te rog doar pentru tine. Trimite-mi răspunsul tău [aici](h
 
 ## Sunt nou în Mautic, cu ce să încep?
 1. Hai întâi să încercăm să vorbim aceeaşi limbă. Adică să clarificăm nişte cuvinte: [Termeni]({% post_url 2024-03-05-termeni %})
-1. Apoi îţi recomand să parcurgi pe diagonală, doar să iei la cunoştinţă cum putem strica Mautic nasol - pentru a limita destul de clar locul de joacă: [Cum să nu foloseşti Mautic]({% post_url 2024-03-05-cum-sa-nu-folosesti %})
+1. Apoi îţi recomand să parcurgi pe diagonală, doar să iei la cunoştinţă cum putem strica Mautic nasol - pentru a limita destul de clar _locul de joacă_: [Cum să nu foloseşti Mautic]({% post_url 2024-03-05-cum-sa-nu-folosesti %})
   * nu insista în această zonă, să nu ajungi să fii demotivat :)
 1. Apoi:
-  1. [Adaugă primul contact]({% post_url 2024-03-06-contacte-adaug %})
-  1. [Adaugă primul segment]({% post_url 2024-03-15-segmente-adaug %})
-  1. [Adaugă primul formular]({% post_url 2024-03-07-formulare-adaug %})
-  1. [Adaugă formularul pe pagină]({% post_url 2024-03-07-formulare-pe-pagina %})
+    1. [Adaugăm primul contact]({% post_url 2024-03-06-contacte-adaug %})
+    1. [Adaugăm primul segment]({% post_url 2024-03-15-segmente-adaug %})
+    1. [Adaugăm primul formular]({% post_url 2024-03-07-formulare-adaug %})
+    1. [Adaugăm formularul pe pagină]({% post_url 2024-03-07-formulare-pe-pagina %})
 1. Şi putem continua cu:
-  1. [Import/export contacte]({% post_url 2024-03-06-contacte-import %})
-  1. Modifică un contact
-  1. Modifică un segment
-  1. [Modifică un formular]({% post_url 2024-03-07-formulare-modific %})
+    1. [Import/export contacte]({% post_url 2024-03-06-contacte-import %})
+    1. Modificăm un contact
+    1. Modificăm un segment
+    1. [Modificăm un formular]({% post_url 2024-03-07-formulare-modific %})
 1. Şi mai complex:
-  1. [Verific istoricul unui contact]({% post_url 2024-03-06-contacte-verific %})
-  1. 
+    1. [Verificăm istoricul unui contact]({% post_url 2024-03-06-contacte-verific %})
 
 ## Ultimele postări

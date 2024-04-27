@@ -9,7 +9,7 @@ Mă orientez după versiunea de Mautic 4.4.11 . Este foarte posibil că aceste i
 
 Un tur video recomandat începătorilor în Mautic. Pe modul rapid trecem prin ce setări sunt şi unde. Apoi şi prin funcţiile pe care le putem folosi în Mautic şi cum se leagă între ele.
 
-{% include embed/youtube.html id='fr35fbgZePQ' %}
+<iframe class="embed-video youtube" loading="lazy" style="max-width:790px;max-height:445px;" src="http://www.youtube.com/embed/fr35fbgZePQ" title="YouTube Video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 📺 [Vezi Video pe Youtube](https://www.youtube.com/watch?v=fr35fbgZePQ)
 
 ## Pentru cine este documentaţia?

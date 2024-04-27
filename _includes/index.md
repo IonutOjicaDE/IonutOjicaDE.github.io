@@ -5,6 +5,13 @@ Mautic este intuitiv? **Da** şi **nu**. Pentru a fi clar, am adunat aici între
 
 Mă orientez după versiunea de Mautic 4.4.11 . Este foarte posibil că aceste informaţii vor fi 1:1 valabile şi pentru versiunile 5 şi pentru 6.
 
+## Descrierea setărilor şi a funcţiilor Mautic
+
+Un tur video recomandat începătorilor în Mautic. Pe modul rapid trecem prin ce setări sunt şi unde. Apoi şi prin funcţiile pe care le putem folosi în Mautic şi cum se leagă între ele.
+
+{% include embed/youtube.html id='fr35fbgZePQ' %}
+📺 [Vezi Video pe Youtube](https://www.youtube.com/watch?v=fr35fbgZePQ)
+
 ## Pentru cine este documentaţia?
 * Vrei să afli cum se lucrează în Mautic şi dacă te poţi descurca cu el
 * Ai folosit sau nu alte programe de marketing prin email

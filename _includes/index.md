@@ -9,6 +9,12 @@ Mă orientez după versiunea de Mautic 4.4.11 . Este foarte posibil că aceste i
 
 Un tur video recomandat începătorilor în Mautic. Pe modul rapid trecem prin ce setări sunt şi unde. Apoi şi prin funcţiile pe care le putem folosi în Mautic şi cum se leagă între ele.
 
+### Ce anume îmi place la Mautic?
+* **Este foarte rapid**: fără întârzieri specifice internetului
+* **Are foarte multe funcţionalităţi implicite**: etichete, puncte, fişiere, linkuri de redirecţionare, conţinut dinamic, câmpuri personalizate, segmente dinamice, campanii cu multe decizii/condiţii/acţiuni
+* **Update-uri**: noi decidem când să facem o actualizare şi nu ne trezim peste noapte cu schimbări în interfaţă
+* **Cost**: pe lângă toate astea, este şi mult mai ieftin decât ActiveCampaign, MailChimp sau MailerLite, mai ales peste 2.500 de contacte
+
 <iframe class="embed-video youtube" loading="lazy" style="max-width:790px;max-height:445px;" src="https://www.youtube.com/embed/fr35fbgZePQ" title="YouTube Video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 📺 [Vezi Video pe Youtube](https://www.youtube.com/watch?v=fr35fbgZePQ)
 

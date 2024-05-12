@@ -1,8 +1,8 @@
 ---
 icon: fas fa-video
-title: Cum schimbăm data următorului webinar?
+title: Cum reprogramăm data următorului webinar?
 categories: [webinar]
-tags: [webinar,actualizare data,schimbare data]
+tags: [webinar,actualizare data,schimbare data, reprogramare]
 author: ionut
 ---
 

@@ -17,3 +17,5 @@ author: ionut
 
 {% include embed/youtube.html id='3nWS-C07AAI' %}
 📺 [Vezi Video](https://www.youtube.com/watch?v=3nWS-C07AAI)
+
+Aici poţi vedea cum se [adaugă un cronometru în email]({% post_url 2024-04-12-email-cronometru %}).

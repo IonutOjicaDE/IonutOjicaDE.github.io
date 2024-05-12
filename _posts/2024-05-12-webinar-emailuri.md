@@ -23,7 +23,9 @@ Automatizarea webinarului are deja create emailuri pentru fiecare pas:
   * inclusiv cu un produs mai avantajos (downsell)
   * şi cu un email de final pentru a cere feedback
 
-Este posibilă extinderea funcţionalităţii automatizării webinarului, pentru ca emailurile ulterioare de vânzare să nu se mai trimită la persoanele care au cumpărat deja.
-
 {% include embed/youtube.html id='4Wknhesqq8E' %}
 📺 [Vezi Video](https://www.youtube.com/watch?v=4Wknhesqq8E)
+
+Este posibilă extinderea funcţionalităţii automatizării webinarului, pentru ca emailurile ulterioare de vânzare să nu se mai trimită la persoanele care au cumpărat deja. Pentru implementare va fi nevoie de acces la magazinul tău online sau metoda de plată folosită de tine pentru ofertele tale, pentru ca să facem să se trimită un mesaj de "finalizare plată" şi la Mautic.
+
+Dar poate nu te interesează toate aceste detalii - ia [contact cu mine aici](https://ionutojica.com/home/contact/) şi putem concretiza direct pentru cazul tău.

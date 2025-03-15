@@ -84,9 +84,9 @@ Seria de emailuri din funnel sunt prezentate aici: [emailuri funnel]({% post_url
 Îmbunătăţiri pot fi şi pe partea de conţinut dar şi pe partea de organizare, incluzând categoria şi etichetele unei întrebări - orice sfat este luat în considerare.
 
 ## Ce sa fac daca am intrebari pe care nu le gasesc aici?
-Presupun că ai folosit funcţia de căutare. Dacă tot nu găseşti răspunsul dorit, atunci scrie-mi întrebarea ta aici: [contact](https://ionutojica.com/home/contact/) şi revin cu un răspuns, de regulă mai repede de 24h.
+Presupun că ai folosit funcţia de căutare. Dacă tot nu găseşti răspunsul dorit, atunci scrie-mi întrebarea ta aici: [contact](https://ionutojica.ro/home/contact/) şi revin cu un răspuns, de regulă mai repede de 24h.
 
 ## Am un raspuns mai bun
-Super! Nu-l păstra te rog doar pentru tine. Trimite-mi răspunsul tău [aici](https://ionutojica.com/home/contact/) şi spune-mi dacă e ok din partea ta să adaug şi numele tău la partea de mulţumiri ale răspunsului.
+Super! Nu-l păstra te rog doar pentru tine. Trimite-mi răspunsul tău [aici](https://ionutojica.ro/home/contact/) şi spune-mi dacă e ok din partea ta să adaug şi numele tău la partea de mulţumiri ale răspunsului.
 
 ## Ultimele postari

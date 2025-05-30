@@ -26,10 +26,11 @@ Un **client de email** este aplicația în care oamenii își citesc emailurile.
 🔍 Exemple de **clienți de email populari**:
 
 * **Gmail** (pe web și în aplicația mobilă)
+* **Yahoo** (pe web și în aplicația mobilă)
 * **Outlook** (pe desktop, mobil și web)
 * **Apple Mail** (pe iPhone, iPad, Mac)
-* **Yahoo Mail**, **Thunderbird**, **ProtonMail**
-* **Aplicații integrate în telefoane Android** (Samsung Email etc.)
+* **Thunderbird**, **ProtonMail**
+* Aplicații integrate în telefoane Android (**Samsung Email** etc.)
 
 ---
 
@@ -37,10 +38,12 @@ Un **client de email** este aplicația în care oamenii își citesc emailurile.
 
 1. **Fiecare client are regulile lui**
    Imaginează-ți că trimiți o invitație la petrecere prin poștă, dar fiecare prieten o primește în altă limbă. Unul în română, altul în chineză, altul o deschide cu o lupă.
+
    Așa sunt clienții de email. Fiecare **interpretează codul** în mod diferit. Gmail, de exemplu, nu respectă mereu spațierile sau fonturile. Outlook se ceartă cu imaginile. Apple Mail e mai prietenos, dar numai pe iPhone ecranul e mic.
 
 2. **Emailurile sunt „mini-site-uri cu restricții”**
    În timp ce browserul modern e ca un Ferrari care știe toate regulile de circulație, clienții de email sunt ca niște Dacii vechi — merg, dar nu prea cooperează.
+
    Nu suportă tehnologii moderne. Nu permit video, uneori nici fonturi personalizate. De asta designul trebuie „fentat” cu metode vechi, aproape ca în anii ‘90.
 
 3. **Nu știi unde va fi deschis emailul**
@@ -58,7 +61,7 @@ Ai un buton „Cumpără acum” cu fundal verde. În Gmail pe desktop: perfect.
 
 * **Clientul de email** = aplicația unde oamenii citesc emailuri (ex: Gmail, Outlook, Apple Mail).
 * Fiecare are reguli proprii și interpretează designul diferit.
-* Emailurile trebuie făcute cu „design de compromis” – care să arate decent peste tot, chiar dacă nu perfect.
+* Emailurile trebuie făcute cu „*design de compromis*” – care să arate decent peste tot, chiar dacă nu perfect.
 
 ---
 

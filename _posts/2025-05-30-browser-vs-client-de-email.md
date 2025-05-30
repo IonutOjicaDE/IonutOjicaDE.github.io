@@ -11,7 +11,7 @@ author: ionut
 #### ✅ Asemănări dintre browserul Firefox și clientul de email Outlook:
 
 1. **Afișează conținut HTML**
-   Atât browserul cât și clientul de email pot interpreta cod HTML – acesta este „scheletul” unei pagini web sau al unui email. Codul HTML nu conține doar conținutul text, ci și structura paginii (spațiere), unde și cum să fie afișat textul (fonturi, culori), ce elemente în plus să apară (imagini).
+   Atât browserul cât și clientul de email pot interpreta cod HTML – acesta este „scheletul” unei pagini web sau al unui email. Codul HTML nu conține doar textul de afișat, ci și structura paginii (spațiere), unde și cum să fie afișat textul (fonturi, culori), ce elemente în plus să apară (imagini).
 
 2. **Suportă elemente vizuale**
    Ambele pot afișa texte, imagini, tabele, butoane, linkuri etc. – pe scurt, pot „colora” experiența utilizatorului.
@@ -41,7 +41,9 @@ author: ionut
 ### 🎯 **Concluzie practică:**
 
 **Un email NU este un site web mic.**
+
 E normal ca newsletterul tău să nu arate identic peste tot – pentru că fiecare client de email îl interpretează în felul său, cu reguli proprii.
 
-🔧 Soluția?
+🔧 **Soluția?**
+
 Design simplu, structurat folosind tabele (da, ca-n epoca de piatră), testare în cei mai folosiți clienți de email și acceptarea faptului că „perfect” nu există în email marketing – dar **clar și eficient** da.

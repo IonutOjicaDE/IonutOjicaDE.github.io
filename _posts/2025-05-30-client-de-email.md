@@ -65,4 +65,4 @@ Ai un buton „Cumpără acum” cu fundal verde. În Gmail pe desktop: perfect.
 
 ---
 
-🔜 În partea 3, comparăm browserul cu clientul de email. Rămâi aproape — devine interesant!
+🔜 În partea 3, comparăm browserul cu clientul de email. [Citește aici — devine interesant!]({% post_url 2025-05-30-browser-vs-client-de-email %})

@@ -47,3 +47,7 @@ E normal ca newsletterul tău să nu arate identic peste tot – pentru că fiec
 🔧 **Soluția?**
 
 Design simplu, structurat folosind tabele (da, ca-n epoca de piatră), testare în cei mai folosiți clienți de email și acceptarea faptului că „perfect” nu există în email marketing – dar **clar și eficient** da.
+
+[Încă te întrebi ce este un browser? Citește aici.]({% post_url 2025-05-30-browser %})
+
+[Nu știi ce este un client de email? Citește aici.]({% post_url 2025-05-30-client-de-email %})

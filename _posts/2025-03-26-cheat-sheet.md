@@ -54,18 +54,28 @@ docker image prune -a
 ``` bash
 # acceseaza un container in modul interactiv (inlocuieste "nume_container")
 docker exec -it nume_container bash
+docker exec -it ionut-mautic_web-1 bash
+
+# -u www-data: execute as the www-data user, which is the same user as the webserver runs. This ensures that e.g. file permissions after clearing the cache are correct.
+# -w /var/www/html: set the working directory to the /var/www/html folder, which is the project root of Mautic.
+docker compose exec -u www-data -w /var/www/html mautic_web /bin/bash
 
 # acceseaza MySQL in containerul "db" (presupune ca ai definit serviciul "db" in docker-compose)
 docker exec -it $(docker ps -qf "name=db") mysql -u root -p
 
 # creeaza o imagine dupa Dockerfile din dosarul curent
-docker build -t ionutojicade/mautic:5.2.4-apache .
+docker build -t ionutojicade/mautic:6.0.0-apache .
 
 # porneste containerul nume_container
 docker start nume_container
 
 # sterge containerul cu id-ul respectiv (inlocuieste d7fb7d43a1ee)
 docker rm d7fb7d43a1ee
+
+# Ruleaza comenzi ca utilizatorul www-data
+su -s /bin/bash www-data -c "php /var/www/html/bin/console mautic:cache:clear"
+su -s /bin/bash www-data -c "php /var/www/html/bin/console mautic:plugins:reload"
+su -s /bin/bash www-data -c "php /var/www/html/bin/console debug:container log | grep SesApiTransportFactory"
 
 ```
 

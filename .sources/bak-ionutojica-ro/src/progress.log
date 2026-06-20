@@ -1,0 +1,63 @@
+[2026-06-20T21:14:59] START site=https://bak.ionutojica.ro sitemap=https://bak.ionutojica.ro/sitemaps.xml
+[2026-06-20T21:15:00] SITEMAP discovered=30 pages=30 posts=0 unknown=0
+[2026-06-20T21:15:03] ITEM_START 1/30 https://bak.ionutojica.ro/
+[2026-06-20T21:15:50] ITEM_OK 1/30 https://bak.ionutojica.ro/ time=47.7s
+[2026-06-20T21:15:50] ITEM_START 2/30 https://bak.ionutojica.ro/website/administrare-wordpress/
+[2026-06-20T21:17:40] ITEM_OK 2/30 https://bak.ionutojica.ro/website/administrare-wordpress/ time=109.1s
+[2026-06-20T21:17:40] ITEM_START 3/30 https://bak.ionutojica.ro/home/
+[2026-06-20T21:18:34] ITEM_OK 3/30 https://bak.ionutojica.ro/home/ time=54.3s
+[2026-06-20T21:18:34] ITEM_START 4/30 https://bak.ionutojica.ro/website/implementare-wordpress/
+[2026-06-20T21:19:26] ITEM_OK 4/30 https://bak.ionutojica.ro/website/implementare-wordpress/ time=52.0s
+[2026-06-20T21:19:26] ITEM_START 5/30 https://bak.ionutojica.ro/cursuri/implementare-learndash/
+[2026-06-20T21:20:05] ITEM_OK 5/30 https://bak.ionutojica.ro/cursuri/implementare-learndash/ time=39.3s
+[2026-06-20T21:20:05] ITEM_START 6/30 https://bak.ionutojica.ro/cursuri/administrare-learndash/
+[2026-06-20T21:20:51] ITEM_OK 6/30 https://bak.ionutojica.ro/cursuri/administrare-learndash/ time=46.0s
+[2026-06-20T21:20:51] ITEM_START 7/30 https://bak.ionutojica.ro/magazin/implementare-woocommerce/
+[2026-06-20T21:21:30] ITEM_OK 7/30 https://bak.ionutojica.ro/magazin/implementare-woocommerce/ time=38.2s
+[2026-06-20T21:21:30] ITEM_START 8/30 https://bak.ionutojica.ro/email/mautic-ses/
+[2026-06-20T21:22:18] ITEM_OK 8/30 https://bak.ionutojica.ro/email/mautic-ses/ time=48.5s
+[2026-06-20T21:22:18] ITEM_START 9/30 https://bak.ionutojica.ro/magazin/administrare-woocommerce/
+[2026-06-20T21:23:01] ITEM_OK 9/30 https://bak.ionutojica.ro/magazin/administrare-woocommerce/ time=43.1s
+[2026-06-20T21:23:01] ITEM_START 10/30 https://bak.ionutojica.ro/website/
+[2026-06-20T21:23:22] ITEM_OK 10/30 https://bak.ionutojica.ro/website/ time=21.2s
+[2026-06-20T21:23:22] ITEM_START 11/30 https://bak.ionutojica.ro/magazin/
+[2026-06-20T21:23:44] ITEM_OK 11/30 https://bak.ionutojica.ro/magazin/ time=21.1s
+[2026-06-20T21:23:44] ITEM_START 12/30 https://bak.ionutojica.ro/email/
+[2026-06-20T21:24:05] ITEM_OK 12/30 https://bak.ionutojica.ro/email/ time=21.2s
+[2026-06-20T21:24:05] ITEM_START 13/30 https://bak.ionutojica.ro/cursuri/
+[2026-06-20T21:24:26] ITEM_OK 13/30 https://bak.ionutojica.ro/cursuri/ time=21.3s
+[2026-06-20T21:24:26] ITEM_START 14/30 https://bak.ionutojica.ro/styleguide/
+[2026-06-20T21:26:02] ITEM_OK 14/30 https://bak.ionutojica.ro/styleguide/ time=95.8s
+[2026-06-20T21:26:02] ITEM_START 15/30 https://bak.ionutojica.ro/servicii/academiaonline/
+[2026-06-20T21:26:23] ITEM_OK 15/30 https://bak.ionutojica.ro/servicii/academiaonline/ time=21.3s
+[2026-06-20T21:26:23] ITEM_START 16/30 https://bak.ionutojica.ro/servicii/automatizari-email/
+[2026-06-20T21:26:44] ITEM_OK 16/30 https://bak.ionutojica.ro/servicii/automatizari-email/ time=21.1s
+[2026-06-20T21:26:44] ITEM_START 17/30 https://bak.ionutojica.ro/servicii/website-uri/
+[2026-06-20T21:27:05] ITEM_OK 17/30 https://bak.ionutojica.ro/servicii/website-uri/ time=21.1s
+[2026-06-20T21:27:05] ITEM_START 18/30 https://bak.ionutojica.ro/servicii/platforma-curs/
+[2026-06-20T21:27:27] ITEM_OK 18/30 https://bak.ionutojica.ro/servicii/platforma-curs/ time=21.3s
+[2026-06-20T21:27:27] ITEM_START 19/30 https://bak.ionutojica.ro/faq/
+[2026-06-20T21:27:48] ITEM_OK 19/30 https://bak.ionutojica.ro/faq/ time=21.1s
+[2026-06-20T21:27:48] ITEM_START 20/30 https://bak.ionutojica.ro/lista-de-asteptare/multumesc/
+[2026-06-20T21:28:09] ITEM_OK 20/30 https://bak.ionutojica.ro/lista-de-asteptare/multumesc/ time=21.2s
+[2026-06-20T21:28:09] ITEM_START 21/30 https://bak.ionutojica.ro/lista-de-asteptare/confirmat/
+[2026-06-20T21:28:30] ITEM_OK 21/30 https://bak.ionutojica.ro/lista-de-asteptare/confirmat/ time=21.2s
+[2026-06-20T21:28:30] ITEM_START 22/30 https://bak.ionutojica.ro/lista-de-asteptare/verifica-email/
+[2026-06-20T21:28:51] ITEM_OK 22/30 https://bak.ionutojica.ro/lista-de-asteptare/verifica-email/ time=21.1s
+[2026-06-20T21:28:51] ITEM_START 23/30 https://bak.ionutojica.ro/impressum/
+[2026-06-20T21:29:12] ITEM_OK 23/30 https://bak.ionutojica.ro/impressum/ time=21.1s
+[2026-06-20T21:29:12] ITEM_START 24/30 https://bak.ionutojica.ro/termeni-si-conditii/
+[2026-06-20T21:29:34] ITEM_OK 24/30 https://bak.ionutojica.ro/termeni-si-conditii/ time=21.2s
+[2026-06-20T21:29:34] ITEM_START 25/30 https://bak.ionutojica.ro/lista-de-asteptare/
+[2026-06-20T21:29:55] ITEM_OK 25/30 https://bak.ionutojica.ro/lista-de-asteptare/ time=21.2s
+[2026-06-20T21:29:55] ITEM_START 26/30 https://bak.ionutojica.ro/contact/
+[2026-06-20T21:30:16] ITEM_OK 26/30 https://bak.ionutojica.ro/contact/ time=21.2s
+[2026-06-20T21:30:16] ITEM_START 27/30 https://bak.ionutojica.ro/despre/
+[2026-06-20T21:30:37] ITEM_OK 27/30 https://bak.ionutojica.ro/despre/ time=21.2s
+[2026-06-20T21:30:37] ITEM_START 28/30 https://bak.ionutojica.ro/resurse/
+[2026-06-20T21:30:59] ITEM_OK 28/30 https://bak.ionutojica.ro/resurse/ time=21.3s
+[2026-06-20T21:30:59] ITEM_START 29/30 https://bak.ionutojica.ro/portofoliu/
+[2026-06-20T21:31:20] ITEM_OK 29/30 https://bak.ionutojica.ro/portofoliu/ time=21.2s
+[2026-06-20T21:31:20] ITEM_START 30/30 https://bak.ionutojica.ro/servicii/
+[2026-06-20T21:31:41] ITEM_OK 30/30 https://bak.ionutojica.ro/servicii/ time=21.3s
+[2026-06-20T21:31:41] DONE total=30 skipped=0 processed=30 time=1001.5s

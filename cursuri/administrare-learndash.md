@@ -1,118 +1,137 @@
 ---
-layout: service
-title: Administrare platformă de cursuri LearnDash
-description: "Înveți să administrezi platforma ta de cursuri: structură, acces, progres, testare și confirmări."
-permalink: /cursuri/administrare-learndash/
-toc: true
-comments: false
+layout: page
+permalink: "/cursuri/administrare-learndash/"
+source_url: "https://bak.ionutojica.ro/cursuri/administrare-learndash/"
+saved_at: "20260620-211459"
+slug: "cursuri-administrare-learndash"
+content_type: "page"
+title: "Administrare platformă de cursuri (DIY)"
 ---
 
-# Administrare platformă de cursuri LearnDash
+## Pentru cine este / pentru cine nu este
 
-{: .lead }
-Devii administratorul platformei tale de cursuri. Nu înveți doar unde sunt setările dintr-un plugin, ci cum verifici fluxul complet: structură curs, acces, progres, emailuri esențiale și testare înainte de lansare.
+### Oferta aceasta este pentru tine dacă vrei să înțelegi cum funcționează platforma ta de cursuri și să o poți administra singur, fără să depinzi de cineva pentru fiecare schimbare.
 
-<div class="cta-row">
-  <a class="button-primary" href="https://pro.ionutojica.ro/checkout-link/?products=779:1">Înscrie-te la cursul LearnDash</a>
-  <a class="button-secondary" href="{% link cursuri/implementare-learndash.md %}">Vreau platforma implementată pentru mine</a>
-</div>
+### Este pentru tine dacă:
 
-## Pentru cine este
+- vrei să devii administratorul propriei platforme LearnDash
+- vrei să înțelegi structura cursurilor, lecțiilor și chestionarelor
+- vrei să poți verifica singur accesul, progresul și scenariile de test
+- accepți să lucrezi în pași, cu ordine și verificare
 
-<div class="split-grid">
-<div markdown="1">
+### Nu este pentru tine dacă:
 
-### Potrivit dacă
+- vrei platforma instalată și configurată complet pentru tine
+- vrei să delegi execuția tehnică și să intri direct pe un sistem gata operabil
+- nu vrei să testezi, să verifici și să înțelegi logica de administrare
+- cauți o soluție în care altcineva preia implementarea cap-coadă
 
-- ai sau pregătești o platformă de cursuri pe WordPress;
-- vrei să operezi singur cursuri, lecții, chestionare și acces;
-- accepți să aplici între sesiuni;
-- vrei o rutină de testare, nu tutoriale amestecate.
+## Rezultatul de învățare
 
-</div>
-<div markdown="1">
+### După parcurgere, nu rămâi cu informație dispersată, ci cu o logică de administrare pe care o poți repeta singur pe platforma ta.
 
-### Nepotrivit dacă
+- vei ști să structurezi cursuri, lecții și chestionare într-o ordine clară
+- vei ști să configurezi și să verifici regulile de acces pentru cursanți
+- vei putea urmări dacă progresul și logica de parcurgere funcționează corect
+- vei ști să testezi scenariile critice înainte de lansare sau modificări importante
+- vei putea identifica mai repede unde să verifici când apare o problemă de acces sau de funcționare
+- vei putea administra platforma fără să depinzi permanent de altcineva pentru schimbările uzuale
 
-- vrei platforma făcută complet pentru tine;
-- nu ai timp să aplici;
-- nu ai măcar o structură minimă de curs;
-- cauți doar informații gratuite despre pluginuri.
+## Ce primești concret / Formatul ofertei
 
-</div>
-</div>
+### Oferta aceasta nu este implementare făcută pentru tine. Este un format de instruire practică, construit ca să poți înțelege, executa și repeta singur administrarea platformei tale LearnDash.
 
-## Ce vei putea face concret
+## Instruire aplicată
 
-- organizezi structura cursurilor, lecțiilor și chestionarelor;
-- verifici accesul unui cursant nou după plată sau înscriere;
-- testezi fluxul plată → acces → email;
-- înțelegi ce trebuie verificat înainte de lansare;
-- reduci dependența pentru operarea de bază.
+Primești ghidare orientată pe operare, nu prezentări generale despre pluginuri sau concepte fără aplicare.
 
-## Cum se lucrează
+## Proceduri de lucru
 
-1. Clarifici structura minimă a cursului.
-2. Configurezi accesul și regulile de înscriere.
-3. Testezi ca utilizator nou, nu doar ca administrator.
-4. Verifici emailurile și confirmările esențiale.
-5. Notezi procedura ca să o poți repeta la următorul curs.
+Primești pași clari pentru acțiunile esențiale de administrare, astfel încât să poți repeta aceeași logică fără improvizații.
 
-## Ce înveți în ordinea corectă
+## Repere de verificare
 
-- WordPress și LearnDash ca sistem, nu ca plugin izolat;
-- structură curs, lecții, progres și chestionare;
-- acces cursanți și reguli de înscriere;
-- testare completă înainte de publicare;
-- operare după lansare: verificări, corecții, rutină.
+Primești scenarii de testare și puncte de control prin care verifici dacă accesul și funcționarea platformei sunt corecte.
 
-## Riscuri controlate
+## Logică reutilizabilă
 
-{: .notice }
-**WARNING:** Dacă sari peste testarea accesului, cursanții pot rămâne blocați după plată. Acțiune sigură: testezi fluxul complet ca utilizator nou.
+Primești un cadru de administrare pe care îl poți reaplica atunci când adaugi, modifici sau verifici cursurile tale
 
-{: .notice }
-**DANGER:** Nu lansa cursul fără test plată → acces → email. Alternativă sigură: rulezi o simulare completă înainte de publicare.
+## Ce acoperă oferta
 
-{: .notice }
-**CONSENT:** Cursul cere pași în ordine, testare și aplicare proprie. Nu este implementare DFY făcută în locul tău.
+### Oferta acoperă administrarea practică a platformei LearnDash în zonele esențiale, astfel încât să poți lucra singur cu mai mult control și mai puțină improvizație.
 
-## Ce intră, ce nu intră și ce ai nevoie
+### Intră în ofertă:
 
-| Intră în curs | Nu intră în curs |
-|---|---|
-| Ghidare pentru administrare LearnDash | Platformă construită complet pentru tine |
-| Pași de configurare și verificare | Strategie completă de lansare |
-| Checklist de testare plată → acces → email | Copywriting, campanii sau funnel complet |
-| Clarificarea diferenței DIY / DFY | Suport nelimitat sau dezvoltare custom |
+- structurarea cursurilor și organizarea conținutului în logică de administrare
+- configurarea lecțiilor și a chestionarelor
+- regulile de acces și logica de progres
+- scenariile de testare pentru verificarea funcționării
+- punctele de control pe care le verifici înainte de lansare sau modificări importante
 
-Ai nevoie de o structură minimă de curs, acces la WordPress/hosting și disponibilitate de aplicare între sesiuni. Deciziile obligatorii sunt: structura cursului, regulile de acces și modul în care testezi lansarea.
+### Nu este scopul acestei oferte:
 
-## DIY sau DFY?
+- implementarea completă a platformei în locul tău
+- preluarea administrării curente de către altcineva
+- înlocuirea disciplinei de testare și execuție din partea ta
 
-Alege această variantă dacă vrei autonomie și poți lucra pe propria platformă. Alege [implementarea LearnDash]({% link cursuri/implementare-learndash.md %}) dacă vrei ca platforma să fie configurată și predată operabil.
+## Parcursul de lucru
 
-## Întrebări de evaluare
+### Parcursul este construit în ordinea în care administrarea devine clară și sigură: mai întâi înțelegi structura, apoi configurezi, verifici și abia după aceea operezi cu încredere.
 
-### Am nevoie de o platformă deja instalată?
+## Structură
 
-Ideal este să ai un WordPress pe care poți lucra. Dacă nu îl ai încă, trebuie să poți lua deciziile de bază despre hosting și domeniu.
+pornești de la logica platformei: cum organizezi cursurile, lecțiile și chestionarele, ca să nu construiești haotic de la prima configurare.
 
-### Este cursul despre lansare și marketing?
+## Acces și progres
 
-Nu. Cursul este despre administrarea platformei: structură, acces, testare și operare.
+clarifici regulile de acces și modul în care cursantul parcurge conținutul, astfel încât platforma să funcționeze coerent, nu doar să arate completă.
 
-### Pot cumpăra dacă nu am structura cursului?
+## Testare
 
-Poți cumpăra, dar aplicarea va fi mai clară dacă ai măcar o schiță de curs înainte de start.
+verifici scenariile critice ca utilizator nou și confirmi că accesul, progresul și funcționarea sunt corecte înainte de orice lansare sau modificare importantă.
 
-## Garanție și decizie
+## Operare repetabilă
 
-Termenul concret de garanție nu este documentat în sursele locale. Se aplică informațiile afișate în checkout și în confirmarea comenzii.
+după ce logica este clară și verificată, poți repeta aceeași metodă când adaugi conținut, actualizezi platforma sau verifici o problemă.
 
-<div class="cta-row">
-  <a class="button-primary" href="https://pro.ionutojica.ro/checkout-link/?products=779:1">Plătește și rezervă locul</a>
-  <a class="button-secondary" href="/contact/">Am o întrebare înainte de plată</a>
-</div>
+## Greșeli și riscuri tipice
 
-După plată primești confirmarea și pașii de pregătire comunicați prin fluxul de checkout.
+### Cele mai multe probleme nu apar pentru că platforma este „prea complicată”, ci pentru că pașii sunt săriți, amestecați sau validați prea târziu.
+
+## Construiești fără logică
+
+Dacă începi direct din setări sau din conținut, fără o structură clară a cursului, ajungi la blocaje și refaceri inutile.
+*Alternativa sigură*: definești întâi organizarea, apoi configurezi.
+
+## Configurezi fără verificare
+
+Setările de acces și progres pot părea corecte în admin, dar să funcționeze greșit pentru cursant.
+*Alternativa sigură*: verifici întotdeauna fluxul și scenariile critice înainte să consideri platforma pregătită
+
+## Lansezi fără test complet
+
+Nu lansa fără simularea fluxului cap-coadă ca utilizator nou.
+Aici apar cele mai costisitoare erori: cursanți blocați, acces greșit și suport manual exact când ar trebui să funcționeze totul.
+
+## Cerințe și efort
+
+### Oferta DIY funcționează bine atunci când ai contextul minim, accepți ordinea de lucru și ești dispus să verifici ce faci, nu doar să bifezi pașii.
+
+### Ai nevoie de:
+
+- un website WordPress funcțional sau posibilitatea reală de a lucra în propriul hosting
+- o schiță minimă a cursului pe care vrei să-l construiești sau administrezi
+- disponibilitatea de a urma pașii în ordine și de a testa înainte de lansare sau modificări importante
+
+### Nu este o alegere bună dacă:
+
+- vrei ca platforma să fie implementată complet pentru tine
+- cauți o soluție rapidă, fără structură, verificare și implicare minimă
+- nu ai încă timpul sau răbdarea necesare pentru a lucra disciplinat cu pași și testare
+
+## Înscrie-te la următoarea grupă
+
+### Dacă ai trecut prin filtrarea de mai sus și vrei să înveți administrarea LearnDash într-un mod structurat, următorul curs începe pe 18.05.2026.
+
+După plată, primești confirmarea înscrierii și pașii următori pentru acces.

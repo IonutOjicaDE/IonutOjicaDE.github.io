@@ -1,0 +1,216 @@
+{
+  "version": "v6",
+  "completed": {
+    "https://bak.ionutojica.ro/": {
+      "status": "ok",
+      "completed_at": "2026-06-20T21:15:50",
+      "markdown_file": "pages/home.md",
+      "block_count": 51,
+      "image_count": 0
+    },
+    "https://bak.ionutojica.ro/website/administrare-wordpress/": {
+      "status": "ok",
+      "completed_at": "2026-06-20T21:17:40",
+      "markdown_file": "pages/website-administrare-wordpress.md",
+      "block_count": 147,
+      "image_count": 3
+    },
+    "https://bak.ionutojica.ro/home/": {
+      "status": "ok",
+      "completed_at": "2026-06-20T21:18:34",
+      "markdown_file": "pages/home.md",
+      "block_count": 39,
+      "image_count": 0
+    },
+    "https://bak.ionutojica.ro/website/implementare-wordpress/": {
+      "status": "ok",
+      "completed_at": "2026-06-20T21:19:26",
+      "markdown_file": "pages/website-implementare-wordpress.md",
+      "block_count": 44,
+      "image_count": 5
+    },
+    "https://bak.ionutojica.ro/cursuri/implementare-learndash/": {
+      "status": "ok",
+      "completed_at": "2026-06-20T21:20:05",
+      "markdown_file": "pages/cursuri-implementare-learndash.md",
+      "block_count": 42,
+      "image_count": 0
+    },
+    "https://bak.ionutojica.ro/cursuri/administrare-learndash/": {
+      "status": "ok",
+      "completed_at": "2026-06-20T21:20:51",
+      "markdown_file": "pages/cursuri-administrare-learndash.md",
+      "block_count": 53,
+      "image_count": 0
+    },
+    "https://bak.ionutojica.ro/magazin/implementare-woocommerce/": {
+      "status": "ok",
+      "completed_at": "2026-06-20T21:21:30",
+      "markdown_file": "pages/magazin-implementare-woocommerce.md",
+      "block_count": 42,
+      "image_count": 0
+    },
+    "https://bak.ionutojica.ro/email/mautic-ses/": {
+      "status": "ok",
+      "completed_at": "2026-06-20T21:22:18",
+      "markdown_file": "pages/email-mautic-ses.md",
+      "block_count": 41,
+      "image_count": 0
+    },
+    "https://bak.ionutojica.ro/magazin/administrare-woocommerce/": {
+      "status": "ok",
+      "completed_at": "2026-06-20T21:23:01",
+      "markdown_file": "pages/magazin-administrare-woocommerce.md",
+      "block_count": 36,
+      "image_count": 0
+    },
+    "https://bak.ionutojica.ro/website/": {
+      "status": "ok",
+      "completed_at": "2026-06-20T21:23:22",
+      "markdown_file": "pages/website.md",
+      "block_count": 1,
+      "image_count": 0
+    },
+    "https://bak.ionutojica.ro/magazin/": {
+      "status": "ok",
+      "completed_at": "2026-06-20T21:23:44",
+      "markdown_file": "pages/magazin.md",
+      "block_count": 1,
+      "image_count": 0
+    },
+    "https://bak.ionutojica.ro/email/": {
+      "status": "ok",
+      "completed_at": "2026-06-20T21:24:05",
+      "markdown_file": "pages/email.md",
+      "block_count": 1,
+      "image_count": 0
+    },
+    "https://bak.ionutojica.ro/cursuri/": {
+      "status": "ok",
+      "completed_at": "2026-06-20T21:24:26",
+      "markdown_file": "pages/cursuri.md",
+      "block_count": 1,
+      "image_count": 0
+    },
+    "https://bak.ionutojica.ro/styleguide/": {
+      "status": "ok",
+      "completed_at": "2026-06-20T21:26:02",
+      "markdown_file": "pages/styleguide.md",
+      "block_count": 181,
+      "image_count": 0
+    },
+    "https://bak.ionutojica.ro/servicii/academiaonline/": {
+      "status": "ok",
+      "completed_at": "2026-06-20T21:26:23",
+      "markdown_file": "pages/servicii-academiaonline.md",
+      "block_count": 1,
+      "image_count": 0
+    },
+    "https://bak.ionutojica.ro/servicii/automatizari-email/": {
+      "status": "ok",
+      "completed_at": "2026-06-20T21:26:44",
+      "markdown_file": "pages/servicii-automatizari-email.md",
+      "block_count": 1,
+      "image_count": 0
+    },
+    "https://bak.ionutojica.ro/servicii/website-uri/": {
+      "status": "ok",
+      "completed_at": "2026-06-20T21:27:05",
+      "markdown_file": "pages/servicii-website-uri.md",
+      "block_count": 1,
+      "image_count": 0
+    },
+    "https://bak.ionutojica.ro/servicii/platforma-curs/": {
+      "status": "ok",
+      "completed_at": "2026-06-20T21:27:27",
+      "markdown_file": "pages/servicii-platforma-curs.md",
+      "block_count": 1,
+      "image_count": 0
+    },
+    "https://bak.ionutojica.ro/faq/": {
+      "status": "ok",
+      "completed_at": "2026-06-20T21:27:48",
+      "markdown_file": "pages/faq.md",
+      "block_count": 1,
+      "image_count": 0
+    },
+    "https://bak.ionutojica.ro/lista-de-asteptare/multumesc/": {
+      "status": "ok",
+      "completed_at": "2026-06-20T21:28:09",
+      "markdown_file": "pages/lista-de-asteptare-multumesc.md",
+      "block_count": 1,
+      "image_count": 0
+    },
+    "https://bak.ionutojica.ro/lista-de-asteptare/confirmat/": {
+      "status": "ok",
+      "completed_at": "2026-06-20T21:28:30",
+      "markdown_file": "pages/lista-de-asteptare-confirmat.md",
+      "block_count": 1,
+      "image_count": 0
+    },
+    "https://bak.ionutojica.ro/lista-de-asteptare/verifica-email/": {
+      "status": "ok",
+      "completed_at": "2026-06-20T21:28:51",
+      "markdown_file": "pages/lista-de-asteptare-verifica-email.md",
+      "block_count": 1,
+      "image_count": 0
+    },
+    "https://bak.ionutojica.ro/impressum/": {
+      "status": "ok",
+      "completed_at": "2026-06-20T21:29:12",
+      "markdown_file": "pages/impressum.md",
+      "block_count": 1,
+      "image_count": 0
+    },
+    "https://bak.ionutojica.ro/termeni-si-conditii/": {
+      "status": "ok",
+      "completed_at": "2026-06-20T21:29:34",
+      "markdown_file": "pages/termeni-si-conditii.md",
+      "block_count": 1,
+      "image_count": 0
+    },
+    "https://bak.ionutojica.ro/lista-de-asteptare/": {
+      "status": "ok",
+      "completed_at": "2026-06-20T21:29:55",
+      "markdown_file": "pages/lista-de-asteptare.md",
+      "block_count": 1,
+      "image_count": 0
+    },
+    "https://bak.ionutojica.ro/contact/": {
+      "status": "ok",
+      "completed_at": "2026-06-20T21:30:16",
+      "markdown_file": "pages/contact.md",
+      "block_count": 1,
+      "image_count": 0
+    },
+    "https://bak.ionutojica.ro/despre/": {
+      "status": "ok",
+      "completed_at": "2026-06-20T21:30:37",
+      "markdown_file": "pages/despre.md",
+      "block_count": 1,
+      "image_count": 0
+    },
+    "https://bak.ionutojica.ro/resurse/": {
+      "status": "ok",
+      "completed_at": "2026-06-20T21:30:59",
+      "markdown_file": "pages/resurse.md",
+      "block_count": 2,
+      "image_count": 0
+    },
+    "https://bak.ionutojica.ro/portofoliu/": {
+      "status": "ok",
+      "completed_at": "2026-06-20T21:31:20",
+      "markdown_file": "pages/portofoliu.md",
+      "block_count": 1,
+      "image_count": 0
+    },
+    "https://bak.ionutojica.ro/servicii/": {
+      "status": "ok",
+      "completed_at": "2026-06-20T21:31:41",
+      "markdown_file": "pages/servicii.md",
+      "block_count": 1,
+      "image_count": 0
+    }
+  },
+  "failed": {}
+}

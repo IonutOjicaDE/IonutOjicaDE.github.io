@@ -1,118 +1,119 @@
 ---
-layout: service
-title: Administrare magazin WooCommerce
-description: "Înveți să operezi magazinul WooCommerce: produse, taxe, livrare, checkout, comenzi și emailuri."
-permalink: /magazin/administrare-woocommerce/
-toc: true
-comments: false
+layout: page
+permalink: "/magazin/administrare-woocommerce/"
+source_url: "https://bak.ionutojica.ro/magazin/administrare-woocommerce/"
+saved_at: "20260620-211459"
+slug: "magazin-administrare-woocommerce"
+content_type: "page"
+title: "Administrare magazin online (DIY)"
 ---
 
-# Administrare magazin WooCommerce
+## Pentru cine este / pentru cine nu este
 
-{: .lead }
-Devii administratorul magazinului tău WooCommerce. Scopul este să poți verifica și opera fluxul produs → coș → plată → confirmare → livrare fără pierderi produse de setări greșite.
+### Este pentru tine dacă
 
-<div class="cta-row">
-  <a class="button-primary" href="https://pro.ionutojica.ro/checkout-link/?products=781:1">Înscrie-te la cursul WooCommerce</a>
-  <a class="button-secondary" href="{% link magazin/implementare-woocommerce.md %}">Vreau magazinul implementat pentru mine</a>
-</div>
+- vrei să înțelegi cum funcționează magazinul tău, nu doar să apeși la întâmplare în setări
+- vrei să poți administra singur produse, comenzi, livrare și emailurile de bază
+- accepți să lucrezi în pași și să testezi înainte să activezi funcțiile critice
+- vrei control operațional și nu dependență totală de altcineva pentru fiecare schimbare
+- ai nevoie de claritate și proceduri, nu de un magazin făcut complet pentru tine
 
-## Pentru cine este
+### Nu este pentru tine dacă
 
-<div class="split-grid">
-<div markdown="1">
+- vrei ca magazinul să fie instalat și configurat complet fără să îl administrezi tu
+- nu vrei să înveți deloc cum se verifică produsele, checkout-ul și comenzile
+- cauți o soluție rapidă „gata de vânzare” și nu un parcurs de administrare
+- nu ai disponibilitatea să urmezi pașii în ordine și să faci testele necesare
+- vrei să delegi execuția integrală, nu să construiești autonomie
 
-### Potrivit dacă
+## Rezultatul de învățare
 
-- ai produse reale sau poți crea produse demo;
-- vrei să administrezi singur magazinul;
-- accepți să testezi checkout-ul înainte de vânzare;
-- vrei control asupra produselor, taxelor și livrării.
+### După parcurgere, vei putea să:
 
-</div>
-<div markdown="1">
+- adaugi și administrezi corect produse simple, virtuale, variabile sau afiliate
+- organizezi magazinul astfel încât produsele și variațiile să rămână ușor de operat
+- configurezi logic taxele și opțiunile de livrare în funcție de scenariul tău de lucru
+- verifici checkout-ul cap-coadă înainte să activezi vânzarea reală
+- urmărești comenzile și să înțelegi ce se întâmplă după plasarea unei comenzi
+- controlezi emailurile esențiale trimise către client și administrator
+- rulezi teste de bază ca să depistezi rapid erorile costisitoare
+- administrezi magazinul cu mai multă siguranță, ordine și predictibilitate
 
-### Nepotrivit dacă
+## Ce primești concret / Formatul ofertei
 
-- vrei magazinul făcut complet pentru tine;
-- nu ai timp să aplici;
-- nu ai produse reale sau demo;
-- cauți doar pluginuri rapide fără structură.
+În această ofertă primești un cadru clar de învățare și administrare, astfel încât să poți opera singur magazinul tău WooCommerce în mod ordonat și verificabil.
 
-</div>
-</div>
+### Ce primești efectiv
 
-## Ce vei putea face concret
+- instruire practică pentru administrarea magazinului WooCommerce
+- ghidare orientată pe operare, nu pe teorie izolată
+- proceduri clare pentru configurări și verificări esențiale
+- logică de lucru care te ajută să înțelegi ce verifici și în ce ordine
+- capabilitatea de a administra singur magazinul după parcurgere
 
-- creezi și verifici produse simple sau variații;
-- înțelegi setări sensibile: taxe, transport, plăți, emailuri;
-- rulezi o comandă test completă;
-- verifici confirmările și pașii de livrare;
-- operezi magazinul cu mai puține intervenții la întâmplare.
+### Ce nu este această ofertă
 
-## Cum se lucrează
+- nu este un serviciu în care magazinul este implementat complet pentru tine
+- nu este doar suport punctual pentru o singură problemă izolată
+- nu este o colecție de informații fără structură operațională
+- nu înlocuiește execuția DFY dacă vrei să delegi integral configurarea
+- nu promite un magazin gata de vânzare fără implicarea ta în parcurs
 
-1. Pregătești produse reale sau produse demo.
-2. Configurezi setările de bază pentru magazin.
-3. Verifici checkout-ul și emailurile.
-4. Rulezi comandă test completă.
-5. Notezi rutina de operare și verificare.
+## Ce acoperă oferta
 
-## Ce înveți în ordinea corectă
+Oferta acoperă aria practică necesară pentru a administra magazinul tău WooCommerce în mod ordonat și verificabil.
 
-- produse, categorii și variații;
-- taxe, transport și metode de plată;
-- checkout și comandă test;
-- emailuri WooCommerce;
-- verificări înainte de vânzare și operare după lansare.
+- produse simple, virtuale, variabile și afiliate
+- organizarea produselor și a variațiilor astfel încât magazinul să rămână ușor de operat
+- taxele și logica lor de bază în raport cu configurarea magazinului
+- opțiunile de livrare și structurarea lor corectă
+- fluxul de checkout și verificarea lui cap-coadă
+- comenzile și urmărirea lor după plasare
+- emailurile esențiale pentru client și administrator
+- testarea operațională de bază înainte de folosirea reală a magazinului
 
-## Riscuri controlate
+## Parcursul de lucru
 
-{: .notice }
-**WARNING:** Dacă variațiile, taxele sau livrarea sunt configurate greșit, poți pierde bani sau comenzi. Acțiune sigură: verifici fiecare setare printr-o comandă test.
+1. Înțelegi structura magazinului și cum se organizează corect produsele, categoriile și variațiile.
+2. Configurezi elementele de bază ale magazinului astfel încât administrarea să rămână clară și predictibilă.
+3. Așezi logic taxele și opțiunile de livrare în funcție de cum vinzi și cum livrezi.
+4. Verifici fluxul de cumpărare: produs, coș, checkout, confirmare și emailuri esențiale.
+5. Urmărești comenzile și înțelegi ce se întâmplă după plasarea unei comenzi, atât pentru client, cât și pentru administrator.
+6. Rulezi o testare completă înainte de folosirea reală, ca să verifici că magazinul funcționează cap-coadă, nu doar la nivel de setări.
 
-{: .notice }
-**DANGER:** Nu activa plățile fără produs de test și comandă completă. Alternativă sigură: simulezi checkout-ul înainte de vânzare.
+## Greșeli și riscuri tipice
 
-{: .notice }
-**CONSENT:** Magazinul cere rigoare: setări puține, clare și verificate, nu pluginuri adăugate din impuls.
+## Configurezi produse fără structură
 
-## Ce intră, ce nu intră și ce ai nevoie
+Când produsele, categoriile și variațiile sunt adăugate fără logică, magazinul devine greu de administrat și greu de verificat. Soluția sigură este să stabilești întâi structura și abia apoi să introduci produsele efectiv.
 
-| Intră în curs | Nu intră în curs |
-|---|---|
-| Administrare produse și comenzi | Magazin construit complet pentru tine |
-| Checkout și comandă test | Strategie ecommerce, reclame sau campanii |
-| Taxe, livrare și emailuri de bază | Funcții custom nelimitate |
-| Rutina de verificare înainte de vânzare | Încărcarea produselor făcută în locul tău |
+## Activezi checkout-ul fără comandă de test
 
-Ai nevoie de produse reale sau demo, acces la magazinul WooCommerce și disponibilitate de aplicare. Deciziile obligatorii sunt: tipuri de produse, taxe, livrare, plată și pașii de confirmare.
+Faptul că setările par complete nu înseamnă că fluxul funcționează în realitate. Dacă nu rulezi o comandă completă de test, poți descoperi prea târziu blocaje în coș, checkout, confirmare sau emailuri.
 
-## DIY sau DFY?
+## Adaugi pluginuri pentru orice problemă mică
 
-Alege DIY dacă vrei să administrezi singur. Alege [magazin WooCommerce implementat complet]({% link magazin/implementare-woocommerce.md %}) dacă vrei execuția făcută pentru tine.
+Prea multe pluginuri adăugate fără criteriu cresc instabilitatea și fac magazinul mai greu de controlat. Varianta sigură este să înțelegi mai întâi ce rezolvi nativ și ce justifică într-adevăr o extensie nouă.
 
-## Întrebări de evaluare
+## Presupui că magazinul este gata doar pentru că „arată bine”
 
-### Pot începe fără produse?
+Un magazin poate părea gata la suprafață și totuși să aibă probleme reale în comenzi, livrare sau notificări. Ce contează este verificarea fluxului complet, nu impresia vizuală că totul pare în regulă.
 
-Poți lucra cu produse demo, dar ai nevoie de exemple concrete ca să testezi checkout-ul.
+## Cerințe și efort
 
-### Include strategie de vânzare?
+Această ofertă este potrivită dacă vrei să înveți să administrezi singur magazinul și accepți să lucrezi în ordine, nu prin încercări la întâmplare.
 
-Nu. Cursul este despre administrarea magazinului, nu despre reclame, poziționare sau optimizare avansată.
+- ai nevoie de disponibilitate reală pentru a parcurge pașii și a verifica ce configurezi
+- ai nevoie de disciplină: nu sari etape și nu activezi funcții critice fără test
+- este important să poți lucra pe propriul tău magazin sau pe un mediu de test, nu doar teoretic
+- nu trebuie să fii dezvoltator, dar trebuie să fii dispus să înțelegi logica magazinului
+- trebuie să accepți că administrarea corectă cere atenție la detalii, mai ales la produse, checkout și emailuri
+- această ofertă este pentru autonomie operațională, nu pentru delegare completă
 
-### Ce este obligatoriu înainte de vânzare?
+Dacă vrei rezultatul gata implementat, fără implicare practică din partea ta, oferta potrivită nu este aceasta.
 
-O comandă test completă: produs → coș → plată → confirmare → livrare.
+## Acțiune
 
-## Garanție și decizie
+Ai clarificat deja dacă acest parcurs ți se potrivește și ce vei putea face după parcurgere. Următorul pas este să îți rezervi locul pentru grupa care începe pe 10.06.2026.
 
-Termenul concret de garanție nu este documentat în sursele locale. Se aplică informațiile afișate în checkout și în confirmarea comenzii.
-
-<div class="cta-row">
-  <a class="button-primary" href="https://pro.ionutojica.ro/checkout-link/?products=781:1">Plătește și rezervă locul</a>
-  <a class="button-secondary" href="/contact/">Am o întrebare înainte de plată</a>
-</div>
-
-După plată primești confirmarea și pașii de pregătire comunicați prin fluxul de checkout.
+Primești acces la parcursul DIY pentru administrare WooCommerce, cu începere din 10.06.2026.

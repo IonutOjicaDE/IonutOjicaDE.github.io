@@ -1,0 +1,41 @@
+jQuery(document).ready(function(){
+show_lz_multi_cap();
+});
+function captcha_v2_invisible_process(el){
+grecaptcha.ready(function(){
+var cap_div_id=grecaptcha.render(el,{
+'sitekey': lz_cap_sitekey, 'size': 'invisible',
+'callback':function (recaptchaToken){
+jQuery('#g-recaptcha-response').trigger('change');
+},
+'expired-callback':function(){grecaptcha.reset(cap_div_id);}});
+grecaptcha.execute(cap_div_id);
+});
+}
+function show_lz_multi_cap(){
+if(typeof grecaptcha=='undefined'){
+setTimeout(function(){show_lz_multi_cap()}, 1000);
+return;
+}
+jQuery('.lz-recaptcha').each(function(index, el){
+var lz_cap_key=jQuery(this).attr('data-sitekey');
+try{
+grecaptcha.render(el, {'sitekey':lz_cap_key});
+}catch(e){}});
+if(typeof lz_cap_invisible!=='undefined'&&lz_cap_invisible==1&&typeof lz_cap_ver!=='undefined'&&lz_cap_ver==2){
+for (var i=0; i < document.forms.length; ++i){
+var form=document.forms[i];
+var cap_div=form.querySelector("."+lz_cap_div_class);
+if(null===cap_div) continue;
+cap_div.innerHTML='';
+captcha_v2_invisible_process(cap_div);
+}}
+if(typeof lz_cap_ver!=='undefined'&&lz_cap_ver==3){
+grecaptcha.ready(function(){
+document.querySelectorAll('.lz-v3-input').forEach(function (inputElement){
+grecaptcha.execute(lz_cap_sitekey, {action: lz_cap_page_type}).then(function(token){
+jQuery(inputElement).val(token).trigger('change');
+});
+});
+});
+}}

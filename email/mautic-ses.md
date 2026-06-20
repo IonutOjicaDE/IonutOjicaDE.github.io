@@ -1,118 +1,96 @@
 ---
-layout: service
-title: Email marketing Mautic + SES
-description: Primești infrastructură Mautic + SES configurată, testată și predată pentru operare controlată.
-permalink: /email/mautic-ses/
-toc: true
-comments: false
+layout: page
+permalink: "/email/mautic-ses/"
+source_url: "https://bak.ionutojica.ro/email/mautic-ses/"
+saved_at: "20260620-211459"
+slug: "email-mautic-ses"
+content_type: "page"
+title: "Email marketing Mautic + SES (DFY)"
 ---
 
-# Email marketing Mautic + SES
+## Rezultatul livrat
 
-{: .lead }
-Primești infrastructura de email marketing gata de operat: Mautic + SES, DNS corect, reguli de trimitere, testare și predare. Scopul este trimitere predictibilă și controlată, fără degradarea reputației domeniului prin improvizație.
+Primești o infrastructură de email marketing instalată și configurată pentru operare, nu doar o colecție de setări tehnice puse cap la cap.
 
-<div class="cta-row">
-  <a class="button-primary" href="https://pro.ionutojica.ro/checkout-link/?products=786:1">Rezervă configurarea email marketing</a>
-  <a class="button-secondary" href="/materiale/">Vezi materiale despre Mautic</a>
-</div>
+###### 01/
 
-## Pentru cine este
+###### Mautic instalat și configurat pentru utilizare de bază
 
-<div class="split-grid">
-<div markdown="1">
+###### 02/
 
-### Potrivit dacă
+###### Amazon SES conectat și funcțional pentru trimitere
 
-- ai nevoie de infrastructură email marketing controlată;
-- poți furniza acces DNS, hosting/server și AWS/SES;
-- accepți warm-up și reguli de trimitere;
-- înțelegi că reputația depinde și de operarea ulterioară.
+###### 03/
 
-</div>
-<div markdown="1">
+###### DNS configurat pentru cerințele esențiale de livrare: SPF, DKIM și DMARC
 
-### Nepotrivit dacă
+###### 04/
 
-- vrei volum mare imediat, fără warm-up;
-- nu ai control DNS și nu îl poți obține;
-- cauți doar instalare rapidă fără verificare;
-- aștepți strategie completă de email marketing inclusă implicit.
+###### Trimitere validată prin test inițial, astfel încât baza tehnică să fie verificată
 
-</div>
-</div>
+###### 05/
 
-## Ce primești concret
+###### Setări de bază ordonate pentru operare predictibilă
 
-- configurare Mautic + SES în scope-ul agreat;
-- verificare DNS: SPF, DKIM, DMARC și domeniu de trimitere;
-- reguli minime de trimitere și warm-up;
-- testare de bază;
-- predare pentru operare.
+###### 06/
+
+###### Predare operabilă, cu ownership clar și pașii esențiali de administrare
+
+###### 07/
+
+###### Fluxuri inițiale, doar dacă sunt incluse explicit în scope
 
 ## Cum decurge implementarea
 
-1. Verificăm domeniul, DNS-ul și accesurile.
-2. Configurăm SES și domeniul de trimitere.
-3. Configurăm Mautic în forma agreată.
-4. Testăm livrarea de bază.
-5. Predăm regulile minime de operare și verificare.
+Verificăm domeniul, accesurile necesare, DNS-ul și limitele exacte ale scope-ului, ca să știm ce intră în implementare și ce rămâne în afara ei.
 
-## Ce se face concret
+Setăm zona critică pentru livrare: DNS-ul necesar și conexiunea cu Amazon SES, astfel încât baza de trimitere să fie corectă de la început.
 
-- scanare și corectare DNS în limitele accesului furnizat;
-- configurare SPF/DKIM/DMARC unde este necesar;
-- integrare SES;
-- configurare Mautic pentru trimitere;
-- testare și predare.
+Pregătim platforma pentru utilizare, cu setările de bază și conexiunile esențiale necesare unei operări predictibile.
 
-## Riscuri controlate
+Validăm trimiterea și verificările de bază, astfel încât sistemul să nu fie predat doar „configurat”, ci funcțional.
 
-{: .notice }
-**WARNING:** Dacă DNS-ul nu este configurat corect, livrarea emailurilor poate deveni imprevizibilă. Acțiune sigură: verificăm SPF, DKIM, DMARC și domeniul de trimitere înainte de utilizare.
+Primești accesul, structura configurată și pașii esențiali de administrare, astfel încât să știi ce verifici, ce folosești și cum operezi mai departe.
 
-{: .notice }
-**DANGER:** Nu trimite volum mare înainte de warm-up și reguli de trimitere. Alternativă sigură: începi controlat, cu volum progresiv și monitorizare.
+## Ce este inclus / ce nu este inclus
 
-{: .notice }
-**SCOPE:** Implementarea include infrastructură, configurare, testare și predare; strategia de conținut și campaniile comerciale intră doar dacă sunt definite separat.
+* Instalare și configurare Mautic pentru utilizare de bază
+* Conectare Amazon SES și configurarea DNS-ului necesar: SPF, DKIM, DMARC
+* Test inițial de trimitere, setări de bază și predare operabilă
 
-## Ce intră, ce nu intră și ce trebuie să furnizezi
+* Strategie de conținut, copywriting sau plan editorial pentru emailuri
+* Fluxuri inițiale, dacă nu sunt incluse explicit în scope
+* Monitorizare, mentenanță sau îmbunătățiri ulterioare, ca parte automată a pachetului de bază
 
-| Intră | Nu intră |
-|---|---|
-| Configurare Mautic + SES | Strategie completă de email marketing |
-| Verificări DNS și setări de trimitere | Copywriting și campanii comerciale |
-| Reguli minime de warm-up și operare | Garanție de inbox sau rezultat comercial |
-| Testare și predare | Operare continuă dacă nu este contractată separat |
+## Ce trebuie furnizat de client
 
-Trebuie să furnizezi acces la domeniu/DNS, AWS/SES, hosting/server și informații despre volumul estimat. Deciziile obligatorii sunt: domeniul de trimitere, regulile de warm-up, responsabilitatea de operare și separarea infrastructurii de strategie.
+- Acces la DNS și la conturile necesare pentru configurarea domeniului, Amazon SES și platformei, furnizate la timp
+- Un domeniu dedicat pentru trimitere sau acceptarea recomandării de separare, dacă acest lucru este necesar pentru implementare
+- Confirmarea scope-ului și disponibilitate pentru review/aprobări; dacă intră fluxuri inițiale în pachet, materialele minime se furnizează în formatul agreat
 
-## Există variantă DIY?
+## RISCURI PREVENITE
 
-Nu există segment DIY pentru EMAIL în această versiune. Dacă vrei să înveți singur, poți începe din [Materiale]({% link _tabs/materiale.md %}), dar oferta activă documentată aici este DFY.
+## Dacă DNS-ul nu este configurat corect
 
-## Întrebări de evaluare
+livrarea devine imprevizibilă. Implementarea ordonată începe cu SPF, DKIM și DMARC, nu cu trimiterea efectivă
 
-### Instalația garantează inbox?
+## Dacă trimiți volum înainte de warm-up și reguli clare
 
-Nu. Configurarea corectă reduce riscul tehnic, dar reputația depinde și de listă, conținut, volum, warm-up și comportamentul de trimitere.
+reputația domeniului se poate degrada. Alternativa sigură este pornirea controlată, după configurare și validare
 
-### Include campanii și copywriting?
+## Dacă baza tehnică este improvizată
 
-Nu implicit. Oferta este infrastructură și configurare.
+pierzi timp și volum pe o infrastructură instabilă. Implementarea corectă reduce intervențiile reactive și face sistemul predictibil de la start
 
-### Pot începe fără acces DNS?
+## Predare / operare
 
-Nu corect. Fără DNS, configurarea SPF/DKIM/DMARC și verificarea domeniului nu pot fi făcute complet.
+După implementare și test, sistemul este predat operabil în infrastructura ta, cu ownership clar asupra conturilor și configurației. Primești baza tehnică funcțională pentru Mautic + SES, împreună cu pașii esențiali de administrare, astfel încât să știi ce verifici și cum operezi mai departe fără improvizații.
 
-## Reducerea riscului înainte de start
+Predarea nu înseamnă doar „merge acum”, ci o configurație ordonată, pe care o poți controla și folosi predictibil. Mentenanța sau extinderile ulterioare nu sunt presupuse automat în pachetul de bază.
 
-Riscul este redus prin verificare DNS, configurare controlată, testare și predare. Condițiile comerciale concrete se aplică așa cum sunt afișate în checkout și în confirmarea comenzii.
+## Plătește Și Pornește Implementarea
 
-<div class="cta-row">
-  <a class="button-primary" href="https://pro.ionutojica.ro/checkout-link/?products=786:1">Cumpără configurarea Mautic + SES</a>
-  <a class="button-secondary" href="/contact/">Am nevoie de clarificări</a>
-</div>
+Cumperi produsul din magazin, iar după plată primești checklist-ul cu informațiile necesare pentru start și pașii pentru programarea primei ședințe.
 
-După cumpărare urmează verificarea DNS, configurarea SES, configurarea Mautic, testarea și predarea.
+După plată: primești checklist de pornire
+Următorul pas: programarea primei ședințe

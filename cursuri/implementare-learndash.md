@@ -1,118 +1,97 @@
 ---
-layout: service
-title: Platformă de cursuri LearnDash implementată complet
-description: Primești o platformă LearnDash instalată, configurată, testată și predată operabil în infrastructura ta.
-permalink: /cursuri/implementare-learndash/
-toc: true
-comments: false
+layout: page
+permalink: "/cursuri/implementare-learndash/"
+source_url: "https://bak.ionutojica.ro/cursuri/implementare-learndash/"
+saved_at: "20260620-211459"
+slug: "cursuri-implementare-learndash"
+content_type: "page"
+title: "Platformă de cursuri implementată complet (DFY)"
 ---
 
-# Platformă de cursuri LearnDash implementată complet
+## Rezultatul livrat
 
-{: .lead }
-Primești platforma de cursuri instalată și configurată în hostingul tău. Scopul este un sistem operabil pentru structură curs, acces, plată, emailuri esențiale, testare și predare.
+Primești o platformă de cursuri LearnDash instalată și configurată în hostingul tău, astfel încât fluxul critic să poată fi operat clar și verificat.
 
-<div class="cta-row">
-  <a class="button-primary" href="https://pro.ionutojica.ro/checkout-link/?products=780:1">Rezervă implementarea LearnDash</a>
-  <a class="button-secondary" href="{% link cursuri/administrare-learndash.md %}">Vreau să învăț să administrez singur</a>
-</div>
+## Sistemul predat
 
-## Pentru cine este
+Platforma este livrată ca sistem funcțional, nu ca instalare izolată. Structura de curs, regulile de acces și configurările esențiale sunt puse într-o formă operabilă.
 
-<div class="split-grid">
-<div markdown="1">
+## Fluxul operațional
 
-### Potrivit dacă
+Rezultatul urmărit este un traseu clar pentru utilizator: plată (dacă este în scope), acces la curs, parcurgere și emailuri esențiale fără pași manuali ascunși.
 
-- vrei platforma făcută pentru tine;
-- ai un curs de lansat sau de organizat;
-- poți furniza structură, conținut și accesuri;
-- vrei ownership în infrastructura ta.
+## Predare și control
 
-</div>
-<div markdown="1">
-
-### Nepotrivit dacă
-
-- vrei doar să înveți pluginul;
-- nu ai structură minimă de curs;
-- nu poți furniza acces la hosting, WordPress sau Stripe;
-- aștepți strategie completă de lansare inclusă implicit.
-
-</div>
-</div>
-
-## Ce primești concret
-
-- LearnDash instalat și configurat în WordPress;
-- structură de curs conform materialelor agreate;
-- reguli de acces și fluxuri esențiale verificate;
-- testare plată → acces → emailuri;
-- predare operațională, ca să știi ce ai primit și cum se administrează.
+Sistemul rămâne în infrastructura ta și este predat cu pași clari de administrare, astfel încât să știi ce poți opera după implementare și ce rămâne stabilizat de la început.
 
 ## Cum decurge implementarea
 
-1. Pregătim checklist-ul: hosting, WordPress, Stripe, structură curs, conținut.
-2. Configurăm platforma și regulile de acces.
-3. Introducem structura cursului în forma agreată.
-4. Testăm fluxul critic ca utilizator nou.
-5. Predăm sistemul și pașii de administrare.
+Implementarea urmează un parcurs fix, astfel încât progresul să fie ușor de urmărit și fiecare etapă să aibă un rezultat clar.
 
-## Ce se face concret
+### 1. Pregătire
 
-- instalare și configurare LearnDash;
-- structură pentru cursuri, lecții și progres;
-- setări de acces și confirmări de bază;
-- integrare plată unde este inclusă în scope-ul agreat;
-- testare și predare.
+Se fixează structura de bază a proiectului și se clarifică schema după care va fi configurată platforma în hostingul tău.
 
-## Riscuri controlate
+### 2. Integrare
 
-{: .notice }
-**WARNING:** Dacă setările de acces sunt greșite, apar blocaje pentru cursanți, refund-uri și suport manual. Acțiune sigură: accesul se configurează și se testează înainte de predare.
+Se instalează și se configurează LearnDash împreună cu elementele necesare pentru acces, structură de curs și fluxul operațional agreat.
 
-{: .notice }
-**DANGER:** Fără domeniu, hosting, Stripe și conținut minim, implementarea nu poate începe corect. Alternativă sigură: pregătești checklist-ul înainte de start.
+### 3. Testare
 
-{: .notice }
-**SCOPE:** Implementarea tehnică nu include automat strategie de lansare, copywriting, campanii sau funnel complet.
+Se verifică traseul critic cap-coadă, astfel încât accesul, cursurile și emailurile esențiale să funcționeze predictibil înainte de predare.
 
-## Ce intră, ce nu intră și ce trebuie să furnizezi
+### 4. Predare
 
-| Intră | Nu intră |
-|---|---|
-| Implementare LearnDash în WordPress | Strategie completă de lansare |
-| Configurări de acces și testare | Crearea conținutului cursului de la zero |
-| Predare operabilă | Copywriting, reclame sau campanii |
-| Clarificarea pașilor de administrare | Funcții custom nelimitate |
+Primești sistemul în formă operabilă, împreună cu pașii esențiali de administrare, ca să știi cum îl folosești și ce rămâne stabil după implementare.
 
-Trebuie să furnizezi acces la hosting/WordPress, contul de plată dacă este folosit, structura cursului și conținutul disponibil în format agreat. Deciziile obligatorii sunt: structură curs, reguli de acces, modul de plată și emailurile esențiale.
+## Ce este inclus / ce nu este inclus
 
-## DFY sau DIY?
+## Este inclus
 
-Alege DFY dacă vrei execuție completă și poți pregăti materialele. Alege [cursul de administrare LearnDash]({% link cursuri/administrare-learndash.md %}) dacă vrei să înveți să operezi singur.
+- Instalarea și configurarea completă LearnDash în hostingul tău, astfel încât platforma să fie pregătită pentru operare.
+- Structura de bază a cursului și încărcarea conținutului în măsura agreată, într-o schemă clară de lucru.
+- Configurarea fluxului critic din scope: acces, emailuri esențiale și, dacă intră în pachet, plata prin Stripe.
 
-## Întrebări de evaluare
+## Nu este inclus
 
-### Pot începe fără conținut?
+- Strategia de lansare, marketingul sau vânzările; pachetul acoperă implantarea sistemului, nu promovarea lui.
+- Încărcarea de conținut în afara volumului sau formatului agreat înainte de start.
+- Funcții, integrări sau extinderi care nu fac parte din pachetul stabilit explicit.
 
-Nu în mod realist. Poți avea conținut parțial, dar trebuie să existe măcar structura cursului și materialele necesare pentru primul scope.
+## Ce trebuie furnizat de client
 
-### Platforma rămâne la mine?
+### Pentru a începe fără blocaje
 
-Da. Direcția documentată este ownership în infrastructura ta.
+- Accesurile necesare pentru implementare: hostingul WordPress și, dacă plata intră în scope, datele și accesul necesar pentru configurarea Stripe.
+- Structura cursului și conținutul disponibil în format agreat, astfel încât încărcarea și configurarea să poată avansa fără improvizații.
+- Deciziile și aprobările de lucru în ferestrele stabilite, pentru ca proiectul să nu rămână blocat între faze.
 
-### Include campanii de vânzare?
+## Riscuri prevenite
 
-Nu implicit. Oferta este pentru implementare tehnică și predare operabilă.
+O implementare corectă nu înseamnă doar că platforma pornește, ci că funcțiile critice rămân stabile când încep să fie folosite.
 
-## Reducerea riscului înainte de start
+## Acces blocat după plată
 
-Riscul este redus prin checklist, limită de scope, testare și predare. Condițiile comerciale concrete se aplică așa cum sunt afișate în checkout și în confirmarea comenzii.
+Setările greșite de acces produc exact incidentul pe care vrei să-l eviți: oameni care plătesc, dar nu intră corect în curs. Rezultatul este suport manual, fricțiune și refund-uri evitabile.
 
-<div class="cta-row">
-  <a class="button-primary" href="https://pro.ionutojica.ro/checkout-link/?products=780:1">Cumpără implementarea LearnDash</a>
-  <a class="button-secondary" href="/contact/">Am nevoie de clarificări</a>
-</div>
+## Flux critic netestat
 
-După cumpărare urmează pregătirea materialelor, validarea accesurilor și pornirea implementării în scope-ul agreat.
+Dacă traseul plată → acces → emailuri esențiale nu este verificat cap-coadă înainte de predare, problemele apar direct în utilizare, nu în faza de lucru. Asta mută corecția în plin trafic, când costul este mai mare.
+
+## Structură care nu scalează
+
+O platformă montată fără ordine poate funcționa la început, dar devine greu de extins, verificat și administrat. Implementarea ordonată reduce dependența și păstrează controlul după predare.
+
+## Predare / operare
+
+### După livrare
+
+Platforma este predată în infrastructura ta, în formă operabilă, nu doar „instalată”. Asta înseamnă că păstrezi ownership-ul asupra sistemului, iar predarea include pașii esențiali de administrare, astfel încât să știi ce poți opera după implementare și ce rămâne stabilizat de la start. Scopul nu este să rămâi dependent de o configurare opacă, ci să preiei un sistem clar, verificabil și ușor de urmărit.
+
+## Acțiune
+
+### Cumpără implementarea
+
+Dacă vrei să începem platforma ta de cursuri în forma prezentată aici, pasul următor este plata produsului din magazin.
+
+După plată primești checklist-ul cu informațiile necesare pentru start și pașii pentru programarea primei ședințe.

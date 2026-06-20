@@ -1,118 +1,107 @@
 ---
-layout: service
-title: Magazin WooCommerce implementat complet
-description: Primești magazin WooCommerce configurat, testat și predat operabil, cu checkout și plăți verificate.
-permalink: /magazin/implementare-woocommerce/
-toc: true
-comments: false
+layout: page
+permalink: "/magazin/implementare-woocommerce/"
+source_url: "https://bak.ionutojica.ro/magazin/implementare-woocommerce/"
+saved_at: "20260620-211459"
+slug: "magazin-implementare-woocommerce"
+content_type: "page"
+title: "Magazin online implementat complet (DFY)"
 ---
 
-# Magazin WooCommerce implementat complet
+## Rezultatul livrat
 
-{: .lead }
-Primești magazinul WooCommerce instalat și configurat în hostingul tău. Scopul este un flux verificat produs → coș → plată → confirmare → livrare, cu predare operabilă.
+Primești un magazin WooCommerce operabil, instalat și configurat în hostingul tău.
 
-<div class="cta-row">
-  <a class="button-primary" href="https://pro.ionutojica.ro/checkout-link/?products=782:1">Rezervă implementarea magazinului</a>
-  <a class="button-secondary" href="{% link magazin/administrare-woocommerce.md %}">Vreau să învăț administrarea WooCommerce</a>
-</div>
-
-## Pentru cine este
-
-<div class="split-grid">
-<div markdown="1">
-
-### Potrivit dacă
-
-- vrei magazinul făcut complet pentru tine;
-- ai produse și decizii comerciale minime;
-- poți furniza date standardizate despre produse;
-- vrei checkout verificat înainte de operare reală.
-
-</div>
-<div markdown="1">
-
-### Nepotrivit dacă
-
-- vrei să înveți să administrezi singur;
-- nu ai produse, taxe, livrare sau politici clarificate;
-- cauți funcții custom nelimitate;
-- aștepți strategie ecommerce inclusă automat.
-
-</div>
-</div>
-
-## Ce primești concret
-
-- WooCommerce instalat și configurat;
-- setări de bază pentru produse, checkout, plată și emailuri;
-- configurări de livrare și taxe în limitele scope-ului;
-- comandă test completă;
-- predare operabilă.
+- WooCommerce este instalat și configurat pe infrastructura ta, astfel încât magazinul să rămână în controlul tău.
+- Stripe este conectat și pregătit pentru procesarea plăților în fluxul stabilit.
+- Fluxul critic este configurat și verificat cap-coadă: produs → coș → checkout → confirmare.
+- Dacă pachetul include acest lucru, produsele sunt încărcate în formatul agreat pentru pornire ordonată.
 
 ## Cum decurge implementarea
 
-1. Pregătim datele produselor și deciziile minime.
-2. Configurăm WooCommerce și metodele de plată.
-3. Setăm taxele, livrarea și emailurile de bază.
-4. Testăm fluxul complet de comandă.
-5. Predăm magazinul și pașii de operare.
+După plată, proiectul pornește printr-un proces clar și ordonat
 
-## Ce se face concret
+### 1. Activare și onboarding
 
-- structură de produse și setări WooCommerce;
-- Stripe sau metoda de plată agreată;
-- checkout verificat;
-- emailuri WooCommerce esențiale;
-- testare și predare.
+După plată, primești checklist-ul de pornire și indicațiile pentru programarea primei ședințe, ca să putem începe fără blocaje.
 
-## Riscuri controlate
+### 2. Pregătire și colectare informații
 
-{: .notice }
-**WARNING:** Pluginurile adăugate fără rol clar cresc riscul de conflict și instabilitate. Acțiune sigură: păstrăm un stack strict, cu funcții justificate.
+Verificăm accesurile, datele necesare, structura de produse și deciziile minime de configurare, în funcție de ce intră în pachet.
 
-{: .notice }
-**DANGER:** Fără structură clară de produse, configurarea magazinului se blochează sau devine incoerentă. Alternativă sigură: pregătești datele produselor în format standardizat.
+### 3. Implementare și configurare
 
-{: .notice }
-**SCOPE:** Implementarea magazinului nu include automat strategie ecommerce, reclame, campanii sau optimizare de conversie.
+Configurăm magazinul, conectăm Stripe și așezăm fluxul de cumpărare în forma stabilită pentru magazinul tău.
 
-## Ce intră, ce nu intră și ce trebuie să furnizezi
+### 4. Testare și predare
 
-| Intră | Nu intră |
-|---|---|
-| Configurare WooCommerce | Strategie ecommerce completă |
-| Checkout și comandă test | Reclame, campanii și optimizare de conversie |
-| Setări de produse, plată, livrare și emailuri în scope | Funcții custom nelimitate |
-| Predare operabilă | Date de produse create de la zero fără material furnizat |
+Verificăm fluxul complet de comandă înainte de predare, astfel încât magazinul să poată fi preluat și administrat în mod clar.
 
-Trebuie să furnizezi datele produselor, decizii despre monedă, taxe, livrare, politici, accesuri și contul de plată. Deciziile obligatorii sunt: produse incluse, metode de plată, transport, taxe și politici.
+## Ce este inclus / ce nu este inclus
 
-## DFY sau DIY?
+Limitele pachetului sunt clare de la început
 
-Alege DFY dacă vrei magazinul implementat. Alege [cursul de administrare WooCommerce]({% link magazin/administrare-woocommerce.md %}) dacă vrei control direct și aplicare proprie.
+## Este inclus
 
-## Întrebări de evaluare
+- instalarea și configurarea magazinului WooCommerce în hostingul tău
+- conectarea Stripe și așezarea fluxului de cumpărare în forma stabilită
+- verificarea fluxului critic: produs → coș → checkout → confirmare
+- configurările esențiale pentru pornirea ordonată a magazinului
+- încărcarea produselor doar dacă acest lucru este prevăzut în pachet și livrat în formatul agreat
 
-### Poți încărca produsele în locul meu?
+## Nu este inclus automat
 
-Da, doar dacă produsele sunt furnizate în formatul agreat și intră în scope-ul cumpărat.
+- încărcare nelimitată de produse, în afara pachetului stabilit
+- funcții custom sau extinderi care nu fac parte din configurarea standard
+- conținut lipsă, decizii comerciale sau materiale care nu au fost furnizate
+- schimbări continue de direcție după pornirea implementării
 
-### Include strategia magazinului?
+## Ce trebuie furnizat de client
 
-Nu implicit. Oferta livrează configurare tehnică și predare operabilă.
+### Proiectul pornește corect atunci când datele minime sunt pregătite de la început
 
-### Ce se testează?
+### Accesuri necesare
 
-Fluxul produs → coș → plată → confirmare → livrare, în limitele configurării agreate.
+- acces la hostingul și zona WordPress în care va fi implementat magazinul
+- accesul necesar pentru configurarea Stripe și verificările asociate
+- acces la instrumentele relevante pentru domeniu, dacă ele fac parte din fluxul stabilit
 
-## Reducerea riscului înainte de start
+### Date și materiale
 
-Riscul este redus prin checklist, date de produse standardizate, scope clar, comandă test și predare. Condițiile comerciale concrete se aplică așa cum sunt afișate în checkout și în confirmarea comenzii.
+- datele de produse în formatul agreat, dacă pachetul include încărcarea lor
+- informațiile esențiale despre magazin: monedă, taxe, livrare și politici
+- materialele minime necesare pentru configurările de pornire
 
-<div class="cta-row">
-  <a class="button-primary" href="https://pro.ionutojica.ro/checkout-link/?products=782:1">Cumpără implementarea WooCommerce</a>
-  <a class="button-secondary" href="/contact/">Am nevoie de clarificări</a>
-</div>
+### Decizii și aprobări
 
-După cumpărare urmează pregătirea produselor, validarea accesurilor și pornirea implementării în scope-ul agreat.
+- confirmarea structurii de bază a magazinului și a modului de cumpărare urmărit
+- răspunsurile necesare în fazele de verificare și review
+- aprobările minime ca proiectul să poată trece din pregătire în implementare și apoi în testare
+
+## Riscuri prevenite
+
+Implementarea corectă reduce problemele care afectează direct plățile, comenzile și stabilitatea magazinului.
+
+## Checkout configurat greșit
+
+Poate produce plăți ratate, comenzi incomplete sau confirmări inconsistente. Fluxul este pus în ordine și verificat cap-coadă înainte de predare.
+
+## Pluginuri și funcții adăugate fără limită clară
+
+Pot crește instabilitatea și complica inutil magazinul. Implementarea rămâne pe un scope controlat, cu extensii separate doar când sunt definite clar.
+
+## Produse și reguli comerciale neclare de la început
+
+Pot întârzia configurarea și pot duce la erori în taxe, livrare sau structură de vânzare. Proiectul pornește pe date minime clare și pe decizii luate înainte de configurare.
+
+## Predare / operare
+
+### După implementare, magazinul este predat în infrastructura ta, într-o formă care poate fi preluată clar.
+
+Magazinul rămâne instalat și configurat în hostingul tău, astfel încât ownership-ul să rămână la tine. La final, primești un sistem operabil, cu fluxul critic verificat și cu o predare clară a configurației de bază. Scopul nu este să rămâi dependent de o intervenție continuă, ci să preiei un magazin care poate fi administrat în mod ordonat după livrare. Dacă ai nevoie ulterior de suport sau extinderi, acestea se tratează separat, nu ca dependență ascunsă în implementarea inițială.
+
+## Acțiune
+
+### Pornești implementarea prin plata produsului, apoi primești pașii clari de onboarding
+
+După plată, primești checklist-ul cu informațiile necesare pentru start și instrucțiunile pentru programarea primei ședințe. Acesta este pasul prin care proiectul trece din evaluare în onboarding și implementare.

@@ -2,6 +2,7 @@
 
 source "https://rubygems.org"
 
+gem "jekyll", "~> 4.3.0"
 gem "jekyll-theme-chirpy", "~> 6.5", ">= 6.5.2"
 
 group :test do
@@ -15,8 +16,8 @@ platforms :mingw, :x64_mingw, :mswin, :jruby do
   gem "tzinfo-data"
 end
 
-# Performance-booster for watching directories on Windows
-gem "wdm", "~> 0.1.1", :platforms => [:mingw, :x64_mingw, :mswin]
+# `wdm` is optional for file watching on Windows and currently does not build
+# reliably on Ruby 3.2.x / x64-mingw-ucrt. Jekyll build does not require it.
 
 # Lock `http_parser.rb` gem to `v0.6.x` on JRuby builds since newer versions of the gem
 # do not have a Java counterpart.

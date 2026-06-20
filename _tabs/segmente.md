@@ -2,7 +2,7 @@
 icon: fas fa-pie-chart
 title: Segmente / Liste de contacte
 categorie: [segmente]
-order: 6
+order: 23
 comments: true
 ---
 

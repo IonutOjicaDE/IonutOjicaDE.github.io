@@ -1,7 +1,7 @@
 ---
 icon: fas fa-envelope
 categorie: [emailuri]
-order: 8
+order: 25
 comments: true
 ---
 

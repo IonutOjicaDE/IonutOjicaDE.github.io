@@ -32,4 +32,4 @@ Regierungspräsidium Stuttgart
 Ruppmannstr. 21  
 70565 Stuttgart  
 Telefon: 0711 904-0  
-Internet: [www.rp.baden-wuerttemberg.de](http://www.rp.baden-wuerttemberg.de/)
+Internet: [www.rp.baden-wuerttemberg.de](https://www.rp.baden-wuerttemberg.de/)

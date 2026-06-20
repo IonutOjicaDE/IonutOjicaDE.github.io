@@ -14,7 +14,7 @@ Primești un website WordPress publicabil și predat operabil. Scopul este să a
 
 <div class="cta-row">
   <a class="button-primary" href="https://pro.ionutojica.ro/checkout-link/?products=785:1">Rezervă implementarea website-ului</a>
-  <a class="button-secondary" href="/website/administrare-wordpress/">Vreau să învăț administrarea WordPress</a>
+  <a class="button-secondary" href="{% link website/administrare-wordpress.md %}">Vreau să învăț administrarea WordPress</a>
 </div>
 
 ## Pentru cine este
@@ -90,7 +90,7 @@ Trebuie să furnizezi obiectivul site-ului, paginile dorite, conținut minim, im
 
 ## DFY sau DIY?
 
-Alege DFY dacă vrei site implementat. Alege [administrarea WordPress DIY](/website/administrare-wordpress/) dacă vrei să înveți să operezi singur.
+Alege DFY dacă vrei site implementat. Alege [administrarea WordPress DIY]({% link website/administrare-wordpress.md %}) dacă vrei să înveți să operezi singur.
 
 ## Întrebări de evaluare
 

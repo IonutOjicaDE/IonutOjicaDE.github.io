@@ -10,25 +10,25 @@ Aici rămân tutorialele, FAQ-urile și arhiva de conținut existentă. Nu mută
 
 ## Mautic și email
 
-- [FAQ Mautic](/faq/)
-- [Contacte](/contacte/)
-- [Formulare](/formulare/)
-- [Segmente](/segmente/)
-- [Campanii](/campanii/)
-- [Emailuri](/emailuri/)
-- [Etichete](/etichete/)
-- [Webinar](/webinar/)
+- [FAQ Mautic]({% link _tabs/faq.md %})
+- [Contacte]({% link _tabs/contacte.md %})
+- [Formulare]({% link _tabs/formulare.md %})
+- [Segmente]({% link _tabs/segmente.md %})
+- [Campanii]({% link _tabs/campanii.md %})
+- [Emailuri]({% link _tabs/emailuri.md %})
+- [Etichete]({% link _tabs/etichete.md %})
+- [Webinar]({% link _tabs/webinar.md %})
 
 ## Website și termeni pentru începători
 
-- [Categorii](/categories/)
-- [Etichete](/tags/)
-- [Arhive](/archives/)
+- [Categorii]({% link _tabs/categories.md %})
+- [Etichete]({% link _tabs/tags.md %})
+- [Arhive]({% link _tabs/archives.md %})
 
 ## Securitate
 
-- [KeePass](/keepass/)
+- [KeePass]({% link _tabs/keepass.md %})
 
 ## Oferte curente
 
-Dacă ai ajuns aici dintr-un material vechi și vrei pasul comercial actual, începe de la [Acasă](/) sau trimite mesaj prin [Contact](/contact/).
+Dacă ai ajuns aici dintr-un material vechi și vrei pasul comercial actual, începe de la [Acasă]({% link index.html %}) sau trimite mesaj prin [Contact]({% link _tabs/contact.md %}).

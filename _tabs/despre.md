@@ -26,6 +26,6 @@ Nu este potrivit dacă vrei rezultat fără decizii, fără materiale, fără ac
 
 ## Pas următor
 
-- Vezi [ofertele de pe pagina principală](/).
-- Trimite o întrebare prin [Contact](/contact/).
-- Intră în [Materiale](/materiale/) dacă vrei întâi context educațional.
+- Vezi [ofertele de pe pagina principală]({% link index.html %}).
+- Trimite o întrebare prin [Contact]({% link _tabs/contact.md %}).
+- Intră în [Materiale]({% link _tabs/materiale.md %}) dacă vrei întâi context educațional.

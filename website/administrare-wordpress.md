@@ -14,7 +14,7 @@ Devii administratorul website-ului tău WordPress. Înveți un mod de lucru pent
 
 <div class="cta-row">
   <a class="button-primary" href="https://pro.ionutojica.ro/checkout-link/?products=784:1">Plătește și rezervă locul</a>
-  <a class="button-secondary" href="/website/implementare-wordpress/">Vreau website implementat pentru mine</a>
+  <a class="button-secondary" href="{% link website/implementare-wordpress.md %}">Vreau website implementat pentru mine</a>
 </div>
 
 ## Pentru cine este
@@ -90,7 +90,7 @@ Ai nevoie de acces la WordPress, hosting și domeniu sau de posibilitatea de a l
 
 ## DIY sau DFY?
 
-Alege DIY dacă vrei să administrezi singur. Alege [website WordPress implementat complet](/website/implementare-wordpress/) dacă vrei site publicabil și predat operabil.
+Alege DIY dacă vrei să administrezi singur. Alege [website WordPress implementat complet]({% link website/implementare-wordpress.md %}) dacă vrei site publicabil și predat operabil.
 
 ## Întrebări de evaluare
 

@@ -90,7 +90,7 @@ Trebuie să furnizezi acces la domeniu/DNS, AWS/SES, hosting/server și informa�
 
 ## Există variantă DIY?
 
-Nu există segment DIY pentru EMAIL în această versiune. Dacă vrei să înveți singur, poți începe din [Materiale](/materiale/), dar oferta activă documentată aici este DFY.
+Nu există segment DIY pentru EMAIL în această versiune. Dacă vrei să înveți singur, poți începe din [Materiale]({% link _tabs/materiale.md %}), dar oferta activă documentată aici este DFY.
 
 ## Întrebări de evaluare
 

@@ -25,19 +25,25 @@
     if (!wrapper) return;
 
     const kind = wrapper.getAttribute('data-protected-contact');
-    const link = wrapper.querySelector('.protected-contact__link');
-    if (!link) return;
+    const placeholder = wrapper.querySelector('.protected-contact__link');
+    if (!placeholder) return;
 
     if (kind === 'phone') {
-      link.textContent = phoneDisplay();
-      link.href = `tel:${phoneHref()}`;
+      placeholder.textContent = phoneDisplay();
+      placeholder.dataset.href = `tel:${phoneHref()}`;
     } else {
       const email = emailValue();
-      link.textContent = email;
-      link.href = `mailto:${email}`;
+      placeholder.textContent = email;
+      placeholder.dataset.href = `mailto:${email}`;
     }
 
-    link.hidden = false;
+    const link = document.createElement('a');
+    link.className = placeholder.className;
+    link.rel = 'nofollow';
+    link.href = placeholder.dataset.href;
+    link.textContent = placeholder.textContent;
+
+    placeholder.replaceWith(link);
     button.hidden = true;
   });
 })();

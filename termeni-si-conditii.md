@@ -67,4 +67,4 @@ Situațiile de forță majoră pot amâna obligațiile părților pe durata even
 
 ## Contact
 
-Pentru întrebări legate de acești termeni, folosește datele protejate anti-spam de mai sus sau pagina [Contact](/contact/).
+Pentru întrebări legate de acești termeni, folosește datele protejate anti-spam de mai sus sau pagina [Contact]({% link _tabs/contact.md %}).

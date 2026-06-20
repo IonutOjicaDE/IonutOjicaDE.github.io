@@ -121,15 +121,15 @@ layout: compress
 
     <header class="service-header">
       <div class="service-header__inner container d-flex align-items-center justify-content-between py-3">
-        <a class="service-brand" href="{{ '/' | relative_url }}">{{ site.title }}</a>
+        <a class="service-brand" href="{% link index.html %}">{{ site.title }}</a>
         <nav class="service-nav d-flex align-items-center" aria-label="Navigație servicii">
-          <a href="{{ '/' | relative_url }}">Acasă</a>
-          <a href="{{ '/cursuri/' | relative_url }}">Cursuri</a>
-          <a href="{{ '/magazin/' | relative_url }}">Magazin</a>
-          <a href="{{ '/website/' | relative_url }}">Website</a>
-          <a href="{{ '/email/' | relative_url }}">Email</a>
-          <a href="{{ '/materiale/' | relative_url }}">Materiale</a>
-          <a href="{{ '/contact/' | relative_url }}">Contact</a>
+          <a href="{% link index.html %}">Acasă</a>
+          <a href="{% link _tabs/cursuri.md %}">Cursuri</a>
+          <a href="{% link _tabs/magazin.md %}">Magazin</a>
+          <a href="{% link _tabs/website.md %}">Website</a>
+          <a href="{% link _tabs/email.md %}">Email</a>
+          <a href="{% link _tabs/materiale.md %}">Materiale</a>
+          <a href="{% link _tabs/contact.md %}">Contact</a>
         </nav>
       </div>
     </header>

@@ -14,7 +14,7 @@ Primești magazinul WooCommerce instalat și configurat în hostingul tău. Scop
 
 <div class="cta-row">
   <a class="button-primary" href="https://pro.ionutojica.ro/checkout-link/?products=782:1">Rezervă implementarea magazinului</a>
-  <a class="button-secondary" href="/magazin/administrare-woocommerce/">Vreau să învăț administrarea WooCommerce</a>
+  <a class="button-secondary" href="{% link magazin/administrare-woocommerce.md %}">Vreau să învăț administrarea WooCommerce</a>
 </div>
 
 ## Pentru cine este
@@ -90,7 +90,7 @@ Trebuie să furnizezi datele produselor, decizii despre monedă, taxe, livrare, 
 
 ## DFY sau DIY?
 
-Alege DFY dacă vrei magazinul implementat. Alege [cursul de administrare WooCommerce](/magazin/administrare-woocommerce/) dacă vrei control direct și aplicare proprie.
+Alege DFY dacă vrei magazinul implementat. Alege [cursul de administrare WooCommerce]({% link magazin/administrare-woocommerce.md %}) dacă vrei control direct și aplicare proprie.
 
 ## Întrebări de evaluare
 

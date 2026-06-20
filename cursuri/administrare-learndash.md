@@ -14,7 +14,7 @@ Devii administratorul platformei tale de cursuri. Nu înveți doar unde sunt set
 
 <div class="cta-row">
   <a class="button-primary" href="https://pro.ionutojica.ro/checkout-link/?products=779:1">Înscrie-te la cursul LearnDash</a>
-  <a class="button-secondary" href="/cursuri/implementare-learndash/">Vreau platforma implementată pentru mine</a>
+  <a class="button-secondary" href="{% link cursuri/implementare-learndash.md %}">Vreau platforma implementată pentru mine</a>
 </div>
 
 ## Pentru cine este
@@ -90,7 +90,7 @@ Ai nevoie de o structură minimă de curs, acces la WordPress/hosting și dispon
 
 ## DIY sau DFY?
 
-Alege această variantă dacă vrei autonomie și poți lucra pe propria platformă. Alege [implementarea LearnDash](/cursuri/implementare-learndash/) dacă vrei ca platforma să fie configurată și predată operabil.
+Alege această variantă dacă vrei autonomie și poți lucra pe propria platformă. Alege [implementarea LearnDash]({% link cursuri/implementare-learndash.md %}) dacă vrei ca platforma să fie configurată și predată operabil.
 
 ## Întrebări de evaluare
 

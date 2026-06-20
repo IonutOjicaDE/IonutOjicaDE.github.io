@@ -1,7 +1,7 @@
 ---
 icon: fas fa-lock
 categorie: [keepass]
-order: 25
+order: 28
 image: "/assets/img/keepass/2024-03-20-instalare-keepass.png"
 author: ionut
 comments: true

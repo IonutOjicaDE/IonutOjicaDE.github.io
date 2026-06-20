@@ -1,0 +1,147 @@
+---
+layout: compress
+---
+
+<!doctype html>
+
+{% include origin-type.html %}
+{% include lang.html %}
+
+{% if site.theme_mode %}
+  {% capture prefer_mode %}data-mode="{{ site.theme_mode }}"{% endcapture %}
+{% endif %}
+
+<html lang="{{ site.alt_lang | default: site.lang }}" {{ prefer_mode }}>
+  {% include head.html %}
+
+  <body>
+    <style>
+      .service-header {
+        border-bottom: 1px solid var(--main-border-color);
+        background: var(--sidebar-bg);
+      }
+
+      .service-header__inner,
+      .service-main,
+      .service-footer {
+        max-width: 1120px;
+      }
+
+      .service-brand {
+        color: var(--site-title-color);
+        font-weight: 700;
+        text-decoration: none;
+      }
+
+      .service-nav {
+        gap: .75rem;
+      }
+
+      .service-nav a {
+        color: var(--text-muted-color);
+        font-size: .92rem;
+        text-decoration: none;
+        white-space: nowrap;
+      }
+
+      .service-nav a:hover {
+        color: var(--link-color);
+      }
+
+      .service-content {
+        font-size: 1.02rem;
+      }
+
+      .service-content h1 {
+        margin-top: 0;
+      }
+
+      .service-content h2 {
+        margin-top: 2.5rem;
+      }
+
+      .service-content .lead {
+        color: var(--text-muted-color);
+        font-size: 1.12rem;
+      }
+
+      .service-content .cta-row {
+        display: flex;
+        flex-wrap: wrap;
+        gap: .75rem;
+        margin: 1.25rem 0 1.5rem;
+      }
+
+      .service-content .button-primary,
+      .service-content .button-secondary {
+        border-radius: .5rem;
+        display: inline-flex;
+        font-weight: 700;
+        line-height: 1.2;
+        padding: .8rem 1rem;
+        text-decoration: none;
+      }
+
+      .service-content .button-primary {
+        background: var(--link-color);
+        color: var(--button-text-color, #fff);
+      }
+
+      .service-content .button-secondary {
+        border: 1px solid var(--main-border-color);
+        color: var(--link-color);
+      }
+
+      .service-content .offer-grid,
+      .service-content .split-grid {
+        display: grid;
+        gap: 1rem;
+        grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+      }
+
+      .service-content .notice {
+        border-left: .25rem solid var(--link-color);
+        padding: .75rem 1rem;
+        background: var(--card-bg);
+      }
+
+      @media (max-width: 767.98px) {
+        .service-header__inner {
+          align-items: flex-start !important;
+          gap: .75rem;
+        }
+
+        .service-nav {
+          overflow-x: auto;
+          padding-bottom: .25rem;
+          width: 100%;
+        }
+      }
+    </style>
+
+    <header class="service-header">
+      <div class="service-header__inner container d-flex align-items-center justify-content-between py-3">
+        <a class="service-brand" href="{{ '/' | relative_url }}">{{ site.title }}</a>
+        <nav class="service-nav d-flex align-items-center" aria-label="Navigație servicii">
+          <a href="{{ '/' | relative_url }}">Acasă</a>
+          <a href="{{ '/cursuri/' | relative_url }}">Cursuri</a>
+          <a href="{{ '/magazin/' | relative_url }}">Magazin</a>
+          <a href="{{ '/website/' | relative_url }}">Website</a>
+          <a href="{{ '/email/' | relative_url }}">Email</a>
+          <a href="{{ '/materiale/' | relative_url }}">Materiale</a>
+          <a href="{{ '/contact/' | relative_url }}">Contact</a>
+        </nav>
+      </div>
+    </header>
+
+    <main aria-label="Main Content" class="service-main container px-3 px-md-4 py-4 py-md-5">
+      <article class="service-content content">
+        {% include refactor-content.html content=content lang=lang %}
+      </article>
+    </main>
+
+    <div class="service-footer container px-3 px-md-4">
+      {% include_cached footer.html lang=lang %}
+    </div>
+  </body>
+</html>

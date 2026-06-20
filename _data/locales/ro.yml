@@ -11,6 +11,13 @@ layout:
 tabs:
   # format: <nume_fisier_fara_extensie>: <valoare>
   home: Acasă
+  cursuri: Cursuri
+  magazin: Magazin
+  website: Website
+  email: Email
+  materiale: Materiale
+  contact: Contact
+  despre: Despre
   categories: Categorii
   tags: Etichete
   archives: Arhive

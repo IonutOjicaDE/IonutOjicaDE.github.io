@@ -14,7 +14,7 @@ Primești platforma de cursuri instalată și configurată în hostingul tău. S
 
 <div class="cta-row">
   <a class="button-primary" href="https://pro.ionutojica.ro/checkout-link/?products=780:1">Rezervă implementarea LearnDash</a>
-  <a class="button-secondary" href="/cursuri/administrare-learndash/">Vreau să învăț să administrez singur</a>
+  <a class="button-secondary" href="{% link cursuri/administrare-learndash.md %}">Vreau să învăț să administrez singur</a>
 </div>
 
 ## Pentru cine este
@@ -90,7 +90,7 @@ Trebuie să furnizezi acces la hosting/WordPress, contul de plată dacă este fo
 
 ## DFY sau DIY?
 
-Alege DFY dacă vrei execuție completă și poți pregăti materialele. Alege [cursul de administrare LearnDash](/cursuri/administrare-learndash/) dacă vrei să înveți să operezi singur.
+Alege DFY dacă vrei execuție completă și poți pregăti materialele. Alege [cursul de administrare LearnDash]({% link cursuri/administrare-learndash.md %}) dacă vrei să înveți să operezi singur.
 
 ## Întrebări de evaluare
 

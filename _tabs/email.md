@@ -8,7 +8,7 @@ order: 4
 
 Oferta activă pentru EMAIL este varianta DFY.
 
-- [Email marketing Mautic + SES](/email/mautic-ses/) — infrastructură configurată, testată și predată pentru operare.
+- [Email marketing Mautic + SES]({% link email/mautic-ses.md %}) — infrastructură configurată, testată și predată pentru operare.
 
 ## Ce trebuie clarificat înainte
 

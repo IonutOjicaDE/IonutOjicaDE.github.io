@@ -13,17 +13,17 @@ Această pagină este pentru interes general sau pentru oferte care nu sunt înc
 
 În acest moment, ofertele principale au checkout direct:
 
-- [Administrare platformă de cursuri LearnDash](/cursuri/administrare-learndash/)
-- [Platformă de cursuri LearnDash implementată complet](/cursuri/implementare-learndash/)
-- [Administrare magazin WooCommerce](/magazin/administrare-woocommerce/)
-- [Magazin WooCommerce implementat complet](/magazin/implementare-woocommerce/)
-- [Administrare website WordPress](/website/administrare-wordpress/)
-- [Website WordPress implementat complet](/website/implementare-wordpress/)
-- [Email marketing Mautic + SES](/email/mautic-ses/)
+- [Administrare platformă de cursuri LearnDash]({% link cursuri/administrare-learndash.md %})
+- [Platformă de cursuri LearnDash implementată complet]({% link cursuri/implementare-learndash.md %})
+- [Administrare magazin WooCommerce]({% link magazin/administrare-woocommerce.md %})
+- [Magazin WooCommerce implementat complet]({% link magazin/implementare-woocommerce.md %})
+- [Administrare website WordPress]({% link website/administrare-wordpress.md %})
+- [Website WordPress implementat complet]({% link website/implementare-wordpress.md %})
+- [Email marketing Mautic + SES]({% link email/mautic-ses.md %})
 
 ## Dacă vrei să fii anunțat
 
-Folosește pagina [Contact](/contact/) și menționează subiectul „Listă de așteptare” împreună cu oferta care te interesează.
+Folosește pagina [Contact]({% link _tabs/contact.md %}) și menționează subiectul „Listă de așteptare” împreună cu oferta care te interesează.
 
 Include pe scurt:
 

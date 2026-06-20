@@ -8,8 +8,8 @@ order: 1
 
 Alege varianta potrivită pentru platforma ta de cursuri.
 
-- [Administrare platformă de cursuri LearnDash](/cursuri/administrare-learndash/) — înveți să administrezi singur structura, accesul, progresul și testarea.
-- [Platformă de cursuri LearnDash implementată complet](/cursuri/implementare-learndash/) — primești platforma instalată, configurată, testată și predată operabil.
+- [Administrare platformă de cursuri LearnDash]({% link cursuri/administrare-learndash.md %}) — înveți să administrezi singur structura, accesul, progresul și testarea.
+- [Platformă de cursuri LearnDash implementată complet]({% link cursuri/implementare-learndash.md %}) — primești platforma instalată, configurată, testată și predată operabil.
 
 ## Alegere rapidă
 

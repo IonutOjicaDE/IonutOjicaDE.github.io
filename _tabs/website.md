@@ -8,8 +8,8 @@ order: 3
 
 Alege varianta potrivită pentru site-ul tău WordPress.
 
-- [Administrare website WordPress](/website/administrare-wordpress/) — înveți pagini, meniuri, formulare, backup, update-uri și mentenanță.
-- [Website WordPress implementat complet](/website/implementare-wordpress/) — primești website publicabil, coerent și predat operabil.
+- [Administrare website WordPress]({% link website/administrare-wordpress.md %}) — înveți pagini, meniuri, formulare, backup, update-uri și mentenanță.
+- [Website WordPress implementat complet]({% link website/implementare-wordpress.md %}) — primești website publicabil, coerent și predat operabil.
 
 ## Alegere rapidă
 

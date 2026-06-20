@@ -8,8 +8,8 @@ order: 2
 
 Alege varianta potrivită pentru magazinul tău.
 
-- [Administrare magazin WooCommerce](/magazin/administrare-woocommerce/) — înveți produse, taxe, livrare, checkout, comenzi și emailuri.
-- [Magazin WooCommerce implementat complet](/magazin/implementare-woocommerce/) — primești magazin configurat, testat și predat operabil.
+- [Administrare magazin WooCommerce]({% link magazin/administrare-woocommerce.md %}) — înveți produse, taxe, livrare, checkout, comenzi și emailuri.
+- [Magazin WooCommerce implementat complet]({% link magazin/implementare-woocommerce.md %}) — primești magazin configurat, testat și predat operabil.
 
 ## Alegere rapidă
 

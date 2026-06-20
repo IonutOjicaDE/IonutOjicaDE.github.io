@@ -76,7 +76,7 @@ Ai dreptul să soliciți, în condițiile legii:
 - retragerea consimțământului unde prelucrarea se bazează pe consimțământ;
 - depunerea unei plângeri la autoritatea competentă.
 
-Pentru exercitarea drepturilor, folosește adresa afișată mai sus sau pagina [Contact](/contact/).
+Pentru exercitarea drepturilor, folosește adresa afișată mai sus sau pagina [Contact]({% link _tabs/contact.md %}).
 
 ## Autoritate
 

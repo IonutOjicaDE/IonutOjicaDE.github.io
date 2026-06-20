@@ -14,7 +14,7 @@ Devii administratorul magazinului tău WooCommerce. Scopul este să poți verifi
 
 <div class="cta-row">
   <a class="button-primary" href="https://pro.ionutojica.ro/checkout-link/?products=781:1">Înscrie-te la cursul WooCommerce</a>
-  <a class="button-secondary" href="/magazin/implementare-woocommerce/">Vreau magazinul implementat pentru mine</a>
+  <a class="button-secondary" href="{% link magazin/implementare-woocommerce.md %}">Vreau magazinul implementat pentru mine</a>
 </div>
 
 ## Pentru cine este
@@ -90,7 +90,7 @@ Ai nevoie de produse reale sau demo, acces la magazinul WooCommerce și disponib
 
 ## DIY sau DFY?
 
-Alege DIY dacă vrei să administrezi singur. Alege [magazin WooCommerce implementat complet](/magazin/implementare-woocommerce/) dacă vrei execuția făcută pentru tine.
+Alege DIY dacă vrei să administrezi singur. Alege [magazin WooCommerce implementat complet]({% link magazin/implementare-woocommerce.md %}) dacă vrei execuția făcută pentru tine.
 
 ## Întrebări de evaluare
 

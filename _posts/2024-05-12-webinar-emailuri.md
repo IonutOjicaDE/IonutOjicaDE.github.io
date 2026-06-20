@@ -28,4 +28,4 @@ Automatizarea webinarului are deja create emailuri pentru fiecare pas:
 
 Este posibilă extinderea funcţionalităţii automatizării webinarului, pentru ca emailurile ulterioare de vânzare să nu se mai trimită la persoanele care au cumpărat deja. Pentru implementare va fi nevoie de acces la magazinul tău online sau metoda de plată folosită de tine pentru ofertele tale, pentru ca să facem să se trimită un mesaj de "finalizare plată" şi la Mautic.
 
-Dar poate nu te interesează toate aceste detalii - ia [contact cu mine aici](/contact/) şi putem concretiza direct pentru cazul tău.
+Dar poate nu te interesează toate aceste detalii - ia [contact cu mine aici]({% link _tabs/contact.md %}) şi putem concretiza direct pentru cazul tău.

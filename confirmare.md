@@ -19,4 +19,4 @@ Acțiunea a fost trimisă sau ai ajuns pe pagina de confirmare după un pas ante
 
 ## Ieșire utilă
 
-Revino la [Acasă](/) sau trimite un mesaj prin [Contact](/contact/) dacă ai nevoie de clarificări.
+Revino la [Acasă]({% link index.html %}) sau trimite un mesaj prin [Contact]({% link _tabs/contact.md %}) dacă ai nevoie de clarificări.

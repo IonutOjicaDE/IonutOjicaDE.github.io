@@ -1,25 +1,31 @@
 ---
-# the default layout is 'page'
 icon: fas fa-info-circle
-order: 30
+title: Despre
+order: 7
 ---
 
-## Despre Ionuţ
-Inginer economist în domeniul mecanic de meserie.
-În timpul liber ajut antreprenori să salveze mii de euro anual folosind Mautic.
+## Despre Ionuț Ojică
 
-## Cum am creat acest website
-M-am folosit de acest tutorial pentru a construi acest website:
+Lucrez cu sisteme WordPress în care partea tehnică trebuie să fie clară și operabilă: platforme de cursuri, magazine WooCommerce, website-uri și infrastructură de email marketing.
 
-{% include embed/youtube.html id='F8iOU1ci19Q' %}
-📺 [Watch Video](https://www.youtube.com/watch?v=F8iOU1ci19Q)
+Direcția mea este simplă: mai puțină improvizație, mai multă structură, verificare și predare.
 
+## Mod de lucru
 
-## Teme interesante pentru a folosi la acest site
+1. Clarificăm ce sistem ai nevoie: cursuri, magazin, website sau email.
+2. Alegem forma potrivită: DIY dacă vrei autonomie, DFY dacă vrei execuție completă.
+3. Stabilim ce intră, ce nu intră și ce trebuie să furnizezi.
+4. Lucrăm cu pași, checklist-uri și verificări.
+5. Sistemul trebuie să poată fi operat, nu doar arătat.
 
-https://github.com/cotes2020/jekyll-theme-chirpy
+## Criterii și limite
 
-https://github.com/just-the-docs/just-the-docs
+Potrivirea este bună când există o problemă activă, materiale sau accesuri pregătibile și disponibilitate pentru decizii clare.
 
-https://github.com/mmistakes/minimal-mistakes
+Nu este potrivit dacă vrei rezultat fără decizii, fără materiale, fără accesuri sau fără limită de scope.
 
+## Pas următor
+
+- Vezi [ofertele de pe pagina principală]({% link index.html %}).
+- Trimite o întrebare prin [Contact]({% link _tabs/contact.md %}).
+- Intră în [Materiale]({% link _tabs/materiale.md %}) dacă vrei întâi context educațional.

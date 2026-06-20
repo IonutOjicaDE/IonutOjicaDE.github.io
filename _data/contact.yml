@@ -1,28 +1,29 @@
-#  The contact options.
+# The contact/social options shown in the sidebar.
+
+- type: website
+  icon: "fas fa-globe"
+  url: "https://ionutojica.ro"
 
 - type: github
   icon: "fab fa-github"
+  url: "https://github.com/IonutOjicaDE"
 
-- type: twitter
-  icon: "fa-brands fa-x-twitter"
+- type: youtube
+  icon: "fab fa-youtube"
+  url: "https://youtube.com/@IonutOjicaDE"
 
-- type: email
-  icon: "fas fa-envelope"
-  noblank: true # open link in current tab
+- type: instagram
+  icon: "fab fa-instagram"
+  url: "https://instagram.com/ionutojicade"
+
+- type: facebook
+  icon: "fab fa-facebook"
+  url: "https://facebook.com/ionutojicade"
+
+- type: tiktok
+  icon: "fab fa-tiktok"
+  url: "https://tiktok.com/@ionutojicade"
 
 - type: rss
   icon: "fas fa-rss"
   noblank: true
-# Uncomment and complete the url below to enable more contact options
-#
-# - type: mastodon
-#   icon: 'fab fa-mastodon'   # icons powered by <https://fontawesome.com/>
-#   url:  ''                  # Fill with your Mastodon account page, rel="me" will be applied for verification
-#
-# - type: linkedin
-#   icon: 'fab fa-linkedin'   # icons powered by <https://fontawesome.com/>
-#   url:  ''                  # Fill with your Linkedin homepage
-#
-# - type: stack-overflow
-#   icon: 'fab fa-stack-overflow'
-#   url:  ''                  # Fill with your stackoverflow homepage

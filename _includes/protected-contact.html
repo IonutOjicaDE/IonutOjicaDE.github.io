@@ -1,0 +1,35 @@
+<div class="protected-contact" data-protected-contact="{{ include.kind | default: 'email' }}">
+  <button type="button" class="protected-contact__button">
+    {{ include.label | default: 'Arată contactul' }}
+  </button>
+  <span class="protected-contact__link" hidden></span>
+</div>
+
+<noscript>
+  <p><small>Datele directe de contact sunt protejate anti-spam și se afișează după activarea JavaScript.</small></p>
+</noscript>
+
+<style>
+  .protected-contact {
+    margin: .35rem 0 1rem;
+  }
+
+  .protected-contact__button {
+    border: 1px solid var(--main-border-color);
+    border-radius: .5rem;
+    background: var(--button-bg);
+    color: var(--link-color);
+    cursor: pointer;
+    font: inherit;
+    font-weight: 700;
+    padding: .55rem .75rem;
+  }
+
+  .protected-contact__link {
+    display: inline-block;
+    font-weight: 700;
+    margin-top: .35rem;
+  }
+</style>
+
+<script defer src="{{ '/assets/js/protected-contact.js' | relative_url }}"></script>

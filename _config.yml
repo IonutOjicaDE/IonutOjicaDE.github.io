@@ -14,37 +14,35 @@ timezone: Europe/Berlin
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Platforme Open-Source
+title: Sisteme WordPress
 
-tagline: Salvează mii de euro anual, fără a renunţa la funcţionalitate
+tagline: Cursuri, magazine, website-uri și email marketing operabile
 
 description: >- # used by seo meta and the atom feed
-  Descoperă platforme open-source şi urmăreşte tutorialele detaliate împreună cu sfaturile utile. Economisește mii de euro anual și bucură-te de funcționalități fără costuri extra. Ai nevoie de ajutor? Ofer un serviciu de transfer de la platformele plătite la cele open-source.
+  Sisteme WordPress pentru cursuri online, magazine WooCommerce, website-uri și email marketing Mautic + SES. Alege DIY dacă vrei să administrezi singur sau DFY dacă vrei implementare completă, testată și predată operabil.
 
 # Fill in the protocol & hostname for your site.
 # e.g. 'https://username.github.io', note that it does not end with a '/'.
-url: "https://ionutojicade.github.io"
+url: "https://ionutojica.ro"
 
 author: ionut
 
 github:
-  username: ionutojicade # change to your github username
-
-#twitter:
-#  username: twitter_username # change to your twitter username
+  username: IonutOjicaDE # change to your github username
 
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: Ionuţ Ojică
-  email: contact@ionutojica.ro # change to your email address
+  name: Ionuț Ojică
+  email:
   links:
     # The first element serves as the copyright owner's link
-     - https://twitter.com/username # change to your twitter homepage
-     - https://github.com/IonutOjicaDE # change to your github homepage
-    # Uncomment below to add more social links
-     - https://www.facebook.com/IonutOjicaDE
-    # - https://www.linkedin.com/in/username
+     - https://ionutojica.ro
+     - https://github.com/IonutOjicaDE
+     - https://youtube.com/@IonutOjicaDE
+     - https://instagram.com/ionutojicade
+     - https://facebook.com/ionutojicade
+     - https://tiktok.com/@ionutojicade
 
 google_site_verification: # fill in to your verification string
 

@@ -2,7 +2,7 @@
 icon: fas fa-clock
 title: Campanii / Automatizări
 categorie: [campanii]
-order: 7
+order: 24
 comments: true
 ---
 

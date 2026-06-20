@@ -42,7 +42,7 @@ Proiectul pe GitHub:
 https://github.com/IonutOjicaDE/IonutOjicaDE.github.io
 
 Adresa site-ului:
-https://ionutojicade.github.io/
+https://ionutojica.ro/
 
 Landing Page:
 https://github.com/swcool/landing-page-theme

@@ -29,21 +29,14 @@
   </p>
 
   <p>
-    {%- capture _platform -%}
-      <a href="https://jekyllrb.com" target="_blank" rel="noopener">Jekyll</a>
-    {%- endcapture -%}
-
-    {%- capture _theme -%}
-      <a
-        data-bs-toggle="tooltip"
-        data-bs-placement="top"
-        title="v{{ theme.version }}"
-        href="https://github.com/cotes2020/jekyll-theme-chirpy"
-        target="_blank"
-        rel="noopener"
-      >Chirpy</a>
-    {%- endcapture -%}
-
-    {{ site.data.locales[include.lang].meta | replace: ':PLATFORM', _platform | replace: ':THEME', _theme }}
+    <a href="{% link _tabs/despre.md %}">Despre</a>
+    <span aria-hidden="true"> · </span>
+    <a href="{% link _tabs/contact.md %}">Contact</a>
+    <span aria-hidden="true"> · </span>
+    <a href="{% link termeni-si-conditii.md %}">Termeni</a>
+    <span aria-hidden="true"> · </span>
+    <a href="{% link politica-de-confidentialitate.md %}">Confidențialitate</a>
+    <span aria-hidden="true"> · </span>
+    <a href="{% link impressum.md %}">Impressum</a>
   </p>
 </footer>

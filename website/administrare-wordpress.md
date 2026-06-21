@@ -15,7 +15,7 @@ description: "Curs live pentru administrare și mentenanță WordPress"
 - întrebări între sesiuni în grupul Telegram;
 - aplicare reală pe site-ul tău, nu doar teorie despre WordPress
 
-![Administrare website WordPress — fără haos, cu protocol clar](/assets/img/pages/website-administrare-wordpress/hero-administrare-wordpress.png)
+![Administrare website WordPress — fără haos, cu protocol clar](/assets/img/pages/website-administrare-wordpress/hero-administrare-wordpress-800.jpg){: width="500" height="400" .w-50 .right .shadow .rounded-10}
 
 ### Navigare rapidă
 
@@ -25,6 +25,8 @@ description: "Curs live pentru administrare și mentenanță WordPress"
 - [Vezi ce intră și ce nu intră](#sec-07)
 - [Vezi garanția](#sec-08b)
 - [Mergi la înscriere](#sec-09)
+
+---
 
 ## Pentru cine este / pentru cine nu este {#sec-01}
 
@@ -44,6 +46,8 @@ Alege acest curs dacă vrei să înveți să administrezi singur website-ul tău
 - vrei rezultate fără aplicare între sesiuni;
 - nu vrei disciplină de lucru și mentenanță făcută controlat.
 
+---
+
 ## Ce vei putea face concret până la final {#sec-02}
 
 La finalul cursului, obiectivul este să ai un website minim, publicabil și ușor de administrat de către tine. Nu pleci doar cu informații despre WordPress, ci cu o structură de lucru pe care o poți folosi și după curs.
@@ -62,6 +66,8 @@ La finalul cursului, obiectivul este să ai un website minim, publicabil și uș
 - știi să faci backup înainte de schimbări;
 - știi să faci update-uri controlat, nu la întâmplare;
 - ai un mod de lucru mai clar pentru modificările uzuale.
+
+---
 
 ## Formatul real de livrare {#sec-03}
 
@@ -87,11 +93,13 @@ Formatul cursului este clar de la început, ca să știi cum se desfășoară, u
 - poți pune întrebări în grupul Telegram între sesiuni;
 - la final ai o sesiune bonus dedicată întrebărilor rămase și consolidării.
 
+---
+
 ## Cum se lucrează efectiv {#sec-04}
 
 Cursul nu este gândit pentru consum pasiv de informație. Vezi ordinea corectă, înțelegi de ce contează fiecare pas și aplici pe propriul tău site, în ritmul în care poți lucra corect.
 
-![Cum funcționează cursul — explicație, demonstrație, verificare, aplicare și sprijin](/assets/img/pages/website-administrare-wordpress/proces-curs-wordpress.png)
+![Cum funcționează cursul — explicație, demonstrație, verificare, aplicare și sprijin](/assets/img/pages/website-administrare-wordpress/proces-curs-wordpress-800.jpg){: width="400" height="500" .w-50 .right .shadow .rounded-10}
 
 1. **Primești explicația ghidată**
    Înțelegi ce faci, de ce faci și în ce ordine.
@@ -110,9 +118,11 @@ Cursul nu este gândit pentru consum pasiv de informație. Vezi ordinea corectă
 
 **Important:** scopul nu este ca toată grupa să execute fiecare click simultan. Scopul este să vezi ordinea corectă, să aplici în ritmul tău și să poți avansa fără haos.
 
+---
+
 ## Despre Ionuț {#sec-04a}
 
-![Portret Ionuț Ojică](/assets/img/pages/website-administrare-wordpress/portret-ionut-ojica.jpg)
+![Portret Ionuț Ojică](/assets/img/pages/website-administrare-wordpress/portret-ionut-ojica.jpg){: width="222" height="300" .w-50 .right .shadow .rounded-10}
 
 Nu predau WordPress din teorie generică, ci din lucru real cu site-uri care trebuie să rămână publicabile, ușor de administrat și suficient de stabile după lansare.
 
@@ -132,6 +142,8 @@ De aici vine logica acestui curs: să ai un website este una; să îl poți admi
 
 - **Protocol, nu butoane apăsate la întâmplare**
   În WordPress, stabilitatea vine din ordine, verificare și rutină clară, nu din reacții improvizate.
+
+---
 
 ## Ce înveți, în ordinea corectă {#sec-05}
 
@@ -164,6 +176,8 @@ Pui în structură Impressum, Termeni și condiții, Politică de confidențiali
 ### Săptămâna 7 — întreținere, verificare finală și consolidare
 Verifici pluginurile, paginile, meniul, formularul, emailul și rutina minimă de administrare.
 **Rezultat:** închizi cursul cu un site verificat și cu un mod clar de lucru pentru perioada de după curs.
+
+---
 
 ## Exemple de implementare / sisteme create {#sec-05a}
 
@@ -255,13 +269,15 @@ Exemplele de mai jos arată tipul de logică pe care merg și în curs: structur
 
 **Pe scurt:** oamenii evidențiază cel mai des claritatea explicațiilor, disponibilitatea, răbdarea, implicarea și faptul că lucrurile tehnice devin mai ușor de înțeles și de administrat.
 
+---
+
 ## Greșelile care produc incidente și ce faci în loc {#sec-06}
 
 Cele mai multe probleme nu apar pentru că WordPress este „prea complicat”, ci pentru că se lucrează fără protocol clar.
 
 Securitatea, stabilitatea și mentenanța nu se rezolvă printr-un plugin instalat rapid. Se țin sub control prin ordine: backup, update-uri făcute atent, verificare și un stack cât mai mic.
 
-![Haos vs protocol clar în administrarea WordPress](/assets/img/pages/website-administrare-wordpress/haos-vs-protocol-clar.png)
+![Haos vs protocol clar în administrarea WordPress](/assets/img/pages/website-administrare-wordpress/haos-vs-protocol-clar-800.jpg){: width="400" height="500" .w-50 .right .shadow .rounded-10}
 
 ### WARNING — Update-uri făcute la întâmplare
 
@@ -280,6 +296,8 @@ Securitatea, stabilitatea și mentenanța nu se rezolvă printr-un plugin instal
 **Condiție:** adaugi pluginuri, page builders sau funcții noi fără rol clar.
 **Consecință:** crește riscul de conflict, instabilitate și administrare dificilă.
 **În loc:** lucrezi cu un stack mic, clar și administrabil, în care fiecare plugin are un rol concret.
+
+---
 
 ## Ce intră, ce nu intră și ce ai nevoie înainte să te înscrii {#sec-07}
 
@@ -300,6 +318,8 @@ Securitatea, stabilitatea și mentenanța nu se rezolvă printr-un plugin instal
 - timp de aplicare între sesiuni, aproximativ o oră zilnic.
 
 **Decizii obligatorii:** `domeniu` `hosting` `structură minimă de pagini` `email profesional` `ritm de aplicare`
+
+---
 
 ## DIY sau ai nevoie de DFY? {#sec-08}
 
@@ -325,6 +345,8 @@ Dacă vrei să alegi corect, compară cele două variante pe aceleași criterii:
 - **Semnal clar că ai nevoie de DIY:** vrei să înveți operarea și să reduci dependența pe termen lung.
 
 Dacă te regăsești mai mult în coloana DIY, cursul acesta este varianta potrivită. Dacă te regăsești mai mult în coloana DFY, oferta potrivită este website-ul implementat complet.
+
+---
 
 ## FAQ de evaluare {#sec-08a}
 
@@ -363,6 +385,8 @@ Atunci ai nevoie de varianta DFY: website implementat complet. Acest curs este p
 
 Depinde de ritmul tău și de starea site-ului, dar cursul presupune aplicare între întâlniri. Nu este gândit ca material de urmărit pasiv.
 
+---
+
 ## Garanția {#sec-08b}
 
 Vreau să intri în acest curs fără frica că plătești pentru ceva ce nu ți se potrivește sau nu te ajută concret.
@@ -377,6 +401,8 @@ Garanția se aplică în situații clare:
 - dacă îți dai seama că ai ales o ofertă nepotrivită pentru tine, prefer să închidem corect aici decât să rămâi blocat într-o decizie greșită.
 
 Scopul garanției este simplu: să alegi fără presiune și fără risc inutil la plată.
+
+---
 
 ## FAQ de decizie {#sec-08c}
 
@@ -420,13 +446,15 @@ Dacă îți dai seama că ai nevoie de website implementat complet pentru tine, 
 
 [Plătește și rezervă locul](https://pro.ionutojica.ro/checkout-link/?products=784:1)
 
+---
+
 ## Înscriere / Plată {#sec-09}
 
 **Grupă live C1_DIY_SITE**
 
 ### Plătește și rezervă locul — începem pe 25.06.2026
 
-![Invitație curs de administrare WordPress](/assets/img/pages/website-administrare-wordpress/invitatie-curs-administrare-wordpress.png)
+![Invitație curs de administrare WordPress](/assets/img/pages/website-administrare-wordpress/invitatie-curs-administrare-wordpress.png){: width="300" height="300" .w-50 .right .shadow .rounded-10}
 
 ~~990 €~~ **450 €**
 
@@ -458,27 +486,3 @@ Dacă vrei website-ul implementat complet pentru tine, ai nevoie de varianta DFY
 - [Programă](#sec-05)
 - [FAQ de evaluare](#sec-08a)
 - [FAQ de decizie](#sec-08c)
-
----
-
-## Informații utile
-
-![Logo ionutojica.ro](/assets/img/pages/website-administrare-wordpress/logo-ionutojica-ro.png)
-
-**Ionuț Ojică**
-Website-uri WordPress, administrare și sisteme digitale operabile.
-
-### Pagini utile
-
-- [Impressum]({% link impressum.md %})
-- [Termeni și condiții]({% link termeni-si-conditii.md %})
-- [Politică de confidențialitate]({% link politica-de-confidentialitate.md %})
-- [Contact]({% link _tabs/contact.md %})
-
-### Contact
-
-Pentru mesaj scurt, afișează adresa protejată anti-spam:
-
-{% include protected-contact.html kind="email" label="Arată emailul" %}
-
-© Ionuț Ojică. Toate drepturile rezervate.

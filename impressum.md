@@ -14,9 +14,13 @@ Willy-Brandt-Allee 38
 74523 Schwäbisch Hall  
 Germania
 
-Telefon: {% include protected-contact.html kind="phone" label="Arată telefonul" %}
+Telefon:
 
-Email: {% include protected-contact.html kind="email" label="Arată emailul" %}
+{% include protected-contact.html kind="phone" label="Arată telefonul" %}
+
+Email:
+
+{% include protected-contact.html kind="email" label="Arată emailul" %}
 
 Internet: [https://ionutojica.ro](https://ionutojica.ro)
 

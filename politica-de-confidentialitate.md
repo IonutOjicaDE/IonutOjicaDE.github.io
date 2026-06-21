@@ -14,7 +14,9 @@ Această pagină explică pe scurt ce date pot fi colectate prin site, checkout,
 **Firma Ionut Ojica**
 Willy-Brandt-Allee 38, 74523 Schwäbisch Hall, Germania
 
-Email: {% include protected-contact.html kind="email" label="Arată emailul" %}
+Email:
+
+{% include protected-contact.html kind="email" label="Arată emailul" %}
 
 Persoană de contact: Ionuț Ojică
 

@@ -16,7 +16,9 @@ Această pagină definește cadrul minim pentru folosirea site-ului, cumpărarea
 **Prestator:** Firma Ionut Ojica, Willy-Brandt-Allee 38, 74523 Schwäbisch Hall, Germania.
 Reprezentant: Ionuț Ojică.
 
-Email: {% include protected-contact.html kind="email" label="Arată emailul" %}
+Email:
+
+{% include protected-contact.html kind="email" label="Arată emailul" %}
 
 **Beneficiar:** persoana fizică sau juridică ce cumpără un produs sau serviciu prin paginile de ofertă, checkout sau acord separat.
 

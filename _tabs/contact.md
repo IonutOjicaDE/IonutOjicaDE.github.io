@@ -8,9 +8,13 @@ comments: false
 
 Scrie dacă ai o întrebare înainte de cumpărare sau dacă situația ta nu intră clar într-o ofertă DIY/DFY.
 
-Email: {% include protected-contact.html kind="email" label="Arată emailul" %}
+Email:
 
-Telefon: {% include protected-contact.html kind="phone" label="Arată telefonul" %}
+{% include protected-contact.html kind="email" label="Arată emailul" %}
+
+Telefon:
+
+{% include protected-contact.html kind="phone" label="Arată telefonul" %}
 
 ## Ce să incluzi în mesaj
 

@@ -7,8 +7,6 @@ toc: false
 comments: false
 ---
 
-# Impressum
-
 Responsabil de acest conținut:
 
 **Ionuț Ojică**  
@@ -16,20 +14,16 @@ Willy-Brandt-Allee 38
 74523 Schwäbisch Hall  
 Germania
 
-Telefon:
+Telefon: {% include protected-contact.html kind="phone" label="Arată telefonul" %}
 
-{% include protected-contact.html kind="phone" label="Arată telefonul" %}
-
-Email:
-
-{% include protected-contact.html kind="email" label="Arată emailul" %}
+Email: {% include protected-contact.html kind="email" label="Arată emailul" %}
 
 Internet: [https://ionutojica.ro](https://ionutojica.ro)
 
 Autoritatea de supraveghere competentă:
 
-Regierungspräsidium Stuttgart  
-Ruppmannstr. 21  
-70565 Stuttgart  
-Telefon: 0711 904-0  
+Regierungspräsidium Stuttgart
+Ruppmannstr. 21
+70565 Stuttgart
+Telefon: 0711 904-0
 Internet: [www.rp.baden-wuerttemberg.de](https://www.rp.baden-wuerttemberg.de/)

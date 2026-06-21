@@ -1,14 +1,14 @@
 ---
 icon: fas fa-envelope
-title: Email
+title: Platformă de Email Marketing
 order: 4
+toc: true
+comments: false
 ---
 
-## Email marketing / Mautic + SES
+Oferta activă pentru Platforma de Email Marketing este varianta DFY.
 
-Oferta activă pentru EMAIL este varianta DFY.
-
-- [Email marketing Mautic + SES]({% link email/mautic-ses.md %}) — infrastructură configurată, testată și predată pentru operare.
+- [Email marketing Mautic + SES]({% link email/mautic-ses.md %}) : primești infrastructură configurată, testată și predată pentru operare.
 
 ## Ce trebuie clarificat înainte
 

@@ -7,19 +7,16 @@ toc: true
 comments: false
 ---
 
-# Termeni și condiții
-
 Ultima actualizare a sursei adaptate: 08 iulie 2022.
 
 Această pagină definește cadrul minim pentru folosirea site-ului, cumpărarea produselor sau serviciilor și colaborarea cu Firma Ionut Ojica.
 
 ## Părțile
 
-**Prestator:** Firma Ionut Ojica, Willy-Brandt-Allee 38, 74523 Schwäbisch Hall, Germania.  
-Reprezentant: Ionuț Ojică.  
-Email:
+**Prestator:** Firma Ionut Ojica, Willy-Brandt-Allee 38, 74523 Schwäbisch Hall, Germania.
+Reprezentant: Ionuț Ojică.
 
-{% include protected-contact.html kind="email" label="Arată emailul" %}
+Email: {% include protected-contact.html kind="email" label="Arată emailul" %}
 
 **Beneficiar:** persoana fizică sau juridică ce cumpără un produs sau serviciu prin paginile de ofertă, checkout sau acord separat.
 

@@ -2,19 +2,15 @@
 icon: fas fa-paper-plane
 title: Contact
 order: 6
+toc: true
+comments: false
 ---
-
-## Contact / Cerere
 
 Scrie dacă ai o întrebare înainte de cumpărare sau dacă situația ta nu intră clar într-o ofertă DIY/DFY.
 
-Pentru mesaj scurt, afișează adresa protejată anti-spam:
+Email: {% include protected-contact.html kind="email" label="Arată emailul" %}
 
-{% include protected-contact.html kind="email" label="Arată emailul" %}
-
-Telefon:
-
-{% include protected-contact.html kind="phone" label="Arată telefonul" %}
+Telefon: {% include protected-contact.html kind="phone" label="Arată telefonul" %}
 
 ## Ce să incluzi în mesaj
 

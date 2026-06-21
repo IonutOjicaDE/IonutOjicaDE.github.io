@@ -1,15 +1,15 @@
 ---
 icon: fas fa-globe
-title: Website
+title: Website de prezentare
 order: 3
+toc: true
+comments: false
 ---
 
-## Website / WordPress
+Alege varianta potrivită pentru site-ul tău.
 
-Alege varianta potrivită pentru site-ul tău WordPress.
-
-- [Administrare website WordPress]({% link website/administrare-wordpress.md %}) — înveți pagini, meniuri, formulare, backup, update-uri și mentenanță.
-- [Website WordPress implementat complet]({% link website/implementare-wordpress.md %}) — primești website publicabil, coerent și predat operabil.
+- [Administrare website WordPress]({% link website/administrare-wordpress.md %}) : înveți crearea de pagini, meniuri, formulare, backup, update-uri și mentenanță.
+- [Website WordPress implementat complet]({% link website/implementare-wordpress.md %}) : primești website publicabil, coerent și predat operabil.
 
 ## Alegere rapidă
 
@@ -17,5 +17,4 @@ Alege varianta potrivită pentru site-ul tău WordPress.
 |---|---|
 | Vrei să modifici și să întreții singur site-ul | DIY |
 | Vrei site făcut pentru tine | DFY |
-| Nu ai conținut minim | Pregătește brief și materiale |
 | Ai nevoie de lansare clară | DFY |

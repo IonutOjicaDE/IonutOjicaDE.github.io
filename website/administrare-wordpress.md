@@ -2,11 +2,11 @@
 layout: page
 permalink: "/website/administrare-wordpress/"
 content_type: "page"
-title: "Administrare website WordPress (DIY) - Ionuț Ojică"
+title: "Administrare website WordPress (DIY)"
 description: "Curs live pentru administrare și mentenanță WordPress"
+toc: true
+comments: false
 ---
-
-# Administrare website WordPress, fără haos și fără frica update-urilor
 
 Înveți să îți administrezi singur website-ul WordPress, pe site-ul tău, cu un protocol clar pentru pagini, formular de contact, email profesional, backup și update-uri controlate.
 
@@ -279,23 +279,26 @@ Securitatea, stabilitatea și mentenanța nu se rezolvă printr-un plugin instal
 
 ![Haos vs protocol clar în administrarea WordPress](/assets/img/pages/website-administrare-wordpress/haos-vs-protocol-clar-800.jpg){: width="400" height="500" .w-50 .right .shadow .rounded-10}
 
-### WARNING — Update-uri făcute la întâmplare
+> **Update-uri făcute la întâmplare**
+>
+> - **Condiție:** apeși update când apare butonul, fără backup, fără ordine și fără verificare după.
+> - **Consecință:** site-ul poate deveni instabil sau anumite funcții pot înceta să funcționeze corect.
+> - **În loc:** faci backup înainte, urmezi o ordine clară de update și verifici paginile, formularul și funcțiile importante după schimbare.
+{: .prompt-warning }
 
-**Condiție:** apeși update când apare butonul, fără backup, fără ordine și fără verificare după.
-**Consecință:** site-ul poate deveni instabil sau anumite funcții pot înceta să funcționeze corect.
-**În loc:** faci backup înainte, urmezi o ordine clară de update și verifici paginile, formularul și funcțiile importante după schimbare.
+> **Modificări direct pe live fără backup**
+>
+> - **Condiție:** schimbi pagini, pluginuri sau setări direct pe site-ul live, fără plasă de siguranță.
+> - **Consecință:** poți strica pagini, formulare sau funcții importante și poți rămâne fără variantă clară de revenire.
+> - **În loc:** faci backup înainte de schimbări și lucrezi controlat, nu direct la întâmplare.
+{: .prompt-danger }
 
-### DANGER — Modificări direct pe live fără backup
-
-**Condiție:** schimbi pagini, pluginuri sau setări direct pe site-ul live, fără plasă de siguranță.
-**Consecință:** poți strica pagini, formulare sau funcții importante și poți rămâne fără variantă clară de revenire.
-**În loc:** faci backup înainte de schimbări și lucrezi controlat, nu direct la întâmplare.
-
-### WARNING — Plugin-spam și combinații inutile
-
-**Condiție:** adaugi pluginuri, page builders sau funcții noi fără rol clar.
-**Consecință:** crește riscul de conflict, instabilitate și administrare dificilă.
-**În loc:** lucrezi cu un stack mic, clar și administrabil, în care fiecare plugin are un rol concret.
+> **Plugin-spam și combinații inutile**
+>
+> - **Condiție:** adaugi pluginuri, page builders sau funcții noi fără rol clar.
+> - **Consecință:** crește riscul de conflict, instabilitate și administrare dificilă.
+> - **În loc:** lucrezi cu un stack mic, clar și administrabil, în care fiecare plugin are un rol concret.
+{: .prompt-warning }
 
 ---
 
@@ -352,38 +355,62 @@ Dacă te regăsești mai mult în coloana DIY, cursul acesta este varianta potri
 
 Întrebările de mai jos te ajută să verifici dacă acest curs este potrivit pentru situația ta înainte să ajungi la decizia de plată.
 
-### Este cursul potrivit dacă nu am încă domeniu și hosting?
+<details markdown="block">
+<summary><strong>Este cursul potrivit dacă nu am încă domeniu și hosting?</strong></summary>
 
 Da, condiția este să fii dispus să le alegi și să le cumperi în prima săptămână a cursului. La curs vei primi criteriile de alegere, pentru a te decide informat.
 
-### Pot participa dacă am deja un site WordPress?
+</details>
+
+<details markdown="block">
+<summary><strong>Pot participa dacă am deja un site WordPress?</strong></summary>
 
 Da. Cursul este potrivit și dacă ai deja un site, dar vrei să înțelegi cum îl administrezi mai ordonat: plug-in-uri, pagini, formular, email profesional, backup, update-uri și verificări de bază.
 
-### Trebuie să lucrez simultan cu tine în live?
+</details>
+
+<details markdown="block">
+<summary><strong>Trebuie să lucrez simultan cu tine în live?</strong></summary>
 
 Nu obligatoriu. Recomand să deschizi aceleași ferestre, să-ți confirmi că ai aceleași setări. Dar să nu rămâi blocat la unele setări la care încă nu ești sigur.
 În orice caz, poți urmări explicația live, apoi aplici în ritmul tău pe baza replay-ului.
 
-### Ce se întâmplă dacă nu pot participa la un live?
+</details>
+
+<details markdown="block">
+<summary><strong>Ce se întâmplă dacă nu pot participa la un live?</strong></summary>
 
 Fiecare live este înregistrat, iar replay-ul rămâne disponibil 12 luni. Poți reveni la sesiune și poți pune întrebări în grupul Telegram între întâlniri.
 
-### Ce stack se folosește în curs?
+</details>
+
+<details markdown="block">
+<summary><strong>Ce stack se folosește în curs?</strong></summary>
 
 Lucrăm cu WordPress în hostingul tău, Gutenberg, Kadence și un număr minim de pluginuri utile pentru administrare, formular, backup, cache, securitate de bază și SEO.
 
-### Pot folosi alt page builder?
+</details>
+
+<details markdown="block">
+<summary><strong>Pot folosi alt page builder?</strong></summary>
 
 Cursul nu este construit pentru combinații de page builders. Lucrăm pe un stack restrâns, ca să păstrezi site-ul mai ușor de administrat și mai puțin expus la conflicte inutile.
 
-### Ce se întâmplă dacă vreau site-ul făcut complet pentru mine?
+</details>
+
+<details markdown="block">
+<summary><strong>Ce se întâmplă dacă vreau site-ul făcut complet pentru mine?</strong></summary>
 
 Atunci ai nevoie de varianta DFY: website implementat complet. Acest curs este pentru cazul în care vrei să înveți să administrezi singur website-ul.
 
-### Cât trebuie să lucrez între sesiuni?
+</details>
+
+<details markdown="block">
+<summary><strong>Cât trebuie să lucrez între sesiuni?</strong></summary>
 
 Depinde de ritmul tău și de starea site-ului, dar cursul presupune aplicare între întâlniri. Nu este gândit ca material de urmărit pasiv.
+
+</details>
 
 ---
 
@@ -408,41 +435,68 @@ Scopul garanției este simplu: să alegi fără presiune și fără risc inutil 
 
 Întrebările de mai jos clarifică pasul final: plata, accesul, grupul Telegram, replay-ul și ce se întâmplă după înscriere.
 
-### Ce se întâmplă după plată?
+<details markdown="block">
+<summary><strong>Ce se întâmplă după plată?</strong></summary>
 
 Primești confirmarea plății, instrucțiunile de acces și pașii pentru intrarea în grupul Telegram.
 
-### Cum primesc acces la grupul Telegram?
+</details>
+
+<details markdown="block">
+<summary><strong>Cum primesc acces la grupul Telegram?</strong></summary>
 
 După plată primești pașii de acces. Grupul Telegram este locul unde se transmit informațiile pentru curs și unde poți pune întrebări între sesiuni.
 
-### Am nevoie de cont Telegram ca să particip?
+</details>
+
+<details markdown="block">
+<summary><strong>Am nevoie de cont Telegram ca să particip?</strong></summary>
 
 Da. Live-urile și grupul de întrebări se desfășoară pe Telegram, deci ai nevoie de un cont Telegram pentru participare. După plată primești instrucțiunile de acces și pașii pentru intrarea în grup.
 
-### Unde se țin live-urile?
+</details>
+
+<details markdown="block">
+<summary><strong>Unde se țin live-urile?</strong></summary>
 
 Live-urile se țin pe Telegram, iar întrebările între sesiuni se pun tot în grupul dedicat de Telegram.
 
-### Cât timp am acces la replay?
+</details>
+
+<details markdown="block">
+<summary><strong>Cât timp am acces la replay?</strong></summary>
 
 Replay-ul este disponibil 12 luni. Poți reveni la sesiuni dacă nu poți participa live sau dacă vrei să repeți un pas.
 
-### Cum funcționează garanția?
+</details>
+
+<details markdown="block">
+<summary><strong>Cum funcționează garanția?</strong></summary>
 
 Poți cere returnarea integrală a investiției până la 30 de zile de la începerea cursului, prin email la adresa protejată anti-spam de mai jos.
 
-### Cum cer returnarea investiției dacă este cazul?
+</details>
+
+<details markdown="block">
+<summary><strong>Cum cer returnarea investiției dacă este cazul?</strong></summary>
 
 Folosește adresa protejată anti-spam de mai jos și menționezi că vrei să folosești garanția pentru cursul C1_DIY_SITE.
 
-### Ce trebuie să pregătesc înainte de prima sesiune?
+</details>
+
+<details markdown="block">
+<summary><strong>Ce trebuie să pregătesc înainte de prima sesiune?</strong></summary>
 
 Ai nevoie de acces la domeniu și hosting sau de posibilitatea reală de a le obține. Dacă ai deja un site WordPress, pregătește datele de acces necesare pentru administrare.
 
-### Dacă îmi dau seama că am nevoie de DFY, ce fac?
+</details>
+
+<details markdown="block">
+<summary><strong>Dacă îmi dau seama că am nevoie de DFY, ce fac?</strong></summary>
 
 Dacă îți dai seama că ai nevoie de website implementat complet pentru tine, varianta potrivită este DFY. Garanția acoperă și situația în care ai ales o ofertă nepotrivită pentru tine.
+
+</details>
 
 [Plătește și rezervă locul](https://pro.ionutojica.ro/checkout-link/?products=784:1)
 

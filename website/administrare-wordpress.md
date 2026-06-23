@@ -149,33 +149,61 @@ De aici vine logica acestui curs: să ai un website este una; să îl poți admi
 
 Programa nu este construită ca o listă de teme separate, ci ca un parcurs logic: întâi pui fundația, apoi construiești, apoi înveți să administrezi fără haos.
 
-### Săptămâna 1 — fundația tehnică
+<details markdown="block">
+<summary><strong>Săptămâna 1 — fundația tehnică</strong></summary>
+
 Lucrezi cu domeniul, hostingul, DNS-ul, cPanel-ul și emailul profesional.
 **Rezultat:** ai baza necesară pentru site și email, fără improvizații inutile de la început.
 
-### Săptămâna 2 — instalarea și baza WordPress
+</details>
+
+<details markdown="block">
+<summary><strong>Săptămâna 2 — instalarea și baza WordPress</strong></summary>
+
 Instalezi WordPress în hosting și faci setările esențiale de început.
 **Rezultat:** pornești cu o instalare curată și cu setările de bază făcute corect.
 
-### Săptămâna 3 — structura site-ului
+</details>
+
+<details markdown="block">
+<summary><strong>Săptămâna 3 — structura site-ului</strong></summary>
+
 Lucrezi cu tema Kadence, stack-ul cursului și structura minimă a site-ului.
 **Rezultat:** ai un sistem mic și administrabil, nu o combinație haotică de instrumente.
 
-### Săptămâna 4 — paginile esențiale
+</details>
+
+<details markdown="block">
+<summary><strong>Săptămâna 4 — paginile esențiale</strong></summary>
+
 Construiești pagina de prezentare, pagina de contact și formularul funcțional.
 **Rezultat:** ai primele pagini utile și verifici că formularul chiar trimite mesajele.
 
-### Săptămâna 5 — paginile obligatorii și navigația
+</details>
+
+<details markdown="block">
+<summary><strong>Săptămâna 5 — paginile obligatorii și navigația</strong></summary>
+
 Pui în structură Impressum, Termeni și condiții, Politică de confidențialitate și meniul principal.
 **Rezultat:** site-ul capătă structură completă și nu mai pare incomplet sau improvizat.
 
-### Săptămâna 6 — lucru sigur, nu haotic
+</details>
+
+<details markdown="block">
+<summary><strong>Săptămâna 6 — lucru sigur, nu haotic</strong></summary>
+
 Înveți să faci backup înainte de schimbări și update-uri manuale, controlate.
 **Rezultat:** ai un protocol care te ajută să nu lucrezi direct pe live fără siguranță.
 
-### Săptămâna 7 — întreținere, verificare finală și consolidare
+</details>
+
+<details markdown="block">
+<summary><strong>Săptămâna 7 — întreținere, verificare finală și consolidare</strong></summary>
+
 Verifici pluginurile, paginile, meniul, formularul, emailul și rutina minimă de administrare.
 **Rezultat:** închizi cursul cu un site verificat și cu un mod clar de lucru pentru perioada de după curs.
+
+</details>
 
 ---
 
@@ -245,16 +273,19 @@ Exemplele de mai jos arată tipul de logică pe care merg și în curs: structur
 >
 > **Alina Bârcă**
 > Context: feedback despre claritate, structură și ghidare pas cu pas.
+{: .prompt-tip }
 
 > „Ionuț te susține oricând, este lângă tine pas cu pas.”
 >
 > **Cristina Nicoleta**
 > Context: feedback despre sprijin constant și lucru mai ușor de urmărit.
+{: .prompt-tip }
 
 > „Nu îți plac lucrurile nerezolvate și cauți până găsești soluții simple.”
 >
 > **Nic Culciar**
 > Context: feedback despre implicare, claritate practică și orientare spre soluții.
+{: .prompt-tip }
 
 > „Înainte, site-ul era destul de greoi și complicat și nu reflecta imaginea pe care ne-o doream.
 >
@@ -266,6 +297,7 @@ Exemplele de mai jos arată tipul de logică pe care merg și în curs: structur
 >
 > **Pr. Adam**
 > Parohia Schwäbisch Hall
+{: .prompt-tip }
 
 **Pe scurt:** oamenii evidențiază cel mai des claritatea explicațiilor, disponibilitatea, răbdarea, implicarea și faptul că lucrurile tehnice devin mai ușor de înțeles și de administrat.
 

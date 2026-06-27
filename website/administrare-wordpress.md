@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: service
 permalink: "/website/administrare-wordpress/"
 content_type: "landing-page"
 title: "Administrare website WordPress (DIY)"

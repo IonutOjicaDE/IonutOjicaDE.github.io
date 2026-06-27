@@ -1,11 +1,8 @@
 ---
 layout: service
 permalink: "/website/administrare-wordpress/"
-content_type: "landing-page"
 title: "Administrare website WordPress (DIY)"
 description: "Curs live pentru administrare și mentenanță WordPress"
-toc: true
-comments: false
 ---
 
 Înveți să îți administrezi singur website-ul WordPress, pe site-ul tău, cu un protocol clar pentru pagini, formular de contact, email profesional, backup și update-uri controlate.

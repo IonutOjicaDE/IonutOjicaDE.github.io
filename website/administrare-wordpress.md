@@ -7,7 +7,7 @@ description: "Curs live pentru administrare și mentenanță WordPress"
 
 Înveți să îți administrezi singur website-ul WordPress, pe site-ul tău, cu un protocol clar pentru pagini, formular de contact, email profesional, backup și update-uri controlate.
 
-![Administrare website WordPress : fără haos, cu protocol clar](/assets/img/pages/website-administrare-wordpress/hero-administrare-wordpress-800.jpg){: width="500" height="400" .w-50 .right .shadow .rounded-10}
+![Administrare website WordPress : fără haos, cu protocol clar](/assets/img/pages/website-administrare-wordpress/hero-administrare-wordpress-800.jpg){: width="500" height="400" .w-25 .right .shadow .rounded-10}
 
 - ședințe online de 2 ori pe săptămână: luni și joi;
 - live-uri pe Telegram + replay disponibil 12 luni;
@@ -105,7 +105,7 @@ Cursul nu este făcut pentru urmărit pasiv. Ai nevoie de timp de aplicare într
 
 ## Cum se lucrează efectiv {#sec-04}
 
-![Cum funcționează cursul : explicație, demonstrație, verificare, aplicare și sprijin](/assets/img/pages/website-administrare-wordpress/proces-curs-wordpress-800.jpg){: width="400" height="500" .w-50 .right .shadow .rounded-10}
+![Cum funcționează cursul : explicație, demonstrație, verificare, aplicare și sprijin](/assets/img/pages/website-administrare-wordpress/proces-curs-wordpress-800.jpg){: width="400" height="500" .w-25 .right .shadow .rounded-10}
 
 Cursul nu este gândit ca listă de tutoriale. Vezi ordinea corectă, înțelegi de ce contează fiecare pas și aplici pe propriul tău site, în ritmul în care poți lucra corect.
 
@@ -131,7 +131,7 @@ Cursul nu este gândit ca listă de tutoriale. Vezi ordinea corectă, înțelegi
 
 ## De unde vine metoda {#sec-04a}
 
-![Portret Ionuț Ojică](/assets/img/pages/website-administrare-wordpress/portret-ionut-ojica.jpg){: width="222" height="300" .w-50 .right .shadow .rounded-10}
+![Portret Ionuț Ojică](/assets/img/pages/website-administrare-wordpress/portret-ionut-ojica.jpg){: width="222" height="300" .w-25 .right .shadow .rounded-10}
 
 Sunt Ionuț Ojică. Nu predau WordPress din teorie generică, ci din lucru real cu site-uri care trebuie să rămână publicabile, ușor de administrat și suficient de stabile după lansare.
 
@@ -322,7 +322,7 @@ Exemplele de mai jos arată tipul de logică pe care merg și în curs: structur
 
 ## Greșelile care produc incidente și ce faci în loc {#sec-06}
 
-![Haos vs protocol clar în administrarea WordPress](/assets/img/pages/website-administrare-wordpress/haos-vs-protocol-clar-800.jpg){: width="400" height="500" .w-50 .right .shadow .rounded-10}
+![Haos vs protocol clar în administrarea WordPress](/assets/img/pages/website-administrare-wordpress/haos-vs-protocol-clar-800.jpg){: width="400" height="500" .w-25 .right .shadow .rounded-10}
 
 Cele mai multe probleme nu apar pentru că WordPress este "prea complicat", ci pentru că se lucrează fără protocol clar.
 
@@ -527,7 +527,7 @@ Dacă îți dai seama că ai nevoie de website implementat complet pentru tine, 
 
 ## Înscriere / Plată {#sec-09}
 
-![Invitație curs de administrare WordPress](/assets/img/pages/website-administrare-wordpress/invitatie-curs-administrare-wordpress.png){: width="300" height="300" .w-50 .right .shadow .rounded-10}
+![Invitație curs de administrare WordPress](/assets/img/pages/website-administrare-wordpress/invitatie-curs-administrare-wordpress.png){: width="300" height="300" .w-25 .right .shadow .rounded-10}
 
 ### Plătește și rezervă locul ; începem luni, 14.09.2026
 
@@ -537,7 +537,7 @@ Primele 50 de locuri la 450 € în loc de 990 €.
 
 Te înscrii în grupa live și lucrezi pe propriul tău site, cu 2 ședințe online pe săptămână, luni și joi, live-uri pe Telegram, aplicare reală, întrebări între ședințe în grupul Telegram și replay disponibil 12 luni.
 
-[Plătește și rezervă locul](https://pro.ionutojica.ro/checkout-link/?products=784:1)
+[Plătește și rezervă locul](https://pro.ionutojica.ro/checkout-link/?products=784:1){: .btn .btn-primary }
 
 După plată primești confirmarea, instrucțiunile de acces și pașii pentru intrarea în grupul Telegram.
 

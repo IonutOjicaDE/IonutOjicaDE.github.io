@@ -153,14 +153,14 @@ Implementarea se concentrează pe un website WordPress de prezentare sau lansare
 >
 > Dacă livrabilele de mai sus acoperă ce ai nevoie, poți merge direct la secțiunea de rezervare. Acolo vezi prețul, ce se întâmplă după plată și ce trebuie pregătit pentru prima ședință.
 >
-> [Mergi la rezervare](#sec-09){: .btn .btn-secondary .text-white }
+> [Mergi la rezervare](#sec-09){: .btn .btn-primary }
 {: .prompt-tip }
 
 ---
 
 ## Despre Ionuț {#sec-04a}
 
-![Portret Ionuț Ojică](/assets/img/pages/website-administrare-wordpress/portret-ionut-ojica.jpg){: width="222" height="300" .w-50 .right .shadow .rounded-10}
+![Portret Ionuț Ojică](/assets/img/pages/website-administrare-wordpress/portret-ionut-ojica.jpg){: width="222" height="300" .w-25 .right .shadow .rounded-10}
 
 Lucrez cu website-uri WordPress, magazine online, platforme de cursuri și infrastructură de email marketing. Direcția mea de lucru este simplă: sisteme mici, clare și administrabile, nu combinații fragile de pluginuri și improvizații.
 
@@ -328,7 +328,7 @@ Exemplele de mai jos arată tipul de logică pe care o folosesc în proiecte: st
 
 Dacă ai nevoie de un website WordPress construit pentru tine, cu structură clară, review și predare operabilă, continuă spre secțiunea finală de rezervare.
 
-[Continuă spre rezervare](#sec-09){: .btn .btn-secondary .text-white }
+[Continuă spre rezervare](#sec-09){: .btn .btn-primary }
 
 ---
 
@@ -608,7 +608,7 @@ Atunci varianta potrivită este [DIY]({% link website/administrare-wordpress.md 
 
 ## Rezervare / Plată {#sec-09}
 
-![Invitație curs de administrare WordPress](/assets/img/pages/website-administrare-wordpress/invitatie-curs-administrare-wordpress.png){: width="300" height="300" .w-50 .right .shadow .rounded-10}
+![Invitație curs de administrare WordPress](/assets/img/pages/website-administrare-wordpress/invitatie-curs-administrare-wordpress.png){: width="300" height="300" .w-25 .right .shadow .rounded-10}
 
 **Website WordPress implementat complet**
 
@@ -618,7 +618,7 @@ Investiția ta: **1200 €**
 
 În 2...4 săptămâni primești un website WordPress construit și configurat în limita lucrărilor agreate, cu structură clară, pagini stabilite, review, pregătire pentru publicare și predare operabilă.
 
-[Rezervă implementarea website-ului](https://pro.ionutojica.ro/checkout-link/?products=785:1){: .btn .btn-primary .text-white }
+[Rezervă implementarea website-ului](https://pro.ionutojica.ro/checkout-link/?products=785:1){: .btn .btn-primary }
 
 După plată primești confirmarea, checklist-ul de pregătire și linkul pentru programarea primei ședințe.
 

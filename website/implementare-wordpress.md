@@ -34,6 +34,7 @@ Alege această variantă dacă vrei un website WordPress implementat complet pen
 <div class="row gx-3 gy-3" markdown="1">
 
 <div class="col-11 col-md-6 me-auto" markdown="1">
+
 > ### Este pentru tine dacă:
 > 
 > - vrei un website WordPress publicabil, construit și configurat pentru tine;
@@ -43,9 +44,11 @@ Alege această variantă dacă vrei un website WordPress implementat complet pen
 > - accepți un proces cu brief, build, review, ajustări în limita lucrărilor agreate și predare;
 > - vrei să știi clar ce este inclus, ce nu este inclus și ce se poate trata ca extensie separată.
 {: .prompt-tip }
+
 </div>
 
 <div class="col-11 col-md-6 ms-auto" markdown="1">
+
 > ### Nu este pentru tine dacă:
 > 
 > - vrei să înveți să faci singur website-ul, pas cu pas;
@@ -55,6 +58,7 @@ Alege această variantă dacă vrei un website WordPress implementat complet pen
 > - nu accepți limită de lucru, puncte de review și responsabilități clare;
 > - cauți doar o instalare rapidă de WordPress, fără structură, verificare și predare operabilă.
 {: .prompt-warning }
+
 </div>
 
 </div>

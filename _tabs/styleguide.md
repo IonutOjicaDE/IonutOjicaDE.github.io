@@ -201,7 +201,7 @@ Text scurt sub H6. Folosește foarte rar acest nivel, pentru meta sau delimităr
 
 ---
 
-## Butoane {#butoane}
+## Butoane
 
 Această secțiune testează clasele Bootstrap / Chirpy disponibile pentru linkuri afișate ca butoane.
 

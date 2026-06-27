@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: service
 permalink: "/website/implementare-wordpress/"
 content_type: "landing-page"
 title: "Website WordPress implementat complet (DFY)"
@@ -153,7 +153,7 @@ Implementarea se concentrează pe un website WordPress de prezentare sau lansare
 >
 > Dacă livrabilele de mai sus acoperă ce ai nevoie, poți merge direct la secțiunea de rezervare. Acolo vezi prețul, ce se întâmplă după plată și ce trebuie pregătit pentru prima ședință.
 >
-> [Mergi la rezervare](#sec-09)
+> [Mergi la rezervare](#sec-09){: .btn .btn-secondary .text-white }
 {: .prompt-tip }
 
 ---
@@ -328,7 +328,7 @@ Exemplele de mai jos arată tipul de logică pe care o folosesc în proiecte: st
 
 Dacă ai nevoie de un website WordPress construit pentru tine, cu structură clară, review și predare operabilă, continuă spre secțiunea finală de rezervare.
 
-[Continuă spre rezervare](#sec-09){: .btn .btn-outline-primary }
+[Continuă spre rezervare](#sec-09){: .btn .btn-secondary .text-white }
 
 ---
 
@@ -612,16 +612,15 @@ Atunci varianta potrivită este [DIY]({% link website/administrare-wordpress.md 
 
 **Website WordPress implementat complet**
 
-> ### Rezervă implementarea website-ului
->
-> Investiția ta: **1200 €**
->
-> În 2...4 săptămâni primești un website WordPress construit și configurat în limita lucrărilor agreate, cu structură clară, pagini stabilite, review, pregătire pentru publicare și predare operabilă.
->
-> [Rezervă implementarea website-ului](https://pro.ionutojica.ro/checkout-link/?products=785:1){: .btn .btn-primary }
->
-> După plată primești confirmarea, checklist-ul de pregătire și linkul pentru programarea primei ședințe.
-{: .prompt-tip }
+### Rezervă implementarea website-ului
+
+Investiția ta: **1200 €**
+
+În 2...4 săptămâni primești un website WordPress construit și configurat în limita lucrărilor agreate, cu structură clară, pagini stabilite, review, pregătire pentru publicare și predare operabilă.
+
+[Rezervă implementarea website-ului](https://pro.ionutojica.ro/checkout-link/?products=785:1){: .btn .btn-primary .text-white }
+
+După plată primești confirmarea, checklist-ul de pregătire și linkul pentru programarea primei ședințe.
 
 ### Ce include decizia de cumpărare
 

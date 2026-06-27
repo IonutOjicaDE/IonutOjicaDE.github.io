@@ -209,13 +209,11 @@ Această secțiune testează clasele Bootstrap / Chirpy disponibile pentru linku
 
 [Primary](#butoane){: .btn .btn-primary }
 
-[Primary + text alb — test pentru hover](#butoane){: .btn .btn-primary .text-white }
+[Secondary](#butoane){: .btn .btn-secondary }
 
 [Outline primary](#butoane){: .btn .btn-outline-primary }
 
-[Outline secondary — recomandat pentru CTA intern](#butoane){: .btn .btn-outline-secondary }
-
-[Secondary](#butoane){: .btn .btn-secondary }
+[Outline secondary](#butoane){: .btn .btn-outline-secondary }
 
 [Light](#butoane){: .btn .btn-light }
 
@@ -223,42 +221,17 @@ Această secțiune testează clasele Bootstrap / Chirpy disponibile pentru linku
 
 ### Butoane în linie
 
-[Buton primar](#butoane){: .btn .btn-primary .text-white } [Buton secundar](#butoane){: .btn .btn-outline-secondary }
+[Buton primar](#butoane){: .btn .btn-primary } [Buton secundar](#butoane){: .btn .btn-secondary }
 
 ### Butoane mari și mici
 
-[Buton mare](#butoane){: .btn .btn-primary .btn-lg .text-white }
+[Buton mare](#butoane){: .btn .btn-primary .btn-lg }
 
-[Buton mic](#butoane){: .btn .btn-outline-secondary .btn-sm }
-
-### Butoane cu animație
-
-[Primary + text alb — test pentru hover cu shadow-sm](#butoane){: .btn .btn-primary .text-white .shadow-sm }
-
-[Secondary + text alb — test pentru hover cu shadow-sm](#butoane){: .btn .btn-secondary .text-white .shadow-sm }
-
-[Buton mare cu shadow-sm](#butoane){: .btn .btn-primary .btn-lg .text-white .shadow-sm }
-
-[Primary + text alb — test pentru hover cu shadow](#butoane){: .btn .btn-primary .text-white .shadow }
-
-[Secondary + text alb — test pentru hover cu shadow](#butoane){: .btn .btn-secondary .text-white .shadow }
-
-[Buton mare cu shadow](#butoane){: .btn .btn-primary .btn-lg .text-white .shadow }
-
-### Recomandare pentru problema de hover
-
-> ### Test pentru hover pe butoane
->
-> Dacă `{: .btn .btn-primary }` afișează text portocaliu la hover, testează varianta `{: .btn .btn-primary .text-white }`.
->
-> Dacă `{: .btn .btn-outline-primary }` are hover neplăcut, folosește pentru CTA-uri intermediare `{: .btn .btn-outline-secondary }` sau păstrează CTA-ul ca link într-un callout.
->
-> Pentru CTA final spre checkout, folosește prima dată varianta: `[Rezervă](link){: .btn .btn-primary .text-white }`.
-{: .prompt-tip }
+[Buton mic](#butoane){: .btn .btn-primary .btn-sm }
 
 ### CTA final de test
 
-[Rezervă implementarea website-ului](https://pro.ionutojica.ro/checkout-link/?products=785:1){: .btn .btn-primary .text-white }
+[Rezervă implementarea website-ului](https://pro.ionutojica.ro/checkout-link/?products=785:1){: .btn .btn-primary .btn-lg }
 
 După click, utilizatorul ajunge în checkout. Textul de sub buton trebuie să explice ce se întâmplă după plată.
 

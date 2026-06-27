@@ -5,9 +5,11 @@ title: "Administrare website WordPress (DIY)"
 description: "Curs live pentru administrare și mentenanță WordPress"
 ---
 
-Înveți să îți administrezi singur website-ul WordPress, pe site-ul tău, cu un protocol clar pentru pagini, formular de contact, email profesional, backup și update-uri controlate.
+# Înveți să îți administrezi singur website-ul WordPress
 
 ![Administrare website WordPress : fără haos, cu protocol clar](/assets/img/pages/website-administrare-wordpress/hero-administrare-wordpress-800.jpg){: width="500" height="400" .w-25 .right .shadow .rounded-10}
+
+pe site-ul tău, cu un protocol clar pentru pagini, formular de contact, email profesional, backup și update-uri controlate.
 
 - ședințe online de 2 ori pe săptămână: luni și joi;
 - live-uri pe Telegram + replay disponibil 12 luni;
@@ -537,7 +539,7 @@ Primele 50 de locuri la 450 € în loc de 990 €.
 
 Te înscrii în grupa live și lucrezi pe propriul tău site, cu 2 ședințe online pe săptămână, luni și joi, live-uri pe Telegram, aplicare reală, întrebări între ședințe în grupul Telegram și replay disponibil 12 luni.
 
-[Plătește și rezervă locul](https://pro.ionutojica.ro/checkout-link/?products=784:1){: .btn .btn-primary }
+[Plătește și rezervă locul](https://pro.ionutojica.ro/checkout-link/?products=784:1){: .btn .btn-primary .btn-lg }
 
 După plată primești confirmarea, instrucțiunile de acces și pașii pentru intrarea în grupul Telegram.
 

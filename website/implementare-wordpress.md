@@ -1,12 +1,11 @@
 ---
 layout: service
 permalink: "/website/implementare-wordpress/"
-content_type: "landing-page"
 title: "Website WordPress implementat complet (DFY)"
 description: "Website WordPress publicabil, construit, configurat și predat operabil în scope-ul agreat."
-toc: true
-comments: false
 ---
+
+# Website WordPress implementat complet (DFY)
 
 Primești un website WordPress construit, configurat și pregătit pentru publicare, cu structură clară, pagini stabilite în pachet și predare operabilă după finalizare.
 
@@ -593,7 +592,7 @@ Administrarea recurentă sau mentenanța se stabilesc separat dacă ai nevoie de
 <details markdown="block">
 <summary><strong>Cât durează și cât costă implementarea?</strong></summary>
 
-Implementarea durează între 2 și 4 săptămâni. Investiția ta este de 1200 de euro.
+Implementarea durează între 2 și 4 săptămâni. Investiția ta este de 700 de euro.
 
 </details>
 
@@ -614,11 +613,11 @@ Atunci varianta potrivită este [DIY]({% link website/administrare-wordpress.md 
 
 ### Rezervă implementarea website-ului
 
-Investiția ta: **1200 €**
+Investiția ta pentru pachetul implicit: **700 €**
 
 În 2...4 săptămâni primești un website WordPress construit și configurat în limita lucrărilor agreate, cu structură clară, pagini stabilite, review, pregătire pentru publicare și predare operabilă.
 
-[Rezervă implementarea website-ului](https://pro.ionutojica.ro/checkout-link/?products=785:1){: .btn .btn-primary }
+[Rezervă implementarea website-ului](https://pro.ionutojica.ro/checkout-link/?products=785:1){: .btn .btn-primary .btn-lg }
 
 După plată primești confirmarea, checklist-ul de pregătire și linkul pentru programarea primei ședințe.
 

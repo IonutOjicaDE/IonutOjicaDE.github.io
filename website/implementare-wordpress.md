@@ -8,11 +8,6 @@ toc: true
 comments: false
 ---
 
-<!--
-Lipsă: prețul public al ofertei C2_DFY_SITE nu este documentat în fișierele disponibile. Nu am introdus sumă.
-Lipsă: garanția financiară explicită pentru oferta C2_DFY_SITE nu este documentată. Am folosit secțiune de reducere a riscului prin protocol, scope, review și predare, nu garanția cursului DIY.
--->
-
 Primești un website WordPress construit, configurat și pregătit pentru publicare, cu structură clară, pagini stabilite în pachet și predare operabilă după finalizare.
 
 Oferta este pentru cazul în care nu vrei să înveți să construiești singur website-ul pas cu pas, ci vrei implementarea făcută pentru tine, pe baza unui brief clar, a materialelor furnizate și a deciziilor agreate de la început.
@@ -34,25 +29,35 @@ Nu primești doar pagini puse pe ecran. Primești un sistem ordonat: structură 
 
 ## Pentru cine este / pentru cine nu este {#sec-01}
 
-Alege această variantă dacă vrei un website WordPress implementat complet pentru tine. Alege varianta DIY dacă vrei să înveți să îți construiești și să îți administrezi singur website-ul.
+Alege această variantă dacă vrei un website WordPress implementat complet pentru tine. Alege varianta [DIY]({% link website/administrare-wordpress.md %}) dacă vrei să înveți să îți construiești și să îți administrezi singur website-ul.
 
-### Este pentru tine dacă:
+<div class="row gx-3 gy-3" markdown="1">
 
-- vrei un website WordPress publicabil, construit și configurat pentru tine;
-- vrei o structură clară de pagini, navigație și conținut, nu un site improvizat pe parcurs;
-- poți furniza conținut minim: texte, imagini, elemente de identitate vizuală și decizii despre pagini;
-- poți oferi acces la domeniu, hosting, WordPress sau conturile relevante pentru implementare;
-- accepți un proces cu brief, build, review, ajustări în limita lucrărilor agreate și predare;
-- vrei să știi clar ce este inclus, ce nu este inclus și ce se poate trata ca extensie separată.
+<div class="col-11 col-md-6 me-auto" markdown="1">
+> ### Este pentru tine dacă:
+> 
+> - vrei un website WordPress publicabil, construit și configurat pentru tine;
+> - vrei o structură clară de pagini, navigație și conținut, nu un site improvizat pe parcurs;
+> - poți furniza conținut minim: texte, imagini, elemente de identitate vizuală și decizii despre pagini;
+> - poți oferi acces la domeniu, hosting, WordPress sau conturile relevante pentru implementare;
+> - accepți un proces cu brief, build, review, ajustări în limita lucrărilor agreate și predare;
+> - vrei să știi clar ce este inclus, ce nu este inclus și ce se poate trata ca extensie separată.
+{: .prompt-tip }
+</div>
 
-### Nu este pentru tine dacă:
+<div class="col-11 col-md-6 ms-auto" markdown="1">
+> ### Nu este pentru tine dacă:
+> 
+> - vrei să înveți să faci singur website-ul, pas cu pas;
+> - nu ai încă disponibilitate să furnizezi conținut, accesuri și decizii minime;
+> - vrei design avansat, dezvoltare custom sau funcții speciale fără ofertă documentată;
+> - vrei extinderi nelimitate de pagini, funcții sau schimbări de direcție după start;
+> - nu accepți limită de lucru, puncte de review și responsabilități clare;
+> - cauți doar o instalare rapidă de WordPress, fără structură, verificare și predare operabilă.
+{: .prompt-warning }
+</div>
 
-- vrei să înveți să faci singur website-ul, pas cu pas;
-- nu ai încă disponibilitate să furnizezi conținut, accesuri și decizii minime;
-- vrei design avansat, dezvoltare custom sau funcții speciale fără ofertă documentată;
-- vrei extinderi nelimitate de pagini, funcții sau schimbări de direcție după start;
-- nu accepți limită de lucru, puncte de review și responsabilități clare;
-- cauți doar o instalare rapidă de WordPress, fără structură, verificare și predare operabilă.
+</div>
 
 ---
 
@@ -119,20 +124,17 @@ Implementarea se concentrează pe un website WordPress de prezentare sau lansare
 - stabilirea structurii de pagini în brief;
 - organizarea paginilor într-un traseu logic pentru vizitator;
 - configurarea meniului principal;
-- includerea paginilor obligatorii: Impressum, Termeni și condiții, Politică de confidențialitate.
+- includerea paginilor obligatorii: Impressum, Politică de confidențialitate.
+- paginile utile: Home, Contact, Despre
+- pagini personalizate: Portofoliu, Proiecte, Referințe
 
-### Build WordPress
+### Implementarea WordPress
 
 - implementarea paginilor în WordPress;
 - folosirea unui stack restrâns și administrabil;
 - configurarea elementelor vizuale de bază conform materialelor disponibile;
 - evitarea combinațiilor inutile de page builders și pluginuri.
-
-### Funcții de bază
-
-- pagină de contact cu formular;
-- conectare cu emailul profesional pentru primirea mesajelor, dacă accesurile și condițiile tehnice permit;
-- configurări minime necesare pentru ca site-ul să fie publicabil în limita lucrărilor stabilite.
+- conectare cu emailul profesional pentru primirea mesajelor din formularul de contact;
 
 ### Verificare și predare
 
@@ -140,6 +142,8 @@ Implementarea se concentrează pe un website WordPress de prezentare sau lansare
 - verificarea paginilor incluse;
 - verificarea formularului de contact;
 - predarea rezultatului într-o formă operabilă.
+
+[Cumpără implementarea aici](#sec-09)
 
 ---
 
@@ -155,16 +159,16 @@ Această ofertă DFY vine din aceeași logică: nu construiesc doar o pagină ca
 
 ### Principiile după care lucrez
 
-- **Structură înainte de decor**  
-  Website-ul trebuie să fie clar înainte să fie încărcat vizual.
+- **Structură înainte de decor**
+  Website-ul trebuie să fie clar înainte să fie personalizat vizual.
 
-- **Stack restrâns**  
+- **Stack restrâns**
   Cu cât sistemul este mai mic și mai justificat, cu atât este mai ușor de întreținut.
 
-- **Brief blocat înainte de build**  
-  Schimbările mari după start devin costisitoare și pot rupe coerența proiectului.
+- **Brief blocat înainte de build**
+  Schimbările mari după start devin costisitoare și pot strica coerența proiectului.
 
-- **Predare operabilă**  
+- **Predare complet funcțională**
   La final trebuie să fie clar ce ai primit, ce poți opera și ce rămâne în afara pachetului.
 
 ---
@@ -280,20 +284,20 @@ Exemplele de mai jos arată tipul de logică pe care o folosesc în proiecte: st
 
 ## Ce spun cei cu care am lucrat {#sec-05b}
 
-> „Apreciez mereu disponibilitatea ta, claritatea pe care o aduci și meticulozitatea ta.  
+> „Apreciez mereu disponibilitatea ta, claritatea pe care o aduci și meticulozitatea ta.
 > Ce oferi tu este exact ce-mi lipsea: cineva care să mă ia de mână și să mă plimbe prin proces ca să pot să înțeleg cum funcționează.”
 >
-> **Alina Bârcă**  
+> **Alina Bârcă**
 {: .prompt-tip }
 
 > „Ionuț te susține oricând, este lângă tine pas cu pas.”
 >
-> **Cristina Nicoleta**  
+> **Cristina Nicoleta**
 {: .prompt-tip }
 
 > „Nu îți plac lucrurile nerezolvate și cauți până găsești soluții simple.”
 >
-> **Nic Culciar**  
+> **Nic Culciar**
 {: .prompt-tip }
 
 > „Înainte, site-ul era destul de greoi și complicat și nu reflecta imaginea pe care ne-o doream.
@@ -306,6 +310,8 @@ Exemplele de mai jos arată tipul de logică pe care o folosesc în proiecte: st
 >
 > **Pr. Adam, Parohia Schwäbisch Hall**
 {: .prompt-tip }
+
+[Pornește implementarea website-ului tău](#sec-09)
 
 ---
 
@@ -340,41 +346,37 @@ Un website DFY nu se blochează doar din motive tehnice. De cele mai multe ori, 
 
 Această secțiune fixează limitele proiectului: ce este inclus în implementare, ce nu este inclus implicit și ce trebuie să furnizezi ca proiectul să poată avansa corect.
 
-<div class="row g-3" markdown="1">
+<div class="row gx-3 gy-3" markdown="1">
 
-<div class="col-11 col-md-6 me-auto border rounded p-3" markdown="1">
-
-### Ce intră în implementare
-
-- website WordPress construit și configurat în forma agreată;
-- pagini de prezentare sau lansare stabilite în pachet;
-- structură clară de conținut și navigație;
-- configurarea meniului principal;
-- pagină de contact și formular, dacă intră în proiectul agreat;
-- includerea documentelor obligatorii, dacă textele sunt furnizate sau confirmate;
-- review și ajustări în limita direcției stabilite în brief;
-- pregătire pentru publicare și predare operabilă.
-
+<div class="col-11 col-md-6 me-auto" markdown="1">
+> ### Ce intră în implementare
+>
+> - website WordPress construit și configurat în forma agreată;
+> - pagini de prezentare sau lansare stabilite în pachet;
+> - structură clară de conținut și navigație;
+> - configurarea meniului principal;
+> - pagină de contact și formular, dacă intră în proiectul agreat;
+> - includerea documentelor obligatorii, dacă textele sunt furnizate sau confirmate;
+> - verificare și ajustări în limita direcției stabilite în brief;
+> - pregătire pentru publicare și predare operabilă.
+{: .prompt-tip }
 </div>
 
-<div class="col-11 col-md-6 ms-auto border rounded p-3" markdown="1">
-
-### Ce nu intră implicit
-
-- checkout, plăți online, acces automat sau logică de vânzare;
-- magazin WooCommerce, platformă de cursuri sau email marketing;
-- automatizări, Mautic, SES, newslettere sau campanii;
-- design premium, dezvoltare custom sau funcții speciale nedocumentate;
-- copywriting complet, strategie de brand sau strategie de marketing, dacă nu sunt definite separat;
-- conținut juridic redactat de la zero sau consultanță juridică;
-- extinderi nelimitate de pagini, funcții sau revizii;
-- mentenanță recurentă după predare, dacă nu este agreată separat.
-
+<div class="col-11 col-md-6 ms-auto" markdown="1">
+> ### Ce nu intră implicit
+>
+> - checkout, plăți online, acces automat sau logică de vânzare;
+> - magazin WooCommerce, platformă de cursuri sau email marketing;
+> - automatizări, Mautic, SES, newslettere sau campanii;
+> - design premium, dezvoltare custom sau funcții speciale nedocumentate;
+> - copywriting complet, strategie de brand sau strategie de marketing, dacă nu sunt definite separat;
+> - conținut juridic redactat de la zero sau consultanță juridică;
+> - extinderi nelimitate de pagini, funcții sau revizii;
+> - mentenanță recurentă după predare, dacă nu este agreată separat.
+{: .prompt-warning }
 </div>
 
 </div>
-
-<div class="border rounded p-3" markdown="1">
 
 ### Ce este necesar să furnizezi
 
@@ -384,9 +386,7 @@ Această secțiune fixează limitele proiectului: ce este inclus în implementar
 - decizii despre obiectivul site-ului, paginile incluse și acțiunea principală;
 - feedback și aprobări în etapele de verificare.
 
-</div>
-
-### Decizii obligatorii înainte de build
+### Decizii obligatorii înainte de implementare
 
 `obiectiv site` , `pagini incluse` , `materiale disponibile` , `domeniu / hosting` , `formular / contact` , `direcție vizuală` , `termen de review` , `extensii posibile`
 
@@ -396,23 +396,33 @@ Această secțiune fixează limitele proiectului: ce este inclus în implementar
 
 Cele două variante nu concurează. Ele rezolvă aceeași problemă prin forme diferite de lucru.
 
-### Varianta DFY : website implementat complet
+<div class="row gx-3 gy-3" markdown="1">
 
-- **Ce cumperi de fapt:** implementare completă a website-ului WordPress, în proiectul agreat.
-- **Cine execută:** eu construiesc și configurez website-ul pe baza brief-ului, materialelor și deciziilor tale.
-- **Rezultatul urmărit:** un website publicabil, coerent și predat operabil.
-- **Ți se potrivește dacă:** vrei delegare, ai materiale minime și poți lua decizii clare.
-- **Semnal clar că ai nevoie de DIY:** vrei să înveți procesul și să construiești singur, pas cu pas.
+<div class="col-11 col-md-6 me-auto" markdown="1">
+> ### Varianta aceasta DFY : website implementat complet
+> 
+> - **Ce cumperi de fapt:** implementare completă a website-ului WordPress, în proiectul agreat.
+> - **Cine execută:** eu construiesc și configurez website-ul pe baza brief-ului, materialelor și deciziilor tale.
+> - **Rezultatul urmărit:** un website public, coerent și predat complet funcțional.
+> - **Ți se potrivește dacă:** vrei delegare, ai materiale minime și poți lua decizii clare.
+> - **Semnal clar că ai nevoie de DFY:** vrei site-ul făcut complet pentru tine.
+{: .prompt-tip }
+</div>
 
-### Varianta DIY : curs de administrare WordPress
+<div class="col-11 col-md-6 ms-auto" markdown="1">
+> ### [Varianta DIY : curs de administrare WordPress]({% link website/administrare-wordpress.md %})
+> 
+> - **Ce cumperi de fapt:** instruire pentru administrare și mentenanță WordPress.
+> - **Cine execută:** tu aplici pe site-ul tău, cu ghidare și explicații.
+> - **Rezultatul urmărit:** autonomie în administrarea site-ului, cu backup, update-uri și verificări de bază.
+> - **Ți se potrivește dacă:** ai timp să aplici și vrei să reduci dependența pe termen lung.
+> - **Semnal clar că ai nevoie de DIY:** vrei să înveți procesul și să construiești singur, pas cu pas.
+{: .prompt-warning }
+</div>
 
-- **Ce cumperi de fapt:** instruire pentru administrare și mentenanță WordPress.
-- **Cine execută:** tu aplici pe site-ul tău, cu ghidare și explicații.
-- **Rezultatul urmărit:** autonomie în administrarea site-ului, cu backup, update-uri și verificări de bază.
-- **Ți se potrivește dacă:** ai timp să aplici și vrei să reduci dependența pe termen lung.
-- **Semnal clar că ai nevoie de DFY:** vrei site-ul făcut complet pentru tine.
+</div>
 
-Dacă vrei implementarea făcută pentru tine, rămâi pe această pagină. Dacă vrei să înveți să administrezi singur, varianta potrivită este cursul DIY.
+Dacă vrei implementarea făcută pentru tine, rămâi pe această pagină. Dacă vrei să înveți să administrezi singur, varianta potrivită este [cursul DIY]({% link website/administrare-wordpress.md %}).
 
 ---
 
@@ -490,11 +500,11 @@ Primești website-ul într-o formă operabilă și clarificăm ce a fost inclus.
 
 ---
 
-## Condiții de colaborare și reducerea riscului {#sec-08b}
+## Condiții de colaborare și garanție {#sec-08b}
 
-Pentru implementarea DFY, reducerea riscului nu se bazează pe promisiuni generale, ci pe proces: brief, scope, materiale, review, ajustări și predare clară.
+Pentru implementarea DFY, reducerea riscului se bazează pe proces.
 
-### Cum reducem riscul înainte de build
+### Cum reducem riscul înainte de implementare
 
 - clarificăm obiectivul site-ului;
 - stabilim paginile incluse;
@@ -502,9 +512,9 @@ Pentru implementarea DFY, reducerea riscului nu se bazează pe promisiuni genera
 - stabilim ce intră și ce nu intră;
 - blocăm direcția înainte de implementare.
 
-### Cum reducem riscul în timpul build-ului
+### Cum reducem riscul în timpul implementării
 
-- lucrăm pe structura agreată;
+- lucrăm pe structura stabilită;
 - folosim un stack restrâns;
 - evităm pluginuri sau funcții fără rol clar;
 - tratăm schimbările mari ca extensii, nu ca modificări ascunse în proiect.
@@ -512,11 +522,9 @@ Pentru implementarea DFY, reducerea riscului nu se bazează pe promisiuni genera
 ### Cum reducem riscul la predare
 
 - verificăm paginile și navigația;
-- verificăm formularul, dacă este inclus;
+- verificăm formularul de contact;
 - clarificăm ce a fost livrat;
 - separăm ce este în pachet de ce poate fi extins ulterior.
-
-**Important:** pentru această ofertă nu folosesc automat garanția cursurilor DIY. Orice condiție de retur, ajustare sau reluare se aplică doar dacă este menționată explicit în oferta comercială sau în termenii agreați pentru proiect.
 
 ---
 
@@ -536,40 +544,46 @@ Primești confirmarea, checklist-ul de pregătire și linkul pentru programarea 
 
 Ai nevoie de accesurile relevante, obiectivul site-ului, lista de pagini dorite, textele sau materialele disponibile și orice element de identitate vizuală pe care vrei să îl folosim.
 
+Ideal propui unul sau două website-uri model, care să ofere direcția în care să fie construit website-ul tău.
+
 </details>
 
 <details markdown="block">
 <summary><strong>Dacă nu trimit materialele la timp?</strong></summary>
 
-Proiectul poate fi amânat sau limitat la ce se poate construi corect cu materialele disponibile. Fără conținut minim, implementarea nu poate fi tratată ca build complet.
+Proiectul poate fi amânat sau limitat la ce se poate construi corect cu materialele disponibile. Fără conținut minim, implementarea nu poate fi tratată ca implementare completă.
+
+O amânare mai mare de 30 de zile poate duce la o nouă reprogramare pentru finalizarea implementării și costuri suplimentare.
 
 </details>
 
 <details markdown="block">
 <summary><strong>Dacă vreau pagini sau funcții suplimentare?</strong></summary>
 
-Le putem trata ca extensii, după ce este clar ce implică. Nu intră automat în pachetul inițial dacă nu au fost stabilite în brief.
+Le putem trata ca extensii, după ce este clar ce implică. Acestea nu intră automat în pachetul inițial, dar pot fi stabilite în prima ședință.
 
 </details>
 
 <details markdown="block">
 <summary><strong>Pot folosi site-ul după predare?</strong></summary>
 
-Da. Scopul predării este să ai un website publicabil și operabil, cu structură și limite clare. Administrarea recurentă sau mentenanța se stabilesc separat dacă ai nevoie de ele.
+Da. Scopul predării este să ai un website publicabil și operabil, cu structură și limite clare.
+
+Administrarea recurentă sau mentenanța se stabilesc separat dacă ai nevoie de ele.
 
 </details>
 
 <details markdown="block">
-<summary><strong>Cât costă implementarea?</strong></summary>
+<summary><strong>Cât durează și cât costă implementarea?</strong></summary>
 
-Prețul exact și condițiile de plată sunt cele afișate în checkout sau în oferta comercială asociată produsului. Nu introduc aici o sumă dacă nu este documentată explicit.
+Implementarea durează între 2 și 4 săptămâni. Investiția ta este de 1200 de euro.
 
 </details>
 
 <details markdown="block">
 <summary><strong>Dacă îmi dau seama că vreau să învăț să administrez singur?</strong></summary>
 
-Atunci varianta potrivită este DIY: cursul de administrare website WordPress. Această pagină este pentru implementare făcută pentru tine.
+Atunci varianta potrivită este [DIY]({% link website/administrare-wordpress.md %}): cursul de administrare website WordPress. Această pagină este pentru implementare făcută pentru tine.
 
 </details>
 
@@ -583,7 +597,9 @@ Atunci varianta potrivită este DIY: cursul de administrare website WordPress. A
 
 ### Rezervă implementarea website-ului
 
-Primești un website WordPress construit și configurat în limita lucrărilor agreate, cu structură clară, pagini stabilite, review, pregătire pentru publicare și predare operabilă.
+Investiția ta: **1200 €**
+
+În 2...4 săptămâni primești un website WordPress construit și configurat în limita lucrărilor agreate, cu structură clară, pagini stabilite, review, pregătire pentru publicare și predare operabilă.
 
 ### Ce include decizia de cumpărare
 
@@ -599,12 +615,12 @@ După plată primești confirmarea, checklist-ul de pregătire și linkul pentru
 
 ### Rezumat rapid
 
-- website WordPress publicabil;
+- website WordPress public și complet funcțional;
 - structură de pagini și navigație;
 - configurări în limita lucrărilor agreate;
-- review și ajustări în limita brief-ului;
+- verificări și ajustări în limita brief-ului;
 - predare operabilă;
 - extensii tratate separat.
 
-**Este potrivit dacă vrei website-ul implementat complet pentru tine.**  
-Dacă vrei să înveți să îl administrezi singur, ai nevoie de varianta DIY.
+**Este potrivit dacă vrei website-ul implementat complet pentru tine.**
+Dacă vrei să înveți să îl administrezi singur, ai nevoie de varianta [DIY]({% link website/administrare-wordpress.md %}).

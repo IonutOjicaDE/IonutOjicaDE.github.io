@@ -8,6 +8,10 @@ comments: false
 
 Scrie dacă ai o întrebare înainte de cumpărare sau dacă situația ta nu intră clar într-o ofertă DIY/DFY.
 
+## Formular de contact
+
+{% include contact-form.html %}
+
 Email:
 
 {% include protected-contact.html kind="email" label="Arată emailul" %}

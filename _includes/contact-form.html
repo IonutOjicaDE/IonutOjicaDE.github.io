@@ -1,0 +1,130 @@
+{% assign contact_form_api_key = site.contact_form.api_key | default: '' %}
+{% assign contact_form_redirect = site.url | append: '/confirmare/' %}
+
+{% if contact_form_api_key == '' %}
+  <div class="contact-form contact-form--notice" role="note">
+    <p><strong>Formularul de contact trebuie configurat.</strong></p>
+    <p>
+      Adaugă cheia API Static Forms în
+      <code>contact_form.api_key</code> din <code>_config.yml</code>.
+    </p>
+  </div>
+{% else %}
+  <form class="contact-form" action="https://api.staticforms.dev/submit" method="post">
+    <input type="hidden" name="apiKey" value="{{ contact_form_api_key }}">
+    <input type="hidden" name="redirectTo" value="{{ contact_form_redirect }}">
+    <input type="hidden" name="subject" value="Mesaj nou de pe {{ site.title }}">
+    <input type="text" name="honeypot" class="contact-form__honeypot" tabindex="-1" autocomplete="off" aria-hidden="true">
+
+    <div class="contact-form__field">
+      <label for="contact-name">Nume</label>
+      <input id="contact-name" name="name" type="text" autocomplete="name" required>
+    </div>
+
+    <div class="contact-form__field">
+      <label for="contact-email">Email</label>
+      <input id="contact-email" name="email" type="email" autocomplete="email" required>
+    </div>
+
+    <div class="contact-form__field">
+      <label for="contact-phone">Telefon</label>
+      <input id="contact-phone" name="phone" type="tel" autocomplete="tel">
+    </div>
+
+    <div class="contact-form__field">
+      <label for="contact-topic">Domeniu</label>
+      <select id="contact-topic" name="topic" required>
+        <option value="">Alege domeniul</option>
+        <option value="cursuri">Cursuri</option>
+        <option value="magazin">Magazin WooCommerce</option>
+        <option value="website">Website WordPress</option>
+        <option value="email-marketing">Email marketing</option>
+        <option value="altceva">Altceva</option>
+      </select>
+    </div>
+
+    <div class="contact-form__field">
+      <label for="contact-website">Link site existent</label>
+      <input id="contact-website" name="website" type="url" autocomplete="url" placeholder="https://">
+    </div>
+
+    <div class="contact-form__field contact-form__field--full">
+      <label for="contact-message">Mesaj</label>
+      <textarea id="contact-message" name="message" rows="7" required></textarea>
+    </div>
+
+    <div class="contact-form__actions">
+      <button type="submit">Trimite mesajul</button>
+    </div>
+  </form>
+{% endif %}
+
+<style>
+  .contact-form {
+    border: 1px solid var(--main-border-color);
+    border-radius: .5rem;
+    display: grid;
+    gap: 1rem;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    margin: 1rem 0 1.5rem;
+    padding: 1rem;
+  }
+
+  .contact-form--notice {
+    display: block;
+  }
+
+  .contact-form__field {
+    display: flex;
+    flex-direction: column;
+    gap: .35rem;
+  }
+
+  .contact-form__honeypot {
+    display: none;
+  }
+
+  .contact-form__field--full,
+  .contact-form__actions {
+    grid-column: 1 / -1;
+  }
+
+  .contact-form label {
+    color: var(--heading-color);
+    font-weight: 700;
+  }
+
+  .contact-form input,
+  .contact-form select,
+  .contact-form textarea {
+    background: var(--main-bg);
+    border: 1px solid var(--main-border-color);
+    border-radius: .35rem;
+    color: var(--text-color);
+    font: inherit;
+    padding: .55rem .65rem;
+    width: 100%;
+  }
+
+  .contact-form textarea {
+    resize: vertical;
+  }
+
+  .contact-form button {
+    border: 1px solid var(--main-border-color);
+    border-radius: .5rem;
+    background: var(--button-bg);
+    color: var(--link-color);
+    cursor: pointer;
+    font: inherit;
+    font-weight: 700;
+    padding: .65rem .9rem;
+  }
+
+  @media (max-width: 576px) {
+    .contact-form {
+      grid-template-columns: 1fr;
+      padding: .85rem;
+    }
+  }
+</style>

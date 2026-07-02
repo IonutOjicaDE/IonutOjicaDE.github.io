@@ -1,5 +1,5 @@
 {% assign contact_form_api_key = site.contact_form.api_key | default: '' %}
-{% assign contact_form_redirect = site.url | append: '/confirmare/' %}
+{% assign contact_form_redirect = site.url | append: '/contact/confirmare/' %}
 
 {% if contact_form_api_key == '' %}
   <div class="contact-form contact-form--notice" role="note">

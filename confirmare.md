@@ -5,9 +5,9 @@ description: Confirmarea acțiunii trimise și pașii următori.
 permalink: /confirmare/
 toc: false
 comments: false
+robots: noindex, nofollow
+sitemap: false
 ---
-
-# Confirmare
 
 Acțiunea a fost trimisă sau ai ajuns pe pagina de confirmare după un pas anterior.
 
@@ -16,7 +16,5 @@ Acțiunea a fost trimisă sau ai ajuns pe pagina de confirmare după un pas ante
 1. Verifică emailul folosit la trimitere sau cumpărare.
 2. Păstrează confirmarea comenzii, dacă ai cumpărat prin checkout.
 3. Pregătește accesurile, materialele sau întrebările necesare pentru pasul următor.
-
-## Ieșire utilă
 
 Revino la [Acasă]({% link index.html %}) sau trimite un mesaj prin [Contact]({% link _tabs/contact.md %}) dacă ai nevoie de clarificări.

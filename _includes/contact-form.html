@@ -10,7 +10,7 @@
     </p>
   </div>
 {% else %}
-  <form class="contact-form" action="https://api.staticforms.dev/submit" method="post">
+  <form id="staticforms-contact-form" class="contact-form" action="https://api.staticforms.dev/submit" method="post">
     <input type="hidden" name="apiKey" value="{{ contact_form_api_key }}">
     <input type="hidden" name="redirectTo" value="{{ contact_form_redirect }}">
     <input type="hidden" name="subject" value="Mesaj nou de pe {{ site.title }}">
@@ -57,6 +57,16 @@
       <button type="submit">Trimite mesajul</button>
     </div>
   </form>
+
+  <script src="https://www.staticforms.dev/scripts/staticforms.js" defer></script>
+  <script>
+    document.addEventListener('DOMContentLoaded', function () {
+      var form = document.getElementById('staticforms-contact-form');
+      if (form && window.StaticForms) {
+        window.StaticForms.attach(form);
+      }
+    });
+  </script>
 {% endif %}
 
 <style>

@@ -1,5 +1,7 @@
 ---
 layout: tags
+title: Etichete
+permalink: /tags/
 icon: fas fa-tags
 order: 30
 ---

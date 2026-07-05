@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: service
 permalink: "/cursuri/administrare-learndash/"
 source_url: "https://bak.ionutojica.ro/cursuri/administrare-learndash/"
 saved_at: "20260620-211459"
@@ -7,6 +7,8 @@ slug: "cursuri-administrare-learndash"
 content_type: "page"
 title: "Administrare platformă de cursuri (DIY)"
 ---
+
+# Administrare platformă de cursuri (DIY)
 
 ## Pentru cine este / pentru cine nu este
 

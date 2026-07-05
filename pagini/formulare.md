@@ -1,5 +1,8 @@
 ---
+layout: page
 icon: fas fa-brands fa-wpforms
+title: Formulare
+permalink: /formulare/
 categorie: [formulare]
 order: 22
 comments: true

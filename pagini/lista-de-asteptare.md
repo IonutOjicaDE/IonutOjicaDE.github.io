@@ -7,8 +7,6 @@ toc: true
 comments: false
 ---
 
-# Listă de așteptare
-
 Această pagină este pentru interes general sau pentru oferte care nu sunt încă deschise public.
 
 În acest moment, ofertele principale au checkout direct:

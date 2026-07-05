@@ -1,6 +1,8 @@
 ---
+layout: page
 icon: fas fa-pie-chart
 title: Segmente / Liste de contacte
+permalink: /segmente/
 categorie: [segmente]
 order: 23
 comments: true

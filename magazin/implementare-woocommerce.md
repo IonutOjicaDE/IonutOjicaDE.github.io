@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: service
 permalink: "/magazin/implementare-woocommerce/"
 source_url: "https://bak.ionutojica.ro/magazin/implementare-woocommerce/"
 saved_at: "20260620-211459"
@@ -7,6 +7,8 @@ slug: "magazin-implementare-woocommerce"
 content_type: "page"
 title: "Magazin online implementat complet (DFY)"
 ---
+
+# Magazin online implementat complet (DFY)
 
 ## Rezultatul livrat
 

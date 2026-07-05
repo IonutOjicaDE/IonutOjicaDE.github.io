@@ -1,5 +1,8 @@
 ---
+layout: page
 icon: fas fa-video
+title: Webinar
+permalink: /webinar/
 categorie: [webinar]
 order: 27
 comments: true

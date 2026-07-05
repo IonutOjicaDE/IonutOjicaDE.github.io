@@ -1,5 +1,8 @@
 ---
+layout: page
 icon: fas fa-tags
+title: Etichete
+permalink: /etichete/
 categorie: [etichete]
 order: 26
 comments: true

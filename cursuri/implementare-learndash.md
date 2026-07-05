@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: service
 permalink: "/cursuri/implementare-learndash/"
 source_url: "https://bak.ionutojica.ro/cursuri/implementare-learndash/"
 saved_at: "20260620-211459"
@@ -7,6 +7,8 @@ slug: "cursuri-implementare-learndash"
 content_type: "page"
 title: "Platformă de cursuri implementată complet (DFY)"
 ---
+
+# Platformă de cursuri implementată complet (DFY)
 
 ## Rezultatul livrat
 

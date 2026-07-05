@@ -6,6 +6,8 @@ title: "Styleguide"
 description: "Pagină de test pentru stilurile disponibile în Markdown și tema Chirpy."
 toc: true
 comments: false
+robots: noindex, nofollow
+sitemap: false
 ---
 
 Această pagină este pentru verificarea stilurilor disponibile în Markdown, Kramdown, Bootstrap și tema Chirpy, fără CSS personalizat.
@@ -204,6 +206,15 @@ Text scurt sub H6. Folosește foarte rar acest nivel, pentru meta sau delimităr
 ## Butoane
 
 Această secțiune testează clasele Bootstrap / Chirpy disponibile pentru linkuri afișate ca butoane.
+
+### Reguli de folosire
+
+- `.btn-primary` se folosește pentru acțiunea principală a paginii: cumpărare, rezervare, trimitere formular sau continuarea spre checkout.
+- `.btn-secondary` se folosește pentru acțiuni secundare care rămân importante, dar nu sunt pasul principal.
+- `.btn-outline-primary` se folosește pentru alternative apropiate de acțiunea principală: vezi detalii, compară variante, continuă spre o pagină de ofertă.
+- `.btn-outline-secondary` se folosește pentru acțiuni discrete: revenire, navigare secundară, linkuri de context.
+- `.btn-light` și `.btn-dark` se folosesc doar după verificare vizuală pe fundalul concret al paginii, ca să nu apară contrast slab în light/dark mode.
+- `.btn-lg` se folosește pentru CTA-uri finale sau foarte importante. `.btn-sm` se folosește rar, pentru acțiuni compacte în zone secundare.
 
 ### Butoane primare și secundare
 

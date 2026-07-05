@@ -1,5 +1,8 @@
 ---
+layout: page
 icon: fas fa-user
+title: Contacte
+permalink: /contacte/
 categorie: [contacte]
 order: 21
 ---

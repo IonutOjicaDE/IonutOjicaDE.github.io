@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: service
 permalink: "/email/mautic-ses/"
 source_url: "https://bak.ionutojica.ro/email/mautic-ses/"
 saved_at: "20260620-211459"
@@ -7,6 +7,8 @@ slug: "email-mautic-ses"
 content_type: "page"
 title: "Email marketing Mautic + SES (DFY)"
 ---
+
+# Email marketing Mautic + SES (DFY)
 
 ## Rezultatul livrat
 

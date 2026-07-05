@@ -50,9 +50,9 @@ Nu e o alegere între „mai bun” și „mai slab”. Este o alegere între î
 - [Materiale]({% link _tabs/materiale.md %}) — tutoriale, FAQ și arhiva de conținut existentă.
 - [Despre]({% link _tabs/despre.md %}) — modul de lucru și criteriile de potrivire.
 - [Contact]({% link _tabs/contact.md %}) — pentru întrebări sau cazuri care nu se încadrează clar.
-- [Termeni și condiții]({% link termeni-si-conditii.md %}) — cadrul comercial și operațional.
-- [Politică de confidențialitate]({% link politica-de-confidentialitate.md %}) — date colectate, scopuri și drepturi.
-- [Impressum]({% link impressum.md %}) — date de identificare și contact.
+- [Termeni și condiții]({% link pagini/termeni-si-conditii.md %}) — cadrul comercial și operațional.
+- [Politică de confidențialitate]({% link pagini/politica-de-confidentialitate.md %}) — date colectate, scopuri și drepturi.
+- [Impressum]({% link pagini/impressum.md %}) — date de identificare și contact.
 
 ## Pas următor
 

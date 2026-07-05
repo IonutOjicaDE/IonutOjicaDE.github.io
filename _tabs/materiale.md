@@ -10,24 +10,24 @@ Aici rămân tutorialele, FAQ-urile și arhiva de conținut existentă. Nu mută
 
 ## Mautic și email
 
-- [FAQ Mautic]({% link _tabs/faq.md %})
-- [Contacte]({% link _tabs/contacte.md %})
-- [Formulare]({% link _tabs/formulare.md %})
-- [Segmente]({% link _tabs/segmente.md %})
-- [Campanii]({% link _tabs/campanii.md %})
-- [Emailuri]({% link _tabs/emailuri.md %})
-- [Etichete]({% link _tabs/etichete.md %})
-- [Webinar]({% link _tabs/webinar.md %})
+- [FAQ Mautic]({% link pagini/faq.md %})
+- [Contacte]({% link pagini/contacte.md %})
+- [Formulare]({% link pagini/formulare.md %})
+- [Segmente]({% link pagini/segmente.md %})
+- [Campanii]({% link pagini/campanii.md %})
+- [Emailuri]({% link pagini/emailuri.md %})
+- [Etichete]({% link pagini/etichete.md %})
+- [Webinar]({% link pagini/webinar.md %})
 
 ## Website și termeni pentru începători
 
-- [Categorii]({% link _tabs/categories.md %})
-- [Etichete]({% link _tabs/tags.md %})
-- [Arhive]({% link _tabs/archives.md %})
+- [Categorii]({% link pagini/categories.md %})
+- [Etichete]({% link pagini/tags.md %})
+- [Arhive]({% link pagini/archives.md %})
 
 ## Securitate
 
-- [KeePass]({% link _tabs/keepass.md %})
+- [KeePass]({% link pagini/keepass.md %})
 
 ## Oferte curente
 

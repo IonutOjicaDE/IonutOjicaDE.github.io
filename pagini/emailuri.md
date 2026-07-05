@@ -1,5 +1,8 @@
 ---
+layout: page
 icon: fas fa-envelope
+title: Emailuri
+permalink: /emailuri/
 categorie: [emailuri]
 order: 25
 comments: true

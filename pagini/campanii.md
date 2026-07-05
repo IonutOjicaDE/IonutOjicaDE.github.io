@@ -1,6 +1,8 @@
 ---
+layout: page
 icon: fas fa-clock
 title: Campanii / Automatizări
+permalink: /campanii/
 categorie: [campanii]
 order: 24
 comments: true

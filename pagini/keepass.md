@@ -1,5 +1,8 @@
 ---
+layout: page
 icon: fas fa-lock
+title: KeePass
+permalink: /keepass/
 categorie: [keepass]
 order: 28
 image: "/assets/img/keepass/2024-03-20-instalare-keepass.png"

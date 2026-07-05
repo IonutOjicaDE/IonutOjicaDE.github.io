@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: service
 permalink: "/magazin/administrare-woocommerce/"
 source_url: "https://bak.ionutojica.ro/magazin/administrare-woocommerce/"
 saved_at: "20260620-211459"
@@ -7,6 +7,8 @@ slug: "magazin-administrare-woocommerce"
 content_type: "page"
 title: "Administrare magazin online (DIY)"
 ---
+
+# Administrare magazin online (DIY)
 
 ## Pentru cine este / pentru cine nu este
 

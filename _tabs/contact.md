@@ -2,7 +2,7 @@
 icon: fas fa-paper-plane
 title: Contact
 order: 6
-toc: true
+toc: false
 comments: false
 ---
 

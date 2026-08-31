@@ -1,5 +1,5 @@
 ---
-layout: service
+layout: landing-page
 permalink: "/cursuri/administrare-learndash/"
 source_url: "https://bak.ionutojica.ro/cursuri/administrare-learndash/"
 saved_at: "20260620-211459"

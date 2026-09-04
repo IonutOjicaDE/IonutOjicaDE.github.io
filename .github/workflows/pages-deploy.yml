@@ -45,7 +45,10 @@ jobs:
           ruby-version: 3.2
           bundler-cache: true
 
-      - name: Build site
+      - name: Start with a clean production artifact
+        run: rm -rf "_site${{ steps.pages.outputs.base_path }}"
+
+      - name: Build production site
         run: bundle exec jekyll build -d "_site${{ steps.pages.outputs.base_path }}"
         env:
           JEKYLL_ENV: "production"

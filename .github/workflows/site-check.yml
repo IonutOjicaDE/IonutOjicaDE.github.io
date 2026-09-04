@@ -20,10 +20,24 @@ permissions:
 jobs:
   check:
     runs-on: ubuntu-latest
+    outputs:
+      preview_path: ${{ steps.preview-path.outputs.path }}
 
     steps:
       - name: Checkout
         uses: actions/checkout@v7
+
+      - name: Set preview path
+        id: preview-path
+        if: github.event_name == 'pull_request'
+        env:
+          BRANCH_NAME: ${{ github.event.pull_request.head.ref }}
+        run: |
+          preview_path="${BRANCH_NAME##*/}"
+          preview_path="$(printf '%s' "$preview_path" | tr '[:upper:]' '[:lower:]' | sed -E 's/[^a-z0-9]+/-/g; s/^-+//; s/-+$//')"
+
+          test -n "$preview_path"
+          printf 'path=%s\n' "$preview_path" >> "$GITHUB_OUTPUT"
 
       - name: Setup Ruby
         uses: ruby/setup-ruby@v1
@@ -32,12 +46,94 @@ jobs:
           bundler-cache: true
 
       - name: Build site
-        run: bundle exec jekyll build -d _site
         env:
-          JEKYLL_ENV: "production"
+          PREVIEW_PATH: ${{ steps.preview-path.outputs.path }}
+          JEKYLL_ENV: production
+        run: |
+          if [ -n "$PREVIEW_PATH" ]; then
+            bundle exec jekyll build --baseurl "/$PREVIEW_PATH" -d _site
+          else
+            bundle exec jekyll build -d _site
+          fi
 
       - name: Test site
         run: |
           bundle exec htmlproofer _site \
             --disable-external=true \
             --ignore-urls "/^http:\/\/127.0.0.1/,/^http:\/\/0.0.0.0/,/^http:\/\/localhost/"
+
+      - name: Upload preview artifact
+        if: github.event_name == 'pull_request' && github.event.pull_request.head.repo.full_name == github.repository
+        uses: actions/upload-artifact@v4
+        with:
+          name: site-preview-${{ github.event.pull_request.number }}
+          path: _site
+          if-no-files-found: error
+          retention-days: 1
+
+  deploy-preview:
+    if: github.event_name == 'pull_request' && github.event.pull_request.head.repo.full_name == github.repository
+    needs: check
+    runs-on: ubuntu-latest
+    concurrency:
+      group: pages
+      cancel-in-progress: false
+    permissions:
+      contents: read
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: https://ionutojica.ro/${{ needs.check.outputs.preview_path }}/
+
+    steps:
+      - name: Checkout production branch
+        uses: actions/checkout@v7
+        with:
+          ref: ${{ github.event.repository.default_branch }}
+
+      - name: Setup Pages
+        id: pages
+        uses: actions/configure-pages@v6
+
+      - name: Setup Ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: 3.2
+          bundler-cache: true
+
+      - name: Build production site
+        run: bundle exec jekyll build -d "_site${{ steps.pages.outputs.base_path }}"
+        env:
+          JEKYLL_ENV: production
+
+      - name: Download validated preview
+        uses: actions/download-artifact@v5
+        with:
+          name: site-preview-${{ github.event.pull_request.number }}
+          path: preview-site
+
+      - name: Add preview to production artifact
+        env:
+          PREVIEW_PATH: ${{ needs.check.outputs.preview_path }}
+          PAGES_BASE_PATH: ${{ steps.pages.outputs.base_path }}
+        run: |
+          production_site="_site${PAGES_BASE_PATH}"
+
+          mkdir -p "$production_site/$PREVIEW_PATH"
+          cp -a preview-site/. "$production_site/$PREVIEW_PATH/"
+
+      - name: Test combined site
+        run: |
+          bundle exec htmlproofer "_site${{ steps.pages.outputs.base_path }}" \
+            --disable-external=true \
+            --ignore-urls "/^http:\/\/127.0.0.1/,/^http:\/\/0.0.0.0/,/^http:\/\/localhost/"
+
+      - name: Upload preview artifact for GitHub Pages
+        uses: actions/upload-pages-artifact@v5
+        with:
+          path: "_site${{ steps.pages.outputs.base_path }}"
+
+      - name: Deploy preview
+        id: deployment
+        uses: actions/deploy-pages@v5

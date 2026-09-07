@@ -1,5 +1,5 @@
 ---
-layout: service
+layout: landing-page
 permalink: "/website/implementare-wordpress/"
 title: "Website WordPress implementat complet (DFY)"
 description: "Website WordPress publicabil, construit, configurat și predat operabil în scope-ul agreat."

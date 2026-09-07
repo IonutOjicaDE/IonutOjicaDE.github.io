@@ -1,5 +1,5 @@
 ---
-layout: service
+layout: landing-page
 permalink: "/magazin/administrare-woocommerce/"
 source_url: "https://bak.ionutojica.ro/magazin/administrare-woocommerce/"
 saved_at: "20260620-211459"

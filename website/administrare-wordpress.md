@@ -11,6 +11,8 @@ Curs live DIY
 
 # Ai un website publicabil și îl administrezi singur
 
+![Portret Ionuț Ojică](/assets/img/pages/website-administrare-wordpress/hero-administrare-wordpress-800.jpg){: width="400" height="300" .w-25 .right .shadow .rounded-10}
+
 Pentru tine dacă vrei să lucrezi pe propriul website: îl construiești pas cu pas, apoi poți face modificările uzuale, backup-urile și update-urile într-un mod controlat.
 {: .landing-lead}
 
